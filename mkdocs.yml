@@ -1,0 +1,20 @@
+site_name: Interação Humano-Computador - Grupo 01
+site_description: Site do Grupo 01 da disciplina de Interação Humano-Computador
+site_author: Grupo 01
+
+repo_name: Interacao-Humano-Computador/2026.2-Grupo01
+repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo01
+
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
