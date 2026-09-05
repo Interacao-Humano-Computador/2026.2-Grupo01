@@ -1,6 +1,8 @@
+# Avaliação de IHC - Oppia
+
 ## Sobre o projeto
 
-Este repositório é dedicado à documentação de artefatos e do processo de avaliação de IHC do sítio da web <a href="https://www.oppia.org/":>Oppia</a>, um sistema de livre educação, que utiliza um método de identificação de respostas erradas em comum, para prover um percurso personalizado de aprendizado para o aluno. 
+Esta página é dedicada à documentação de artefatos e do processo de avaliação de IHC do sítio da web <a href="https://www.oppia.org/":>Oppia</a>, um sistema de livre educação, que utiliza um método de identificação de respostas erradas em comum, para prover um percurso personalizado de aprendizado para o aluno. 
 
 Esta avaliação ocorre durante o 2° semestre de 2026, sob orientação do professor André Barros de Sales, da disciplina de IHC da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB).
 
@@ -52,3 +54,10 @@ Esta avaliação ocorre durante o 2° semestre de 2026, sob orientação do prof
     </td>
   </tr>
 </table>
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                                       | Autor(es)                                   | Revisor(es) |
+| ------ | ---------- | ----------------------------------------------- | ------------------------------------------- | ----------- |
+| `1.0`  | 04/09/2026 | Criação do git pages                            | [Lucas Sales](https://github.com/lux-sales) |             |
+| `1.1`  | 05/09/2026 | Atualização da descrição do projeto e da equipe | [Lucas Sales](https://github.com/lux-sales) |             |
