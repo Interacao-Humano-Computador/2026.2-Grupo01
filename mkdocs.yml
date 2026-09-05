@@ -23,7 +23,7 @@ theme:
       name: Modo claro
 
 nav:
-  - Início: home.md
+  - Início: index.md
   - Planejamento:
     - Processo de Design: planejamento/processo_de_design.md
     - Site Escolhido: planejamento/site_escolhido.md

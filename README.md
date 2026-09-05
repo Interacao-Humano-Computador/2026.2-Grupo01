@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-Este repositório é dedicado à documentação de artefatos e do processo de avaliação de IHC do sítio da web <a href="https://www.oppia.org/":>Oppia</a>, um sistema de livre educação, que utiliza um método de identificação de respostas erradas em comum, para prover um percurso personalizado de aprendizado para o aluno. 
+Este repositório é dedicado à documentação de artefatos e do processo de avaliação de IHC do sítio da web [Oppia](https://www.oppia.org/), um sistema de livre educação, que utiliza um método de identificação de respostas erradas em comum, para prover um percurso personalizado de aprendizado para o aluno.
 
 Esta avaliação ocorre durante o 2° semestre de 2026, sob orientação do professor André Barros de Sales, da disciplina de IHC da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB).
 

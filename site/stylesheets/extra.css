@@ -1,0 +1,18 @@
+.team-table {
+  width: 100%;
+  border: none;
+}
+
+.team-table td {
+  border: none;
+  text-align: center;
+  vertical-align: top;
+}
+
+.team-avatar {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
