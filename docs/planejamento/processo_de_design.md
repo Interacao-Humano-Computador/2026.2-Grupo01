@@ -15,11 +15,11 @@ Existem várias propostas de processos de design de IHC, cada uma atendente uma 
 
 Analisando os processos disponíveis na literatura, são encontrados diversos modelos com formas diferentes de realizar as atividades de design, um dos modelos que houve maior compreensão de seus processos e detalhamento de atividades pelo grupo, foi a **Engenharia de Usabilidade de Mayhew**, com três fases do processo iterativo:
 
-1. Análise de requisitos: 
-   Onde são definidas as metas de usabilidade com base no perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma.
-2. Design, avaliação e desenvolvimento:
+1.  Análise de requisitos: 
+    Onde são definidas as metas de usabilidade com base no perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma.
+2.  Design, avaliação e desenvolvimento:
     Conceber uma solução de IHC que atenda às metas de usabilidade previamente estabelecidas, sendo que este processo propõe projetar a solução em três níveis de detalhes. No primeiro, o designer realiza a reengenharia do trabalho, repensando a execução das tarefas. No segundo nível, são estabelecidos padrões de design de IHC para a solução concebida. No terceiro e útltimo nível, é realizado o projeto detalhado da interface.
-3\. Instalação:
+3.  Instalação:
 
     Coleta opiniões dos usuários após um período de tempo.
 
@@ -45,6 +45,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es) |
-| ------ | ---------- | ------------------ | ------------------------------------------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página. | [Lucas Sales](https://github.com/lux-sales) |             |
+| Versão | Data       | Descrição          | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | ------------------ | ----------- | ---------------- |
+| `1.0`  | 05/09/2026 | Criação da página. | Lucas Sales | Luccas Rodrigues |

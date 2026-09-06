@@ -1,5 +1,7 @@
 ## Ferramentas escolhidas e utilizadas
 
+O desenvolvimento de um projeto de Interação Humano-Computador (IHC) demanda o emprego articulado de recursos tecnológicos e computacionais para apoiar desde a fase de planejamento, elicitação de requisitos e prototipação até a consolidação da documentação técnica e comunicação síncrona/assíncrona entre os integrantes da equipe.
+
 Abaixo estão descritas as ferramentas de software que foram utilizadas ao longo do projeto e as Entregas nas quais foram empregadas.
 
 | Ferramenta | Descrição e Finalidade no Projeto | Entregas em que foi Utilizada |
@@ -24,10 +26,13 @@ Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação
 
 ## Referências bibliográficas
 
-SBC (Sociedade Brasileira de Computação). Código de Conduta da SBC, Parte II, Art. 2º, parágrafo III. Declaração ética e uso de IA Generativa. Porto Alegre, RS, 2013.
+1. SBC (Sociedade Brasileira de Computação). Código de Conduta da SBC, Parte II, Art. 2º, parágrafo III. Declaração ética e uso de IA Generativa. Porto Alegre, RS, 2013.
+2. BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueiro. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Autopublicação, 2021.
+3. PREFEITURA MUNICIPAL DE NOVA IORQUE. **Ferramentas do Projeto de IHC**. Grupo 06 (2024.2), Faculdade UnB Gama. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/planejamento/ferramentas>. Acesso em: 06 set. 2026.
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição                  | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | -------------------------- | ---------------- | ---------------- |
-| `1.0`  | 06/09/2026 | Criação da página.         | Luccas Rodrigues |                  |
+| `1.0`  | 06/09/2026 | Criação da página.         | Luccas Rodrigues |    Igor Alves    |
+| `1.1`  | 06/09/2026 | Atualização da página.     | Luccas Rodrigues |    Igor Alves    |
