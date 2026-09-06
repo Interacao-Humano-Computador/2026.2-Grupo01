@@ -28,6 +28,8 @@ nav:
     - Processo de Design: planejamento/processo_de_design.md
     - Site Escolhido: planejamento/site_escolhido.md
     - Sites avaliados: planejamento/sites_avaliados.md
+    - Reuniões: reunioes.md
+    - Apresentação: apresentacao.md
 
 markdown_extensions:
   - admonition
