@@ -146,14 +146,21 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
 
 Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estruturados nas seguintes fases de avaliação:
 
-* **Etapa 1: Planejamento do Projeto e Processo de Design**
+* * **Etapa 1: Planejamento do Projeto e Processo de Design**
+
   * [Heatmap de Disponibilidade](planejamento/heatmap.md)
-  * [Sites Candidatos Avaliados](planejamento/sites-avaliados.md)
-  * [Site Selecionado (Oppia)](planejamento/site-selecionado.md)
-  * [Processo de Design Escolhido](planejamento/processo-design.md)
+
+  * [Sites Candidatos Avaliados](planejamento/sites_avaliados.md)
+
+  * [Site Selecionado (Oppia)](planejamento/site_escolhido.md)
+
+  * [Processo de Design Escolhido](planejamento/processo_de_design.md)
+
   * [Ferramentas Utilizadas](planejamento/ferramentas.md)
-  * [Cronograma Geral (Planejado e Executado)](planejamento/cronograma.md)
-  * [Atas de Reunião](atas/atas.md)
+
+  * [Cronograma Geral (Planejado e Executado)](planejamento/cronograma/cronograma_planejado.md)
+
+  * [Atas de Reunião](atas/reunioes.md)
 * **Etapa 2: Análise de Requisitos e Perfil do Usuário**
   * Perfil do Usuário, Aspectos Éticos (TCLE), Personas, Cenários e Análise de Tarefas (HTA e GOMS/CTT).
 * **Etapa 3: Metas de Usabilidade e Guia de Estilo**
