@@ -1,31 +1,102 @@
-## Introdução
+# Sites Candidatos Avaliados
 
-Abaixo estão dispostos os sites avaliados pelos integrantes do grupo, assim como o acesso para cada um deles.
+## 1. Introdução
 
-<p style="text-align: left">Tabela 1: Tabela de sites avaliados.</p>
+Abaixo estão dispostos os sites avaliados pelos integrantes do grupo, assim como o acesso para cada um deles e a síntese das avaliações realizadas para subsidiar a escolha do objeto de estudo da disciplina[cite: 3].
 
+A Tabela 1 relaciona os sítios inspecionados e os respectivos responsáveis pela condução das análises[cite: 3].
 
+<div align="center">
 
-|                                     Site avaliado                                      |             Membro que fez a avaliação              |
-| :------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| [Câmara Municipal de Serra da Saudade - MG ](#camara-municipal-de-serra-da-saudade-mg) | [Lucas Sales Ribeiro](https://github.com/lux-sales) |
+<p><strong>Tabela 1:</strong> Tabela de sites avaliados</p>
 
+<table>
+  <thead>
+    <tr>
+      <th align="center">Site Avaliado</th>
+      <th align="center">Membro que Realizou a Avaliação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="#2-camara-municipal-de-serra-da-saudade-mg">Câmara Municipal de Serra da Saudade - MG</a></td>
+      <td align="center"><a href="https://github.com/lux-sales">Lucas Sales Ribeiro</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="#3-oppia">Oppia</a></td>
+      <td align="center"><a href="https://github.com/Igor-Alves-Abreu">Igor Alves de Abreu</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<p><em>Fonte: Autores (2026)[cite: 3].</em></p>
 
-## Câmara Municipal de Serra da Saudade - MG
+</div>
 
-O responsável pelo planejamento e avaliação foi o integrante [Lucas Sales Ribeiro](https://github.com/lux-sales)
+---
 
-No planejamento foi definido inspecionar a seção de notícias e eventos do sítio da web, por meio de uma avaliação heurística, para analisar se as heurísticas de Nielsen estavam sendo violadas ou não, afim de avaliar a usabiliade do sistema.
+## 2. Câmara Municipal de Serra da Saudade - MG
 
-A metodologia da avaliação foi de definir tarefas que o usuário pode fazer, como buscar notícias, procurar a notícia mais recente. Após a definição, foram observados problemas de usabilidade e algumas violações das heurísitcas de Nielsen.
+O responsável pelo planejamento e avaliação foi o integrante [Lucas Sales Ribeiro](https://github.com/lux-sales).
 
-Link para visualização completa do planejamento da avaliação: [Planejamento da Avaliação Serra da Saudade - MG](planejamentos/planejamento_serra_da_saudade.pdf)
+No planejamento foi definido inspecionar a seção de notícias e eventos do sítio da web, por meio de uma avaliação heurística, para analisar se as heurísticas de Nielsen estavam sendo violadas ou não, a fim de avaliar a usabilidade do sistema.
 
-Link para visualização completa da avaliação: [Avaliação Serra da Saudade - MG](avaliacoes/avaliacao_serra_da_saudade.pdf)
+A metodologia da avaliação foi de definir tarefas que o usuário pode fazer, como buscar notícias, procurar a notícia mais recente[cite: 2]. Após a definição, foram observados problemas de usabilidade e algumas violações das heurísticas de Nielsen[cite: 2].
 
+* **Planejamento da Avaliação:** [Planejamento Serra da Saudade - MG](planejamentos/planejamento_serra_da_saudade.pdf)[cite: 2]
+* **Relato da Avaliação:** [Avaliação Serra da Saudade - MG](avaliacoes/avaliacao_serra_da_saudade.pdf)
 
+---
 
-| Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es) |
-| ------ | ---------- | ------------------ | ------------------------------------------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página. | [Lucas Sales](https://github.com/lux-sales) |             |
+## 3. Oppia
+
+O responsável pelo planejamento e avaliação foi o integrante [Igor Alves de Abreu](https://github.com/Igor-Alves-Abreu)[cite: 1].
+
+No planejamento adotou-se o Framework DECIDE (Barbosa e Silva, 2021) com o objetivo de identificar problemas na interação e na interface. O escopo delimitou-se ao fluxo de um estudante novato na resolução de lições interativas, verificando a exploração no catálogo de tópicos, a tela de execução de exercícios e a clareza pedagógica das mensagens imediatas de erro e dicas (*hints*)[cite: 1].
+
+A metodologia fundamenta-se na Avaliação Heurística de Nielsen (1994), aplicando duas passagens sistemáticas pela interface para diagnosticar falhas de visibilidade de status, consistência de comandos e sobrecarga visual[cite: 1].
+
+* **Planejamento da Avaliação:** [Planejamento Oppia](planejamentos/planejamento_igor.pdf)[cite: 1]
+* **Relato da Avaliação:** *Em desenvolvimento*
+
+---
+
+## 4. Histórico de Versão
+
+A Tabela 2 apresenta o histórico de revisões desta página[cite: 3].
+
+<div align="center">
+
+<p><strong>Tabela 2:</strong> Histórico de Versões do Documento</p>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Versão</th>
+      <th align="center">Data</th>
+      <th align="left">Descrição da Alteração</th>
+      <th align="center">Autor(es)</th>
+      <th align="center">Revisor(es)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><code>1.0</code></td>
+      <td align="center">05/09/2026</td>
+      <td align="left">Criação da página e inclusão da avaliação da Câmara Municipal de Serra da Saudade</td>
+      <td align="center"><a href="https://github.com/lux-sales">Lucas Sales</a></td>
+      <td align="center"><a href="https://github.com/Igor-Alves-Abreu">Igor Alves de Abreu</a></td>
+    </tr>
+    <tr>
+      <td align="center"><code>1.1</code></td>
+      <td align="center">06/09/2026</td>
+      <td align="left">Inclusão do planejamento da avaliação da plataforma Oppia por Igor Abreu e padronização das tabelas</td>
+      <td align="center"><a href="https://github.com/Igor-Alves-Abreu">Igor Alves de Abreu</a></td>
+      <td align="center"><a href="https://github.com/lux-sales">Lucas Sales</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Fonte: Autores (2026)[cite: 3].</em></p>
+
+</div>

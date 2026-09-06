@@ -1,35 +1,45 @@
 site_name: Interação Humano-Computador - Grupo 01
+
 site_description: Site do Grupo 01 da disciplina de Interação Humano-Computador
+
 site_author: Grupo 01
 
 repo_name: Interacao-Humano-Computador/2026.2-Grupo01
-repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo01
 
+repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo01
 
 theme:
   name: material
   language: pt-BR
 
   palette:
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    toggle:
-      icon: material/weather-sunny
-      name: Modo escur
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    toggle:
-      icon: material/weather-night
-      name: Modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Modo claro
 
 nav:
   - Início: index.md
+
   - Planejamento:
+    - Heatmap: planejamento/heatmap.md
     - Processo de Design: planejamento/processo_de_design.md
+    - Ferramentas: planejamento/ferramentas.md
     - Site Escolhido: planejamento/site_escolhido.md
-    - Sites avaliados: planejamento/sites_avaliados.md
-    - Reuniões: reunioes.md
-    - Apresentação: apresentacao.md
+    - Sites Avaliados: planejamento/sites_avaliados.md
+
+  - Atas e Apresentações: atas/reunioes.md
+
+  - Reuniões: reunioes.md
+
+  - Apresentação: apresentacao.md
 
 markdown_extensions:
   - admonition
