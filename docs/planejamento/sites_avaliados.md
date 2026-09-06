@@ -56,7 +56,7 @@ No planejamento adotou-se o Framework DECIDE (Barbosa e Silva, 2021) com o objet
 
 A metodologia fundamenta-se na Avaliação Heurística de Nielsen (1994), aplicando duas passagens sistemáticas pela interface para diagnosticar falhas de visibilidade de status, consistência de comandos e sobrecarga visual.
 
-* **Planejamento da Avaliação:** [Planejamento Oppia](planejamentos/planejamento_igor.pdf)
+**Planejamento da Avaliação:** <a href="planejamentos/planejamento_igor.pdf">Planejamento Oppia</a>
 * **Relato da Avaliação:** *Em desenvolvimento*
 
 ---
