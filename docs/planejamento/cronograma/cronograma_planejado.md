@@ -16,15 +16,9 @@
 | **1.10**| **Etapa 1** | **Itens de Conteúdo:** Elaboração individual dos itens teóricos obrigatórios, com fundamentação científica e imagens digitalizadas das fontes. | 06/09/2026 | 06/09/2026 | | | |
 | **1.11**| **Etapa 1** | **Inspeção de Pares:** Rodada de inspeção heurística da Entrega 1 realizada pelo professor, monitores e pelo grupo parceiro (Grupo +1). | 07/09/2026 | 07/09/2026 | | | |
 | **2.1** | **Etapa 2** | **Perfil do Usuário:** Planejamento de dados demográficos, experiência, atitudes e contexto organizacional do usuário típico do sistema. | 08/09/2026 | 13/09/2026 | | | | 
-<!-- 
-| **2.1** | **Etapa 2** | **Perfil do Usuário:** Planejamento de dados demográficos, experiência, atitudes e contexto organizacional do servidor típico do órgão. | 08/09/2026 | 13/09/2026 | | | |
--->
 | **2.2** | **Etapa 2** | **Concepção Ética:** Elaboração das diretrizes e redação do Termo de Consentimento Livre e Esclarecido (TCLE) com base nas resoluções CNS 466/12 e 510/16. | 13/09/2026 | 15/09/2026 | | | |
 | **2.3** | **Etapa 2** | **Elicitação de Requisitos:** Aplicação de no mínimo duas técnicas de levantamento de dados de IHC sem acesso direto ao sistema (via dados estáticos/entrevistas). | 15/09/2026 | 19/09/2026 | | | |
 | **2.4** | **Etapa 2** | **Cenários de Uso:** Escrita de cenários narrativos detalhados descrevendo a realidade de uso do Oppia por comunidades escolares. | 19/09/2026 | 21/09/2026 | | | |
-<!--
-| **2.4** | **Etapa 2** | **Cenários de Uso:** Escrita de cenários narrativos detalhados descrevendo as jornadas administrativas típicas mapeadas no SDA. | 19/09/2026 | 21/09/2026 | | | |
--->
 | **2.5** | **Etapa 2** | **Modelagem (HTA):** Especificação das tarefas de todos os integrantes usando a técnica de Análise Hierárquica de Tarefas (com diagrama, legenda e tabela). | 21/09/2026 | 23/09/2026 | | | |
 | **2.6** | **Etapa 2** | **Modelagem (GOMS):** Especificação das tarefas de todos os integrantes usando a técnica GOMS/KLM, CMN-GOMS ou CTT. | 23/09/2026 | 25/09/2026 | | | |
 | **2.7** | **Etapa 2** | **Consolidação de Artefatos:** Atualização das atas, históricos de versões, tabelas legendadas e conformidade técnica no GitHub Pages. | 25/09/2026 | 26/09/2026 | | | |
@@ -47,6 +41,11 @@
 | **4.6** | **Etapa 4** | **Vídeo e Contribuições:** Gravação da apresentação em vídeo da Etapa 4 (YouTube - Não Listado), tabela de contribuições e sincronização no Aprender3. | 12/10/2026 | 13/10/2026 | | | |
 | **4.7** | **Etapa 4** | **Itens de Conteúdo:** Elaboração individual dos itens teóricos sobre avaliações formativas, testes com storyboards e teste piloto (com fontes e fotos). | 07/10/2026 | 13/10/2026 | | | |
 | **4.8** | **Etapa 4** | **Inspeção de Pares:** Rodada de inspeção heurística da Entrega 4 realizada pelo professor, monitores e pelo grupo parceiro (Grupo +1). | 14/10/2026 | 14/10/2026 | | | |
+
+<!--
+| **2.1** | **Etapa 2** | **Perfil do Usuário:** Planejamento de dados demográficos, experiência, atitudes e contexto organizacional do servidor típico do órgão. | 08/09/2026 | 13/09/2026 | | | |
+| **2.4** | **Etapa 2** | **Cenários de Uso:** Escrita de cenários narrativos detalhados descrevendo as jornadas administrativas típicas mapeadas no SDA. | 19/09/2026 | 21/09/2026 | | | |
+-->
 
 ## Referências bibliográficas
 
