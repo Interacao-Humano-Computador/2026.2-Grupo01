@@ -20,7 +20,7 @@ Abaixo estão descritas as ferramentas de software que foram utilizadas ao longo
 
 ### Declaração de Uso de IA Generativa
 
-Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), em sua Parte II, Art. 2º, parágrafo III, informa-se que a ferramenta de Inteligência Artificial Generativa Gemini e Gemini Notebook foram utilizados neste trabalho. As ferramentas foram empregadas exclusivamente para as atividades de auxílio e revisão da redação do conteúdo textual. Ressalta-se que o uso desta tecnologia não exime os autores da responsabilidade integral sobre todo o conteúdo do projeto.
+Em conformidade com o Código de Conduta da Sociedade Brasileira de Computação (SBC), em sua Parte II, Art. 2º, parágrafo III, informa-se que as ferramentas de Inteligência Artificial Generativa Gemini e Gemini Notebook foram utilizadas neste trabalho. As ferramentas foram empregadas como apoio à revisão e ao aprimoramento da redação, à elaboração de ideias e à análise dos conteúdos relacionados ao projeto. Ressalta-se que o uso dessas tecnologias não exime os autores da responsabilidade integral sobre todo o conteúdo do projeto.
 
 ## Referências bibliográficas
 

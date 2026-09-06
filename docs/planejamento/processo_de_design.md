@@ -19,10 +19,21 @@ Analisando os processos disponíveis na literatura, são encontrados diversos mo
    Onde são definidas as metas de usabilidade com base no perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma.
 2. Design, avaliação e desenvolvimento:
     Conceber uma solução de IHC que atenda às metas de usabilidade previamente estabelecidas, sendo que este processo propõe projetar a solução em três níveis de detalhes. No primeiro, o designer realiza a reengenharia do trabalho, repensando a execução das tarefas. No segundo nível, são estabelecidos padrões de design de IHC para a solução concebida. No terceiro e útltimo nível, é realizado o projeto detalhado da interface.
-3. Instalação:
+3\. Instalação:
+
     Coleta opiniões dos usuários após um período de tempo.
 
-    ![Engenharia de usabilidade de Mayhew](../assets/engenharia-de-mayhew.png)
+    Conforme apresentado na Figura 1, a Engenharia de Usabilidade de Mayhew organiza o processo de design em diferentes fases.
+
+    <div align="center">
+
+    <img src="../assets/engenharia-de-mayhew.png" alt="Engenharia de Usabilidade de Mayhew"/>
+
+    <p><strong>Figura 1 – Engenharia de Usabilidade de Mayhew.</strong></p>
+
+    <p><em>Fonte: Barbosa et al. (2021).</em></p>
+
+    </div>
 
 Desta forma, pelo nível de detalhes apresentados, foi escolhida a **Engenharia de Usabilidade de Mayhew** para orientar a execução desta avaliação de IHC.
 

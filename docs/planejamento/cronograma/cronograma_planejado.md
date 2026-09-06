@@ -2,7 +2,12 @@
 
 
 
+A Tabela 1 apresenta o cronograma detalhado das atividades previstas para as quatro etapas do projeto de IHC.
+
 | ID | Etapa | Atividade Detalhada (Baseada nas Listas de Verificação) | Data de Início | Data de Fim | Responsável(eis) | Revisor(es) | Técnica Utilizada |
+<p><strong>Tabela 1:</strong> Cronograma detalhado do projeto de IHC — 4 etapas.</p>
+
+<p><em>Fonte: Autores (2026).</em></p>
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1.1** | **Etapa 1** | **Planejamento Geral:** Identificação dos membros e criação do Heatmap de disponibilidade síncrona do grupo. | 31/08/2026 | 31/08/2026 | | | |
 | **1.2** | **Etapa 1** | **Varredura de Sítios:** Análise preliminar, avaliação exploratória e montagem da lista de todos os sítios candidatos avaliados pelo grupo. | 31/08/2026 | 03/09/2026 | | | |

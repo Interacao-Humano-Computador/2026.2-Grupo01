@@ -2,9 +2,9 @@
 
 ## 1. Introdução
 
-Abaixo estão dispostos os sites avaliados pelos integrantes do grupo, assim como o acesso para cada um deles e a síntese das avaliações realizadas para subsidiar a escolha do objeto de estudo da disciplina[cite: 3].
+Abaixo estão dispostos os sites avaliados pelos integrantes do grupo, assim como o acesso para cada um deles e a síntese das avaliações realizadas para subsidiar a escolha do objeto de estudo da disciplina.
 
-A Tabela 1 relaciona os sítios inspecionados e os respectivos responsáveis pela condução das análises[cite: 3].
+A Tabela 1 relaciona os sítios inspecionados e os respectivos responsáveis pela condução das análises.
 
 <div align="center">
 
@@ -29,7 +29,7 @@ A Tabela 1 relaciona os sítios inspecionados e os respectivos responsáveis pel
   </tbody>
 </table>
 
-<p><em>Fonte: Autores (2026)[cite: 3].</em></p>
+<p><em>Fonte: Autores (2026).</em></p>
 
 </div>
 
@@ -41,29 +41,29 @@ O responsável pelo planejamento e avaliação foi o integrante [Lucas Sales Rib
 
 No planejamento foi definido inspecionar a seção de notícias e eventos do sítio da web, por meio de uma avaliação heurística, para analisar se as heurísticas de Nielsen estavam sendo violadas ou não, a fim de avaliar a usabilidade do sistema.
 
-A metodologia da avaliação foi de definir tarefas que o usuário pode fazer, como buscar notícias, procurar a notícia mais recente[cite: 2]. Após a definição, foram observados problemas de usabilidade e algumas violações das heurísticas de Nielsen[cite: 2].
+A metodologia da avaliação foi de definir tarefas que o usuário pode fazer, como buscar notícias, procurar a notícia mais recente. Após a definição, foram observados problemas de usabilidade e algumas violações das heurísticas de Nielsen.
 
-* **Planejamento da Avaliação:** [Planejamento Serra da Saudade - MG](planejamentos/planejamento_serra_da_saudade.pdf)[cite: 2]
+* **Planejamento da Avaliação:** [Planejamento Serra da Saudade - MG](planejamentos/planejamento_serra_da_saudade.pdf)
 * **Relato da Avaliação:** [Avaliação Serra da Saudade - MG](avaliacoes/avaliacao_serra_da_saudade.pdf)
 
 ---
 
 ## 3. Oppia
 
-O responsável pelo planejamento e avaliação foi o integrante [Igor Alves de Abreu](https://github.com/Igor-Alves-Abreu)[cite: 1].
+O responsável pelo planejamento e avaliação foi o integrante [Igor Alves de Abreu](https://github.com/Igor-Alves-Abreu).
 
-No planejamento adotou-se o Framework DECIDE (Barbosa e Silva, 2021) com o objetivo de identificar problemas na interação e na interface. O escopo delimitou-se ao fluxo de um estudante novato na resolução de lições interativas, verificando a exploração no catálogo de tópicos, a tela de execução de exercícios e a clareza pedagógica das mensagens imediatas de erro e dicas (*hints*)[cite: 1].
+No planejamento adotou-se o Framework DECIDE (Barbosa e Silva, 2021) com o objetivo de identificar problemas na interação e na interface. O escopo delimitou-se ao fluxo de um estudante novato na resolução de lições interativas, verificando a exploração no catálogo de tópicos, a tela de execução de exercícios e a clareza pedagógica das mensagens imediatas de erro e dicas (*hints*).
 
-A metodologia fundamenta-se na Avaliação Heurística de Nielsen (1994), aplicando duas passagens sistemáticas pela interface para diagnosticar falhas de visibilidade de status, consistência de comandos e sobrecarga visual[cite: 1].
+A metodologia fundamenta-se na Avaliação Heurística de Nielsen (1994), aplicando duas passagens sistemáticas pela interface para diagnosticar falhas de visibilidade de status, consistência de comandos e sobrecarga visual.
 
-* **Planejamento da Avaliação:** [Planejamento Oppia](planejamentos/planejamento_igor.pdf)[cite: 1]
+* **Planejamento da Avaliação:** [Planejamento Oppia](planejamentos/planejamento_igor.pdf)
 * **Relato da Avaliação:** *Em desenvolvimento*
 
 ---
 
 ## 4. Histórico de Versão
 
-A Tabela 2 apresenta o histórico de revisões desta página[cite: 3].
+A Tabela 2 apresenta o histórico de revisões desta página.
 
 <div align="center">
 
@@ -97,6 +97,6 @@ A Tabela 2 apresenta o histórico de revisões desta página[cite: 3].
   </tbody>
 </table>
 
-<p><em>Fonte: Autores (2026)[cite: 3].</em></p>
+<p><em>Fonte: Autores (2026).</em></p>
 
 </div>
