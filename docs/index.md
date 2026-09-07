@@ -105,7 +105,7 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
     </tr>
     <tr>
       <td align="left"><strong>Lucas Sales Ribeiro</strong></td>
-      <td align="left">Configuração inicial do MkDocs / GitHub Pages e elaboração da descrição inicial do projeto e da equipe</td>
+      <td align="left">Configuração inicial do MkDocs / GitHub Pages e elaboração da descrição inicial do projeto e da equipe, estruturação e justificativa teórica do ciclo de vida e Processo de Design adotado</td>
       <td align="center">Autor</td>
       <td align="center"><a href="./">Index</a></td>
     </tr>
@@ -117,7 +117,7 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
     </tr>
     <tr>
       <td align="left"><strong>Evellyn de Sousa Rocha</strong></td>
-      <td align="left">Estruturação e justificativa teórica do ciclo de vida e Processo de Design adotado</td>
+      <td align="left"></td>
       <td align="center">Autora</td>
       <td align="center"><a href="planejamento/processo_de_design/">Processo de Design</a></td>
     </tr>
@@ -221,6 +221,12 @@ A Tabela 3 registra as iterações e aprimoramentos realizados nesta página ini
       <td align="center">06/09/2026</td>
       <td align="left">Inclusão da Tabela de Contribuições (com atividades de Igor Abreu), numeração de legendas/fontes e mapa de navegação das entregas</td>
       <td align="center"><a href="https://github.com/Igor-Alves-Abreu">Igor Alves de Abreu</a></td>
+      <td align="center"><a href="https://github.com/Lux-Sales">Lucas Sales</a></td>
+    </tr>
+        <tr>
+      <td align="center"><code>1.3</code></td>
+      <td align="center">06/09/2026</td>
+      <td align="left">Update de tarefa</td>
       <td align="center"><a href="https://github.com/Lux-Sales">Lucas Sales</a></td>
     </tr>
   </tbody>

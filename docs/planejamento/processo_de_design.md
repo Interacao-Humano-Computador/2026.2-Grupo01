@@ -27,8 +27,7 @@ Analisando os processos disponíveis na literatura, são encontrados diversos mo
 
     <div align="center">
 
-    <img src="../assets/engenharia-de-mayhew.png" alt="Engenharia de Usabilidade de Mayhew"/>
-
+    ![Engenharia de usabilidade de Mayhew](../assets/engenharia-de-mayhew.png)
     <p><strong>Figura 1 – Engenharia de Usabilidade de Mayhew.</strong></p>
 
     <p><em>Fonte: Barbosa et al. (2021).</em></p>
