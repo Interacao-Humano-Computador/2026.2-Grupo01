@@ -17,7 +17,7 @@ A tabela abaixo registra a divisão de tarefas, a responsabilidade de execução
 | **Processo de Design** (Justificativa e fontes da Engenharia de Mayhew) | Lucas Sales | [Processo de Design](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/processo_de_design/) | N/A |
 | **Cronograma do Projeto** (Tabela com prazos planejados e executados) | Luccas Rodrigues e Rayca Yorrara | [Cronograma Planejado](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/cronograma/cronograma_planejado/) | N/A |
 | **Configuração da Página** (MkDocs no GitHub Pages + Contraste de cores) | Todos | N/A | N/A |
-| **Atas de Reuniões** (Registro formal e gravação das reuniões síncronas) | Todos | [Atas e Apresentações](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/) | |
+| **Atas de Reuniões** (Registro formal e gravação das reuniões síncronas) | João Paulo e Evellyn Rocha | [Atas e Apresentações](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/) | |
 | **Seção de Agradecimentos** (Declaração de uso de IA nos termos da SBC) | Luccas Rodrigues | [Declaração de Uso de IA Generativa](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas_utilizadas/#declaracao-de-uso-de-ia-generativa) | N/A |
 | **Vídeo de Apresentação da Entrega 1** (Gravação e upload no YouTube) | Todos | [Gravação da Apresentação da Entrega 1](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/#2-gravacao-da-apresentacao-da-etapa-1) | |
 <!--
