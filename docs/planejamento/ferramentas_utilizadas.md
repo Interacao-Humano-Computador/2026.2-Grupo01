@@ -21,7 +21,7 @@ Abaixo estão descritas as ferramentas de software que foram utilizadas ao longo
 
 1. SBC (Sociedade Brasileira de Computação). Código de Conduta da SBC, Parte II, Art. 2º, parágrafo III. Declaração ética e uso de IA Generativa. Porto Alegre, RS, 2013.
 2. BARBOSA, Simone Diniz Junqueiro; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueiro. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Autopublicação, 2021.
-3. PREFEITURA MUNICIPAL DE NOVA IORQUE. **Ferramentas do Projeto de IHC**. Grupo 06 (2024.2), Faculdade UnB Gama. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/planejamento/ferramentas>. Acesso em: 06 set. 2026.
+
 
 ## Histórico de versão
 
