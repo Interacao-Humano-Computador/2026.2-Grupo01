@@ -156,7 +156,7 @@ Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estrut
 
   * [Processo de Design Escolhido](planejamento/processo_de_design.md)
 
-  * [Ferramentas Utilizadas](planejamento/ferramentas.md)
+  * [Ferramentas Utilizadas](planejamento/ferramentas_utilizadas.md)
 
   * [Cronograma Geral (Planejado e Executado)](planejamento/cronograma/cronograma_planejado.md)
 

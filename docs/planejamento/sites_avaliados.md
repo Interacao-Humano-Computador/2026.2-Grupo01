@@ -60,7 +60,7 @@ A metodologia de avaliação foi a Avaliação Heurística de Nielsen (método a
  
 Link para visualização completa do planejamento da avaliação: [Planejamento da Avaliação Oppia](planejamentos/planejamento_oppia.pdf)
  
-Link para visualização completa da avaliação: [Avaliação Oppia](avaliacoes/avaliacao_oppia.pdf)
+Link para visualização completa da avaliação:
  
  
 ## Portal de Serviços do Governo Federal (Conta Gov)
