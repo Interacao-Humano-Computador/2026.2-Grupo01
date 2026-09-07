@@ -39,10 +39,6 @@ nav:
 
   - Atas e Apresentações: atas/reunioes.md
 
-  - Reuniões: reunioes.md
-
-  - Apresentação: apresentacao.md
-
 markdown_extensions:
   - admonition
   - attr_list
