@@ -119,7 +119,6 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
       <td align="left"><strong>Evellyn de Sousa Rocha</strong></td>
       <td align="left">Gravação e upload no youtube</td>
       <td align="center">Autora</td>
-      <td align="center"><a href="planejamento/processo_de_design/">Processo de Design</a></td>
     </tr>
     <tr>
       <td align="left"><strong>João Paulo da Silva Pereira</strong></td>
