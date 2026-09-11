@@ -13,12 +13,12 @@ A tabela abaixo registra a divisão de tarefas, a responsabilidade de execução
 | **Heatmap de Disponibilidade** (Mapeamento do When2meet) | Luccas Rodrigues e Igor Alves | [Heatmap](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/heatmap/) | N/A |
 | **Lista de Sítios Avaliados** (Varredura preliminar de candidatos) | Igor Alves | [Sites Avaliados](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/sites_avaliados/) | N/A |
 | **Escolha e Justificativa do Site** (Introdução e Motivação do Oppia) | Lucas Sales | [Site Escolhido](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/site_escolhido/) | N/A |
-| **Ferramentas de Software** (Tabela descritiva de softwares e IAs) | Luccas Rodrigues e Rayca Yorrara | [Ferramentas Utilizadas](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas_utilizadas/) | N/A |
+| **Ferramentas de Software** (Tabela descritiva de softwares e IAs) | Luccas Rodrigues e Rayca Yorrara | [Ferramentas Utilizadas](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas/) | N/A |
 | **Processo de Design** (Justificativa e fontes da Engenharia de Mayhew) | Lucas Sales | [Processo de Design](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/processo_de_design/) | N/A |
 | **Cronograma do Projeto** (Tabela com prazos planejados e executados) | Luccas Rodrigues, Rayca Yorrara e Evellyn Rocha | [Cronograma Planejado](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/cronograma/cronograma_planejado/) | N/A |
 | **Configuração da Página** (MkDocs no GitHub Pages + Contraste de cores) | Todos | N/A | N/A |
 | **Atas de Reuniões** (Registro formal e gravação das reuniões síncronas) | João Paulo e Evellyn Rocha | [Atas e Apresentações](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/) | |
-| **Seção de Agradecimentos** (Declaração de uso de IA nos termos da SBC) | Luccas Rodrigues | [Declaração de Uso de IA Generativa](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas_utilizadas/#declaracao-de-uso-de-ia-generativa) | N/A |
+| **Seção de Agradecimentos** (Declaração de uso de IA nos termos da SBC) | Luccas Rodrigues | [Declaração de Uso de IA Generativa](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas/#declaracao-de-uso-de-ia-generativa) | N/A |
 | **Vídeo de Apresentação da Entrega 1** (Gravação e upload no YouTube) | Todos | [Gravação da Apresentação da Entrega 1](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/#2-gravacao-da-apresentacao-da-etapa-1) | |
 <!--
 | **Item de Conteúdo Individual - Integrante 1** (Teoria da disciplina) | | | N/A |
@@ -32,4 +32,4 @@ A tabela abaixo registra a divisão de tarefas, a responsabilidade de execução
 
 | Versão | Data       | Descrição                  | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | -------------------------- | ---------------- | ---------------- |
-| `1.0`  | 06/09/2026 | Criação da página.         | Luccas Rodrigues |                  |
+| `1.0`  | 06/09/2026 | Criação da página          | Luccas Rodrigues |                  |
