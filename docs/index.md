@@ -124,7 +124,7 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
       <td align="left"><strong>João Paulo da Silva Pereira</strong></td>
       <td align="left">Mapeamento do inventário de ferramentas de software e hardware empregadas</td>
       <td align="center">Autor</td>
-      <td align="center"><a href="planejamento/ferramentas_utilizadas.md">Ferramentas</a></td>
+      <td align="center"><a href="planejamento/ferramentas/">Ferramentas</a></td>
     </tr>
     <tr>
       <td align="left"><strong>Rayca Yorrara Leite dos Santos</strong></td>
@@ -155,7 +155,7 @@ Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estrut
 
   * [Processo de Design Escolhido](planejamento/processo_de_design.md)
 
-  * [Ferramentas Utilizadas](planejamento/ferramentas_utilizadas.md)
+  * [Ferramentas Utilizadas](planejamento/ferramentas.md)
 
   * [Cronograma Geral (Planejado e Executado)](planejamento/cronograma/cronograma_planejado.md)
 

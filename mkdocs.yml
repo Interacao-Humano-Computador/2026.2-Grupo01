@@ -31,10 +31,10 @@ nav:
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Processo de Design: planejamento/processo_de_design.md
-    - Ferramentas: planejamento/ferramentas_utilizadas.md
+    - Ferramentas: planejamento/ferramentas.md
     - Site Escolhido: planejamento/site_escolhido.md
     - Sites Avaliados: planejamento/sites_avaliados.md
-    - Ferramentas Utilizadas: planejamento/ferramentas_utilizadas.md
+    - Contribuição: planejamento/cronograma/contribuicao.md
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
 
   - Atas e Apresentações: atas/reunioes.md
