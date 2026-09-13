@@ -9,6 +9,7 @@ Este artefato apresenta os resultados das inspeções e verificações realizada
 
 O objetivo desta auditoria é assegurar que todas as diretrizes do Plano de Ensino elaboradas pelo professor André Barros de Sales tenham sido atendidas, identificando conformidades, itens incompletos e pontos de melhoria no planejamento e desenvolvimento do projeto. Além das listas detalhadas de verificação, o documento disponibiliza as fichas de auditoria, os links das gravações das reuniões de verificação, os arquivos em PDF para download e um gráfico comparativo consolidado dos resultados.
 
+
 ---
 
 ## 1. Inspeção do Grupo 1 (Próprio Grupo)
