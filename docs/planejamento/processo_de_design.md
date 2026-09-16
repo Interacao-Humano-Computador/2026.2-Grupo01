@@ -1,3 +1,10 @@
+# Processo de Design de IHC
+
+## 1. Introdução
+
+O processo de design de Interação Humano-Computador (IHC) apresenta as atividades e etapas utilizadas para orientar o desenvolvimento e a avaliação de soluções de interação. Este documento apresenta os conceitos relacionados ao processo de design e descreve a Engenharia de Usabilidade de Mayhew, modelo escolhido pelo grupo para orientar a execução da avaliação de IHC.
+
+
 ## O que é Design?
 
 As atividades de design, surgem de uma pergunta fundamental: "Como melhorar a situação atual?", para responder a essa pergunta, são propostas três atividades, que se repetem de forma cíclica e iterativa:

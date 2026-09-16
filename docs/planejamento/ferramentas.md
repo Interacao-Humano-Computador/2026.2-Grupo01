@@ -1,6 +1,6 @@
 ## Ferramentas escolhidas e utilizadas
-
-O desenvolvimento de um projeto de Interação Humano-Computador (IHC) demanda o emprego articulado de recursos tecnológicos e computacionais para apoiar desde a fase de planejamento, elicitação de requisitos e prototipação até a consolidação da documentação técnica e comunicação síncrona/assíncrona entre os integrantes da equipe.
+## 1. Introdução
+O desenvolvimento de um projeto de Interação Humano-Computador (IHC) demanda o emprego articulado de recursos tecnológicos+-  e computacionais para apoiar desde a fase de planejamento, elicitação de requisitos e prototipação até a consolidação da documentação técnica e comunicação síncrona/assíncrona entre os integrantes da equipe.
 
 Abaixo estão descritas as ferramentas de software que foram utilizadas ao longo do projeto e as Entregas nas quais foram empregadas.
 

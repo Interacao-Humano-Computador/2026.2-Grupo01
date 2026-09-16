@@ -1,4 +1,7 @@
 ### Contribuição do Projeto
+## 1. Introdução
+
+Este documento apresenta a divisão das atividades realizadas pelos integrantes do Grupo 01 durante o desenvolvimento do projeto de Interação Humano-Computador (IHC). Seu objetivo é registrar as responsabilidades atribuídas a cada integrante, os artefatos produzidos e a localização dos materiais correspondentes no GitHub Pages.
 
 ## Entrega 1
 

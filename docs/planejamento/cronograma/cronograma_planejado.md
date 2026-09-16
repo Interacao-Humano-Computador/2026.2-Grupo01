@@ -1,3 +1,10 @@
+# Cronograma Planejado
+
+## 1. Introdução
+
+Este documento apresenta o cronograma planejado para o desenvolvimento do projeto de Interação Humano-Computador (IHC). O cronograma organiza as etapas e atividades previstas, indicando os períodos de execução, os responsáveis e os revisores de cada atividade, de modo a auxiliar no acompanhamento e na organização do projeto.
+
+
 ## **Cronograma Detalhado do Projeto de IHC — 4 Etapas**
 
 | ID | Etapa | Atividade Detalhada (Baseada nas Listas de Verificação) | Data de Início | Data de Fim | Responsável(eis) | Revisor(es) |

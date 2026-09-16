@@ -1,3 +1,10 @@
+# Sites Avaliados
+
+## 1. Introdução
+
+Este documento apresenta os sites selecionados para a realização das avaliações de Interação Humano-Computador (IHC) durante o planejamento do projeto. São descritos os responsáveis, os objetivos definidos para cada avaliação, as metodologias adotadas e os links para os respectivos planejamentos e avaliações completas.
+
+
 ## Câmara Municipal de Serra da Saudade - MG
  
 O responsável pelo planejamento e avaliação foi o integrante Lucas Sales Ribeiro.
