@@ -1,4 +1,4 @@
-### Contribuição do Projeto
+# Contribuição do Projeto
 ## 1. Introdução
 
 Este documento apresenta a divisão das atividades realizadas pelos integrantes do Grupo 01 durante o desenvolvimento do projeto de Interação Humano-Computador (IHC). Seu objetivo é registrar as responsabilidades atribuídas a cada integrante, os artefatos produzidos e a localização dos materiais correspondentes no GitHub Pages.
@@ -7,7 +7,7 @@ Este documento apresenta a divisão das atividades realizadas pelos integrantes 
 
 A tabela 1 abaixo registra a divisão de tarefas, a responsabilidade de execução de cada artefato e a respectiva localização do arquivo finalizado e das gravações de trabalho associadas quando aplicáveis.
 
-# **Tabela 1**
+### **Tabela 1**
 
 | Nome do Artefato / Atividade | Responsável | Hiperlink para o GitHub Pages | Página com Gravações (se aplicável) |
 | :--- | :---: | :---: | :---: |
