@@ -88,6 +88,5 @@ Link para visualização completa da avaliação: [Avaliação Portal de Serviç
 | Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es) |
 | ------ | ---------- | ------------------ | ------------------------------------------- | ----------- |
 | `1.0`  | 05/09/2026 | Criação da página. | [Lucas Sales](https://github.com/lux-sales) |             |
-| ------ | ---------- | ------------------ | ------------------------------------------- | ----------- |
 | `2.0`  | 17/09/2026 | Criação da página. | [João Paulo](https://github.com/Jp-te) |             |
 
