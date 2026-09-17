@@ -5,30 +5,31 @@
 O processo de design de Interação Humano-Computador (IHC) apresenta as atividades e etapas utilizadas para orientar o desenvolvimento e a avaliação de soluções de interação. Este documento apresenta os conceitos relacionados ao processo de design e descreve a Engenharia de Usabilidade de Mayhew, modelo escolhido pelo grupo para orientar a execução da avaliação de IHC.
 
 
-## O que é Design?
+## 2. O que é Design?
 
-As atividades de design, surgem de uma pergunta fundamental: "Como melhorar a situação atual?", para responder a essa pergunta, são propostas três atividades, que se repetem de forma cíclica e iterativa:
+As atividades de design surgem de uma pergunta fundamental: "Como melhorar a situação atual?". Para responder a essa pergunta, são propostas três atividades que se repetem de forma cíclica e iterativa:
 
 1. Análise da situação atual
 2. Síntese de uma intervenção
 3. Avaliação da nova situação
 
-## Processos de Design de IHC
+## 3. Processos de Design de IHC
 
-Os processos de deisgn detalham as atividades básicas apresentadas anteriormente, de uma forma particular, defininindo a execucação, sequências, quais atividades se repetem e os motivos dos artefatos consumidos e produzidos em cada etapa. Os processos de design de IHC tem como objetivo atender e servir em primeiro lugar aos usuários e aos demais envolvidos.
-Existem várias propostas de processos de design de IHC, cada uma atendente uma forma específica de pensar, com sequências de atividades e emprego de artefatos adequados.
+Os processos de design detalham as atividades básicas apresentadas anteriormente de uma forma particular, definindo a execução, as sequências, quais atividades se repetem e os motivos dos artefatos consumidos e produzidos em cada etapa. Os processos de design de IHC têm como objetivo atender e servir, em primeiro lugar, aos usuários e aos demais envolvidos.
 
-## Processo escolhido
+Existem várias propostas de processos de design de IHC, cada uma atendendo a uma forma específica de pensar, com sequências de atividades e emprego de artefatos adequados.
+
+## 4. Processo Escolhido
 
 Analisando os processos disponíveis na literatura, são encontrados diversos modelos com formas diferentes de realizar as atividades de design, um dos modelos que houve maior compreensão de seus processos e detalhamento de atividades pelo grupo, foi a **Engenharia de Usabilidade de Mayhew**, com três fases do processo iterativo:
 
 1.  Análise de requisitos: 
     Onde são definidas as metas de usabilidade com base no perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma.
 2.  Design, avaliação e desenvolvimento:
-    Conceber uma solução de IHC que atenda às metas de usabilidade previamente estabelecidas, sendo que este processo propõe projetar a solução em três níveis de detalhes. No primeiro, o designer realiza a reengenharia do trabalho, repensando a execução das tarefas. No segundo nível, são estabelecidos padrões de design de IHC para a solução concebida. No terceiro e útltimo nível, é realizado o projeto detalhado da interface.
+    Conceber uma solução de IHC que atenda às metas de usabilidade previamente estabelecidas, sendo que este processo propõe projetar a solução em três níveis de detalhe. No primeiro, o designer realiza a reengenharia do trabalho, repensando a execução das tarefas. No segundo nível, são estabelecidos padrões de design de IHC para a solução concebida. No terceiro e último nível, é realizado o projeto detalhado da interface.
 3.  Instalação:
 
-    Coleta opiniões dos usuários após um período de tempo.
+    Coleta as opiniões dos usuários após um período de tempo de uso.
 
     Conforme apresentado na Figura 1, a Engenharia de Usabilidade de Mayhew organiza o processo de design em diferentes fases.
 
@@ -43,13 +44,11 @@ Analisando os processos disponíveis na literatura, são encontrados diversos mo
 
 Desta forma, pelo nível de detalhes apresentados, foi escolhida a **Engenharia de Usabilidade de Mayhew** para orientar a execução desta avaliação de IHC.
 
+## 5. Referências Bibliográficas
 
-## Referências bibliográficas
+1. BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Autopublicação, 2021.
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.
-(2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-
-## Histórico de versão
+## 6. Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es)   | Revisor(es)      |
 | ------ | ---------- | ------------------ | ----------- | ---------------- |
