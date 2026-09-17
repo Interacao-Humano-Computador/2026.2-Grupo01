@@ -38,7 +38,7 @@ nav:
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
 
   - Atas e Apresentações: atas/reunioes.md
-  - Inspeções: docs/inspecoes/inspecao.md
+  - Inspeções: inspecoes/inspecao.md
 
 markdown_extensions:
   - admonition
