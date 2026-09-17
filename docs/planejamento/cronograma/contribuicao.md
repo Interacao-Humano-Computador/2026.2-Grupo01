@@ -3,11 +3,11 @@
 
 Este documento apresenta a divisão das atividades realizadas pelos integrantes do Grupo 01 durante o desenvolvimento do projeto de Interação Humano-Computador (IHC). Seu objetivo é registrar as responsabilidades atribuídas a cada integrante, os artefatos produzidos e a localização dos materiais correspondentes no GitHub Pages.
 
-## Entrega 1
+## 2. Entrega 1
 
-A tabela 1 abaixo registra a divisão de tarefas, a responsabilidade de execução de cada artefato e a respectiva localização do arquivo finalizado e das gravações de trabalho associadas quando aplicáveis.
+A Tabela 1 registra a divisão de tarefas, a responsabilidade de execução de cada artefato e a respectiva localização do arquivo finalizado e das gravações de trabalho associadas, quando aplicáveis.
 
-### **Tabela 1**
+<p><strong>Tabela 1:</strong> Divisão de tarefas e artefatos da Entrega 1</p>
 
 | Nome do Artefato / Atividade | Responsável | Hiperlink para o GitHub Pages | Página com Gravações (se aplicável) |
 | :--- | :---: | :---: | :---: |
@@ -23,16 +23,12 @@ A tabela 1 abaixo registra a divisão de tarefas, a responsabilidade de execuç�
 | **Atas de Reuniões** (Registro formal e gravação das reuniões síncronas) | João Paulo e Evellyn Rocha | [Atas e Apresentações](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/) | |
 | **Seção de Agradecimentos** (Declaração de uso de IA nos termos da SBC) | Luccas Rodrigues | [Declaração de Uso de IA Generativa](https://interacao-humano-computador.github.io/2026.2-Grupo01/planejamento/ferramentas/#declaracao-de-uso-de-ia-generativa) | N/A |
 | **Vídeo de Apresentação da Entrega 1** (Gravação e upload no YouTube) | Todos | [Gravação da Apresentação da Entrega 1](https://interacao-humano-computador.github.io/2026.2-Grupo01/atas/reunioes/#2-gravacao-da-apresentacao-da-etapa-1) | |
-<!--
-| **Item de Conteúdo Individual - Integrante 1** (Teoria da disciplina) | | | N/A |
-| **Item de Conteúdo Individual - Integrante 2** (Teoria da disciplina) | | | N/A |
-| **Item de Conteúdo Individual - Integrante 3** (Teoria da disciplina) | | | N/A |
-| **Item de Conteúdo Individual - Integrante 4** (Teoria da disciplina) | | | N/A |
-| **Item de Conteúdo Individual - Integrante 5** (Teoria da disciplina) | | | N/A |
-| **Item de Conteúdo Individual - Integrante 6** (Teoria da disciplina) | | | N/A |
--->
-## Histórico de versão
+
+<p><em>Fonte: Autores (2026).</em></p>
+
+## 3. Histórico de Versão
 
 | Versão | Data       | Descrição                  | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | -------------------------- | ---------------- | ---------------- |
 | `1.0`  | 06/09/2026 | Criação da página          | Luccas Rodrigues |                  |
+| `2.0`  | 17/09/2026 | Criação da página          | João Paulo |                  |
