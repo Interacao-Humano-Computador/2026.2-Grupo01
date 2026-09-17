@@ -3,20 +3,20 @@
 > **Artefato:** Listas de Verificação e Inspeção Cruzada (Entrega 1)  
 > **Modelo:** Plano de Ensino da disciplina de Interação Humano-Computador (Prof. André Barros de Sales)
 
-## Introdução
+## 1. Introdução
 
-Este artefato apresenta os resultados das inspeções e verificações realizadas sobre os documentos do **Grupo 1** (avaliação interna) e do **Grupo +1 / Grupo 2** (avaliação cruzada), referentes aos requisitos e entregáveis da **Entrega 1** da disciplina de Interação Humano-Computador (IHC). 
+Este artefato apresenta os resultados das inspeções e verificações realizadas sobre os documentos do **Grupo 1** (avaliação interna) e do **Grupo +1 / Grupo 2** (avaliação cruzada), referentes aos requisitos e entregáveis da **Entrega 1** da disciplina de Interação Humano-Computador (IHC).
 
 O objetivo desta auditoria é assegurar que todas as diretrizes do Plano de Ensino elaboradas pelo professor André Barros de Sales tenham sido atendidas, identificando conformidades, itens incompletos e pontos de melhoria no planejamento e desenvolvimento do projeto. Além das listas detalhadas de verificação, o documento disponibiliza as fichas de auditoria, os links das gravações das reuniões de verificação, os arquivos em PDF para download e um gráfico comparativo consolidado dos resultados.
 
 
 ---
 
-## 1. Inspeção do Grupo 1 (Próprio Grupo)
+## 2. Inspeção do Grupo 1 (Próprio Grupo)
 
 Esta lista de verificação foi gerada a partir do modelo disponível no Plano de Ensino da disciplina de IHC. O objetivo deste documento é auxiliar o **Grupo 1** na inspeção dos seus próprios artefatos, garantindo o cumprimento integral de todas as exigências da Entrega 1 do projeto.
 
-### 1.1. Itens do Planejamento Geral do Projeto
+### 2.1. Itens do Planejamento Geral do Projeto
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -30,7 +30,7 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 | **PG.8** | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | **[X] Sim**<br>[ ] Não<br>[ ] Incompleto | |
 | **PG.9** | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver. | **[X] Sim**<br>[ ] Não<br>[ ] Incompleto | |
 
-### 1.2. Itens do Desenvolvimento do Projeto
+### 2.2. Itens do Desenvolvimento do Projeto
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -46,7 +46,7 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 | **DP.10** | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | **[X] Sim**<br>[ ] Não<br>[ ] Incompleto | |
 | **DP.11** | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato. | **[X] Sim**<br>[ ] Não<br>[ ] Incompleto | |
 
-### 1.3. Itens de Conteúdo da Disciplina
+### 2.3. Itens de Conteúdo da Disciplina
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -69,11 +69,11 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 
 ---
 
-## 2. Inspeção do Grupo +1 (Grupo 2)
+## 3. Inspeção do Grupo +1 (Grupo 2)
 
 Esta lista de verificação foi gerada a partir do modelo disponível no Plano de Ensino da disciplina de IHC. O objetivo deste documento é auxiliar o **Grupo 1** na inspeção cruzada dos artefatos do **Grupo +1 (Grupo 2)**, garantindo o cumprimento integral de todas as exigências da Entrega 1 do projeto.
 
-### 2.1. Itens do Planejamento Geral do Projeto
+### 3.1. Itens do Planejamento Geral do Projeto
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -87,7 +87,7 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 | **PG.8** | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | [ ] Sim<br>[ ] Não<br>**[X] Incompleto** | O projeto tem o cronograma das atividades e a equipe, mas não possui lista de sites avaliados, sites selecionados, Ferramentas do projeto ou Processo de Design. |
 | **PG.9** | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver. | [ ] Sim<br>[ ] Não<br>**[X] Incompleto** | A equipe possui as atas da reunião, mas não possui a gravação da reunião. |
 
-### 2.2. Itens do Desenvolvimento do Projeto
+### 3.2. Itens do Desenvolvimento do Projeto
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -103,7 +103,7 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 | **DP.10** | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | [ ] Sim<br>**[X] Não**<br>[ ] Incompleto | Existe apenas uma tabela que mostra os commits dados pelos integrantes, porém não tem uma tabela com a contribuição detalhada dos processos. |
 | **DP.11** | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato. | [ ] Sim<br>**[X] Não**<br>[ ] Incompleto | |
 
-### 2.3. Itens de Conteúdo da Disciplina
+### 3.3. Itens de Conteúdo da Disciplina
 
 | ID | Critério | Avaliação | Observações / Comentários |
 | :---: | :--- | :---: | :--- |
@@ -131,23 +131,28 @@ Esta lista de verificação foi gerada a partir do modelo disponível no Plano d
 
 ---
 
-## 3. Registros e Comparativos
+## 4. Registros e Comparativos
 
-### Downloads das Inspeções (PDF)
+### 4.1. Downloads das Inspeções (PDF)
 
-* [Acessar PDF da Inspeção do Nosso Grupo](docs/assets/Entrega1InspecaoGrupo1ProjetoOppia.pdf)
-* [Acessar PDF da Inspeção do Grupo +1](docs/assets/Entrega1InspecaoGrupo+1ProjetoNoFluxo.pdf)
+* [Acessar PDF da Inspeção do Nosso Grupo](../assets/Entrega1InspecaoGrupo1ProjetoOppia.pdf)
+* [Acessar PDF da Inspeção do Grupo +1](../assets/Entrega1InspecaoGrupo+1ProjetoNoFluxo.pdf)
 
+### 4.2. Comparativo das Inspeções
 
-### Comparativo das Inspeções
-
-![Gráfico Comparativo das Inspeções](docs/assets/chart.png)
+![Gráfico Comparativo das Inspeções](../assets/chart.png)
 
 *Figura 1: Gráfico comparativo de conformidade entre o Nosso Grupo e o Grupo +1 (Fonte: Autores).*
 
 ---
 
-## Histórico de Versão
+## 5. Referências Bibliográficas
+
+1. SALES, André Barros de. **Plano de Ensino da disciplina de Interação Humano-Computador**. Faculdade de Ciências e Tecnologias em Engenharia (FCTE), Universidade de Brasília (UnB), 2026.
+
+---
+
+## 6. Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
