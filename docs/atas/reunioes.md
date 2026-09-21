@@ -20,8 +20,8 @@ A Tabela 1 relaciona o histórico de reuniões realizadas para o planejamento e 
 
 | Reunião | Data | Horário | Pauta e Deliberações | Participantes Presentes | Gravação | Ata |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **01** | 09/09/2026 | 20:37 - 21:25 | Discutir os feedbacks gerais do professor, alinhar as correções exigidas no GitPages e definir o cronograma para as próximas Entregas. | Igor Alves de Abreu, João Paulo da Silva Pereira, Luccas Rodrigues dos Santos e Rayca Yorrara Leite dos Santos | [Reunião 1](https://youtu.be/P4nWkxayhf4) | [Ata de Reunião do Dia 09/09](docs\assets\Ata_de_Reuniao_09_09_2026.pdf) |
-| **02** | 16/09/2026 | 20:42 - 21:57 | Redistribuir as atividades do Cronograma em relação ao Perfil de Usuário e Análise de Tarefas e reavaliar a escolha do site | Evellyn de Sousa Rocha, João Paulo da Silva Pereira, Lucas Sales Ribeiro, Luccas Rodrigues dos Santos e Rayca Yorrara Leite dos Santos | [Reunião 2](https://youtu.be/ODaTfMpzTSU) | [Ata de Reunião do Dia 16/09](docs\assets\Ata_de_Reuniao_16_09_2026.pdf) |
+| **01** | 09/09/2026 | 20:37 - 21:25 | Discutir os feedbacks gerais do professor, alinhar as correções exigidas no GitPages e definir o cronograma para as próximas Entregas. | Igor Alves de Abreu, João Paulo da Silva Pereira, Luccas Rodrigues dos Santos e Rayca Yorrara Leite dos Santos | [Reunião 1](https://youtu.be/P4nWkxayhf4) | [Ata de Reunião do Dia 09/09](../assets/Ata_de_Reuniao_09_09_2026.pdf) |
+| **02** | 16/09/2026 | 20:42 - 21:57 | Redistribuir as atividades do Cronograma em relação ao Perfil de Usuário e Análise de Tarefas e reavaliar a escolha do site | Evellyn de Sousa Rocha, João Paulo da Silva Pereira, Lucas Sales Ribeiro, Luccas Rodrigues dos Santos e Rayca Yorrara Leite dos Santos | [Reunião 2](https://youtu.be/ODaTfMpzTSU) | [Ata de Reunião do Dia 16/09](../assets/Ata_de_Reuniao_16_09_2026.pdf) |
 
 *Fonte: João Paulo da Silva Pereira e Luccas Rodrigues dos Santos (2026).* 
 
