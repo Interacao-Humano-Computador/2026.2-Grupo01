@@ -4,7 +4,6 @@
 
 Este documento apresenta o cronograma planejado para o desenvolvimento do projeto de Interação Humano-Computador (IHC). O cronograma organiza as etapas e atividades previstas, indicando os períodos de execução, os responsáveis e os revisores de cada atividade, de modo a auxiliar no acompanhamento e na organização do projeto.
 
-
 ## 2. Cronograma Detalhado do Projeto de IHC — 4 Etapas
 
 <p><strong>Tabela 1:</strong> Cronograma detalhado das atividades do projeto</p>
@@ -61,5 +60,5 @@ Este documento apresenta o cronograma planejado para o desenvolvimento do projet
 | ------ | ---------- | -------------------------- | ---------------- | ---------------- |
 | `1.0`  | 06/09/2026 | Criação da página          | Luccas Rodrigues | Igor Alves       |
 | `1.1`  | 06/09/2026 | Alteração das tarefas      | Rayca Yorrara    | Luccas Rodrigues |
-| `1.2`  | 10/09/2026 | Redefinição do cronograma  | Luccas Rodrigues |                  |           
-| `1.3`  | 17/09/2026 | Padronização               | João Paulo       |                  |           
+| `1.2`  | 10/09/2026 | Redefinição do cronograma  | Luccas Rodrigues | João Paulo       |           
+| `1.3`  | 17/09/2026 | Padronização               | João Paulo       | Luccas Rodrigues |
