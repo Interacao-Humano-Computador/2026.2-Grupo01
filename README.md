@@ -1,9 +1,9 @@
-# Avaliação de IHC - Oppia
+# Avaliação de IHC - Microsoft Teams
 
 <div align="center">
 
 <h3>Interação Humano-Computador — 2026.2</h3>
-<p><em>Repositório dedicado à documentação de artefatos e ao processo de avaliação de Interação Humano-Computador (IHC) do sítio Oppia.</em></p>
+<p><em>Repositório dedicado à documentação de artefatos e ao processo de avaliação de Interação Humano-Computador (IHC) da plataforma Teams.</em></p>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Esta documentação reúne os artefatos desenvolvidos pela equipe **Grupo 01** durante o 2º semestre letivo de 2026, sob a orientação do Prof. Dr. André Barros de Sales, no âmbito da disciplina de IHC da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB).
 
-O objeto de estudo selecionado é a plataforma web [Oppia](https://www.oppia.org/), um sistema de educação aberta e gratuita focado em percursos de aprendizagem personalizados através da detecção e tratamento pedagógico de padrões comuns de erros de alunos. O propósito do projeto é avaliar a qualidade de uso, diagnosticar problemas de usabilidade e propor reprojetos iterativos de interface centrados no usuário.
+O objeto de estudo selecionado é a plataforma [Teams](https://www.microsoft.com/pt-br/microsoft-teams/download-app), um sistema de comunicação e colaboração unificada da Microsoft que reúne bate-papo, videoconferências, armazenamento e edição conjunta de arquivos. O propósito do projeto é avaliar a qualidade de uso, diagnosticar problemas de usabilidade e propor reprojetos iterativos de interface centrados no usuário.
 
 ---
 
@@ -139,6 +139,7 @@ A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados
 <p><em>Fonte: Autores (2026).</em></p>
 
 </div>
+
 ---
 
 ## 4. Mapa das Etapas do Projeto
@@ -147,11 +148,17 @@ Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estrut
 
 * **Etapa 1: Planejamento do Projeto e Processo de Design**
   * [Heatmap de Disponibilidade](planejamento/heatmap.md)
+
   * [Sites Candidatos Avaliados](planejamento/sites-avaliados.md)
-  * [Site Selecionado (Oppia)](planejamento/site-selecionado.md)
+  
+  * [Site Selecionado (Teams)](planejamento/site-selecionado.md)
+  
   * [Processo de Design Escolhido](planejamento/processo-design.md)
+  
   * [Ferramentas Utilizadas](planejamento/ferramentas.md)
+  
   * [Cronograma Geral (Planejado e Executado)](planejamento/cronograma.md)
+  
   * [Atas de Reunião](atas/atas.md)
 * **Etapa 2: Análise de Requisitos e Perfil do Usuário**
   * Perfil do Usuário, Aspectos Éticos (TCLE), Personas, Cenários e Análise de Tarefas (HTA e GOMS/CTT).

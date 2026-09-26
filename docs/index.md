@@ -81,7 +81,7 @@ A Tabela 1 apresenta os integrantes responsáveis pela condução do projeto. Co
 
 ## 3. Matriz de Contribuições e Atividades
 
-A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados e revisados por cada autor da equipe ao longo das etapas do projeto[cite: 5].
+A Tabela 2 relaciona as responsabilidades, atividades e artefatos confeccionados e revisados por cada autor da equipe ao longo das etapas do projeto.
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estrut
 
   * [Sites Candidatos Avaliados](planejamento/sites_avaliados.md)
 
-  * [Site Selecionado (Oppia)](planejamento/site_escolhido.md)
+  * [Site Selecionado (Teams)](planejamento/site_escolhido.md)
 
   * [Processo de Design Escolhido](planejamento/processo_de_design.md)
 
@@ -232,5 +232,3 @@ A Tabela 3 registra as iterações e aprimoramentos realizados nesta página ini
 </table>
 
 <p><em>Fonte: Autores (2026).</em></p>
-
-</div>
