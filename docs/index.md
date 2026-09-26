@@ -1,9 +1,9 @@
-# Avaliação de IHC - Oppia
+# Avaliação de IHC - Microsoft Teams
 
 <div align="center">
 
 <h3>Interação Humano-Computador — 2026.2</h3>
-<p><em>Repositório dedicado à documentação de artefatos e ao processo de avaliação de Interação Humano-Computador (IHC) do sítio Oppia.</em></p>
+<p><em>Repositório dedicado à documentação de artefatos e ao processo de avaliação de Interação Humano-Computador (IHC) da plataforma Teams.</em></p>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Esta documentação reúne os artefatos desenvolvidos pela equipe **Grupo 01** durante o 2º semestre letivo de 2026, sob a orientação do Prof. Dr. André Barros de Sales, no âmbito da disciplina de IHC da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB).
 
-O objeto de estudo selecionado é a plataforma web [Oppia](https://www.oppia.org/), um sistema de educação aberta e gratuita focado em percursos de aprendizagem personalizados através da detecção e tratamento pedagógico de padrões comuns de erros de alunos. O propósito do projeto é avaliar a qualidade de uso, diagnosticar problemas de usabilidade e propor reprojetos iterativos de interface centrados no usuário.
+O objeto de estudo selecionado é a plataforma [Teams](https://www.microsoft.com/pt-br/microsoft-teams/download-app), um sistema de comunicação e colaboração unificada da Microsoft que reúne bate-papo, videoconferências, armazenamento e edição conjunta de arquivos. O propósito do projeto é avaliar a qualidade de uso, diagnosticar problemas de usabilidade e propor reprojetos iterativos de interface centrados no usuário.
 
 ---
 
