@@ -63,11 +63,11 @@ No planejamento, foi definido aplicar o Framework DECIDE para identificar proble
 A metodologia de avaliação foi a Avaliação Heurística de Nielsen (método analítico de inspeção) com mitigação técnica para condução individual, aplicando duas passagens sistemáticas pela interface (uma exploratória panorâmica e uma detalhada elemento a elemento), associadas a uma estratégia híbrida de análise vertical e horizontal para classificar a severidade dos problemas de 0 a 4.
 
 Link para visualização completa do planejamento da avaliação: [Planejamento da Avaliação Oppia](planejamentos/planejamento_oppia.pdf)
-
-Link para visualização completa da avaliação: *a ser disponibilizado*.
-
+ 
+Link para visualização completa da avaliação: Não foi realizado pelo integrante.
+ 
 ### 2.6. Portal de Serviços do Governo Federal (Conta Gov)
-
+ 
 O responsável pelo planejamento e avaliação foi o integrante João Paulo da Silva Pereira.
 
 No planejamento, foi definido aplicar o Framework DECIDE para avaliar o fluxo de busca e solicitação de serviços públicos com login único no portal gov.br, visando identificar barreiras de usabilidade e comunicabilidade, termos pouco claros (jargões), etapas excessivas e pontos de atrito no processo de verificação de identidade dos cidadãos.
@@ -80,13 +80,8 @@ Link para visualização completa da avaliação: [Avaliação Portal de Serviç
 
 ## 3. Histórico de Versão
 
-> **Atenção:** esta seção não existia no artefato original. Foi incluída para manter a padronização estrutural com os demais artefatos do projeto — a equipe deve preencher os dados reais de criação/revisão da página.
-
-
-## Histórico de versão
-
-| Versão | Data       | Descrição          | Autor(es)                                   | Revisor(es) |
-| ------ | ---------- | ------------------ | ------------------------------------------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página. | [Lucas Sales](https://github.com/lux-sales) |             |
-| `2.0`  | 17/09/2026 | Criação da página. | [João Paulo](https://github.com/Jp-te) |             |
-
+| Versão | Data       | Descrição               | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | ----------------------- | ---------------- | ---------------- |
+| `1.0`  | 05/09/2026 | Criação da página.      | Lucas Sales      | João Paulo       |
+| `2.0`  | 17/09/2026 | Padronização da página. | João Paulo       | Luccas Rodrigues |
+| `2.1`  | 19/09/2026 | Padronização dos PDFs.  | Luccas Rodrigues |                  |
