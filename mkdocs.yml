@@ -36,10 +36,11 @@ nav:
     - Sites Avaliados: planejamento/sites_avaliados.md
     - Contribuição: planejamento/cronograma/contribuicao.md
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
+    - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
-  - Entrevistas: entrevistas/entrevistas.md
+  - Entrevistas: Entrevistas/entrevistas.md
 
 markdown_extensions:
   - admonition
