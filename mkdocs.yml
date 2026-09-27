@@ -39,6 +39,7 @@ nav:
 
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
+  - Entrevistas: entrevistas/entrevistas.md
 
 markdown_extensions:
   - admonition
