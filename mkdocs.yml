@@ -38,9 +38,22 @@ nav:
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
+  - Análise de Requisitos:
+    - Perfil de usuário: analise_de_requisitos/perfil_usuarios.md
+    - Personas: analise_de_requisitos/personas.md
+    - Cenários: analise_de_requisitos/cenarios.md
+    - Análise de Tarefas: 
+      - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
+      - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
+
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
   - Entrevistas: Entrevistas/entrevistas.md
+
+
+
+
+
 
 markdown_extensions:
   - admonition
