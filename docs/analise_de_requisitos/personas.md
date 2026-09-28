@@ -54,26 +54,24 @@ Cada Persona do elenco é caracterizada pelos seguintes atributos essenciais:
 
 ### 3.2. Perfil 2: Professor
 
-> **Responsável pela Persona:** *[Nome do Integrante do Grupo]*  
-> **Status:** *[Persona Primária / Secundária]*
+> **Responsável pela Persona:** João Paulo  
+> **Status:** Persona Primária (Perfil 2: Professor)
 
-#### 👤 Ficha da Persona
-| Campo                               | Detalhes da Persona                                                                                                                                      |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome e Sobrenome:**               | *[Nome e Sobrenome]*                                                                                                                                     |
-| **Foto / Representação:**           | *[Descrição da representação visual ou link da imagem]*                                                                                                  |
-| **Idade e Demografia:**             | **Idade:** *[Idade]* anos.<br>**Departamento:** *[Departamento]*.<br>**Dispositivos:** *[Computador, Tablet, etc.]*                                      |
-| **Status da Persona:**              | *[Persona Primária ou Secundária]*                                                                                                                       |
-| **Frase de Efeito (Motto):**        | *"[Frase marcante da persona]"*                                                                                                                          |
-| **Perfil Profissional / Ocupação:** | Professor Universitário / Docente.                                                                                                                       |
-| **Objetivos do Usuário:**           | **Objetivos Pessoais:**<br>• *[Objetivo 1]*<br>• *[Objetivo 2]*<br><br>**Objetivos no Teams:**<br>• *[Objetivo no Teams 1]*<br>• *[Objetivo no Teams 2]* |
-| **Habilidades e Competências:**     | **Alfabetismo Computacional:** *[Intermediário / Avançado]*.<br>**Atitude:** *[Atitude]*                                                                 |
-| **Tarefas Principais e Rotina:**    | **Diárias:** *[Tarefas]*<br>**Semanais:** *[Tarefas]*<br>**Eventuais:** *[Tarefas]*                                                                      |
-| **Relacionamentos:**                | *[Como se relaciona com alunos, monitores e coordenação]*                                                                                                |
-| **Requisitos e Necessidades:**      | *[Necessidades de organização de turmas, aulas e notas]*                                                                                                 |
-| **Frustrações e Gambiarras:**       | **Frustrações:** *[Pontos de dor]*<br>**Soluções de Contorno:** *[Uso de e-mail, Moodle, etc.]*                                                          |
-
----
+#### 👤 Ficha da Persona: Helena Ribeiro
+| Campo                               | Detalhes da Persona |
+| :---------------------------------- | :------------------ |
+| **Nome e Sobrenome:**               | Helena Ribeiro (nome fictício; a participante da entrevista é mantida em anonimato) |
+| **Foto / Representação:**           | Mulher de 47 anos, expressão atenta e acolhedora, em ambiente de trabalho com computador e tablet (imagem ilustrativa a definir). |
+| **Idade e Demografia:**             | **Idade:** 47 anos.<br>**Formação:** Pedagoga (professora de formação).<br>**Departamento:** Área de capacitação de servidores públicos.<br>**Tempo no cargo:** 16 anos como Gestora em Políticas Públicas.<br>**Dispositivos:** Computador e tablet. |
+| **Status da Persona:**              | **Persona Primária** (foco do design e da avaliação para funcionalidades de ensino e de organização de turmas). |
+| **Frase de Efeito (Motto):**        | *"Eu teria um ambiente limpo, primeiro, sem muitas ferramentas."* |
+| **Perfil Profissional / Ocupação:** | Professora e capacitadora de servidores públicos, com turmas organizadas por setores de trabalho. Atua no serviço público como Gestora em Políticas Públicas. |
+| **Objetivos do Usuário:**           | **Objetivos Pessoais:**<br>• Ajudar os alunos, inclusive os mais velhos, a usar a plataforma sem dificuldade.<br>• Manter uma rotina de trabalho sem ansiedade, consultando a plataforma em horários próprios.<br><br>**Objetivos no Teams:**<br>• Criar turmas de capacitação (muitas) e organizá-las por setor.<br>• Marcar reuniões e postar arquivos e atividades no lugar certo.<br>• Corrigir trabalhos e interagir com a turma no chat. |
+| **Habilidades e Competências:**     | **Alfabetismo Computacional:** Intermediário.<br>**Atitude:** Aprende as ferramentas mexendo e, atualmente, com ajuda de IA. Vê o Teams como importante desde a pandemia, mas acha que hoje existem ferramentas mais modernas. |
+| **Tarefas Principais e Rotina:**    | **Mais demoradas:** Corrigir trabalhos e interagir com a turma.<br>**Recorrentes:** Postar arquivos e atividades; consultar a plataforma em horários que ela reserva, com as notificações desativadas.<br>**Por turma / eventuais:** Criar turmas (recebendo-as prontas ou criando do zero) e marcar reuniões.<br>*(A entrevista não detalhou a frequência exata.)* |
+| **Relacionamentos:**                | **Com Alunos (servidores):** Muitos preferem WhatsApp e e-mail por acharem mais fácil; entre eles há alunos mais velhos, com mais dificuldade com tecnologia.<br>**Com quem organiza o curso:** Recorre a essa equipe como suporte quando tem dúvida sobre a plataforma. |
+| **Requisitos e Necessidades:**      | **Ambiente limpo:** Menos ferramentas e espaços na tela.<br>**Clareza de postagem:** Deixar evidente onde e como postar atividades.<br>**Explicações embutidas:** Indicar para que serve cada espaço, com interações mais dinâmicas.<br>**Envio ágil:** Subida de arquivos mais rápida.<br>**Notificações:** Poder reduzi-las ou desativá-las. |
+| **Frustrações e Gambiarras:**       | **Frustrações:** Não saber em qual espaço colocar cada coisa (tarefa, conversa com o aluno) por causa da quantidade de opções; demora no envio de arquivos; excesso de ferramentas que dificulta o uso pelos alunos; notificações que a deixam ansiosa; dificuldade inicial na pandemia para gravar aulas e colocar material na plataforma.<br>**Soluções de Contorno:** Alunos recorrem ao WhatsApp e ao e-mail porque não encontram as coisas na plataforma; ela conta com o suporte de quem organiza o curso. |
 
 ### 3.3. Perfil 3: Funcionário (Técnico-Administrativo)
 
