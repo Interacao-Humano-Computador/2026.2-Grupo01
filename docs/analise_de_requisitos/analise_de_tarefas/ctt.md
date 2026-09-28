@@ -3,7 +3,7 @@
 Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega de outro setor, para isto, o mesmo conversa com seus colegas do setor busca via chat Teams contato com a pessoa que pode ajudar.
 
 <p align="center">Figura 1 – CTT - Esclarecimento de dúdvidas com colega de trabalho.</p>
-![HTA](../../assets/CTT%20-%20Entrevista.png)
+![HTA](../../assets/ctt-entrevista-Lucas.png)
 <p align="center">Autor - Lucas Sales.</p>
 
 ## Histórico de versão

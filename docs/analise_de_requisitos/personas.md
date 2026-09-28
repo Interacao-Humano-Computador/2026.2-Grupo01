@@ -5,7 +5,7 @@
 
 ### Persona primária - Marina Alves
 <p align="center">Figura 1 – Persona Marina Alves.</p>
-![Marina Alves](../assets/marina_persona2.png)
+![Marina Alves](../assets/marina_persona.png)
 <p align="center">Fonte – Lucas Sales</p>
 
 Marina Alves é uma profissional de 32 anos que atua na área de comunicação e possui formação superior, além de uma pós-graduação. Ela trabalha há aproximadamente cinco anos na mesma organização e exerce uma função relacionada à comunicação institucional, sendo responsável por produzir textos para divulgação, atender demandas de comunicação e manter contato com diferentes pessoas e setores da organização.
