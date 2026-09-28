@@ -51,28 +51,34 @@ ante inserir o texto narrativo em formato de história da persona Estudante]*
 | **Avaliação de IHC:**               | Como a interface confirma ao estudante que a entrega foi concluída com sucesso?                                                                       |
 
 ---
-
 ### 3.2. Perfil 2: Professor
 
-> **Responsável pela Persona:** João Paulo  
-> **Status:** Persona Primária (Perfil 2: Professor)
+> **Responsável pelo Perfil:** João Paulo
+> **Título do Cenário:** Organização do Canal de Disciplina e Condução de Reunião Síncrona de Aula
 
-#### 👤 Ficha da Persona: Helena Ribeiro
-| Campo                               | Detalhes da Persona |
-| :---------------------------------- | :------------------ |
-| **Nome e Sobrenome:**               | Helena Ribeiro (nome fictício; a participante da entrevista é mantida em anonimato) |
-| **Foto / Representação:**           | Mulher de 47 anos, expressão atenta e acolhedora, em ambiente de trabalho com computador e tablet (imagem ilustrativa a definir). |
-| **Idade e Demografia:**             | **Idade:** 47 anos.<br>**Formação:** Pedagoga (professora de formação).<br>**Departamento:** Área de capacitação de servidores públicos.<br>**Tempo no cargo:** 16 anos como Gestora em Políticas Públicas.<br>**Dispositivos:** Computador e tablet. |
-| **Status da Persona:**              | **Persona Primária** (foco do design e da avaliação para funcionalidades de ensino e de organização de turmas). |
-| **Frase de Efeito (Motto):**        | *"Eu teria um ambiente limpo, primeiro, sem muitas ferramentas."* |
-| **Perfil Profissional / Ocupação:** | Professora e capacitadora de servidores públicos, com turmas organizadas por setores de trabalho. Atua no serviço público como Gestora em Políticas Públicas. |
-| **Objetivos do Usuário:**           | **Objetivos Pessoais:**<br>• Ajudar os alunos, inclusive os mais velhos, a usar a plataforma sem dificuldade.<br>• Manter uma rotina de trabalho sem ansiedade, consultando a plataforma em horários próprios.<br><br>**Objetivos no Teams:**<br>• Criar turmas de capacitação (muitas) e organizá-las por setor.<br>• Marcar reuniões e postar arquivos e atividades no lugar certo.<br>• Corrigir trabalhos e interagir com a turma no chat. |
-| **Habilidades e Competências:**     | **Alfabetismo Computacional:** Intermediário.<br>**Atitude:** Aprende as ferramentas mexendo e, atualmente, com ajuda de IA. Vê o Teams como importante desde a pandemia, mas acha que hoje existem ferramentas mais modernas. |
-| **Tarefas Principais e Rotina:**    | **Mais demoradas:** Corrigir trabalhos e interagir com a turma.<br>**Recorrentes:** Postar arquivos e atividades; consultar a plataforma em horários que ela reserva, com as notificações desativadas.<br>**Por turma / eventuais:** Criar turmas (recebendo-as prontas ou criando do zero) e marcar reuniões.<br>*(A entrevista não detalhou a frequência exata.)* |
-| **Relacionamentos:**                | **Com Alunos (servidores):** Muitos preferem WhatsApp e e-mail por acharem mais fácil; entre eles há alunos mais velhos, com mais dificuldade com tecnologia.<br>**Com quem organiza o curso:** Recorre a essa equipe como suporte quando tem dúvida sobre a plataforma. |
-| **Requisitos e Necessidades:**      | **Ambiente limpo:** Menos ferramentas e espaços na tela.<br>**Clareza de postagem:** Deixar evidente onde e como postar atividades.<br>**Explicações embutidas:** Indicar para que serve cada espaço, com interações mais dinâmicas.<br>**Envio ágil:** Subida de arquivos mais rápida.<br>**Notificações:** Poder reduzi-las ou desativá-las. |
-| **Frustrações e Gambiarras:**       | **Frustrações:** Não saber em qual espaço colocar cada coisa (tarefa, conversa com o aluno) por causa da quantidade de opções; demora no envio de arquivos; excesso de ferramentas que dificulta o uso pelos alunos; notificações que a deixam ansiosa; dificuldade inicial na pandemia para gravar aulas e colocar material na plataforma.<br>**Soluções de Contorno:** Alunos recorrem ao WhatsApp e ao e-mail porque não encontram as coisas na plataforma; ela conta com o suporte de quem organiza o curso. |
+#### 1. Narrativa do Cenário
 
+Helena Ribeiro tem 47 anos, é pedagoga de formação e trabalha há 16 anos no serviço público, hoje como gestora em políticas públicas na área de capacitação de servidores. Ela dá aulas para turmas organizadas por setor de trabalho e usa o Microsoft Teams desde a pandemia, principalmente no computador e no tablet. Como não gosta de notificações, que a deixam ansiosa, ela reserva um horário do dia para olhar a plataforma.
+
+Nesse horário, Helena abre o Teams, entra na equipe da turma e inicia a reunião da aula. Ela ativa a gravação e compartilha os slides. Ao final, encerra a chamada e precisa publicar o material para os alunos. É aí que costuma hesitar, porque o Teams tem muitas opções e ela precisa decidir onde colocar cada coisa. Quando a dúvida persiste, recorre à equipe que organiza o curso. Às vezes o arquivo demora a subir, e ela espera antes de dar a atividade por concluída.
+
+Mesmo depois de tudo publicado, alguns alunos, principalmente os mais velhos, não encontram o material na plataforma e a procuram pelo WhatsApp ou por e-mail, que consideram mais fáceis. Para Helena, o ideal seria um ambiente mais limpo, com menos ferramentas e com uma explicação clara do que serve cada espaço.
+
+#### 2. Mapeamento Estruturado
+
+| Campo                               | Detalhes do Cenário de Uso |
+| :---------------------------------- | :------------------------- |
+| **Identificador e Título:**         | **Cenário 01:** Condução de Aula Síncrona e Publicação de Materiais pelo Docente. |
+| **Ator Protagonista:**              | Helena Ribeiro (Perfil 2: Professor). |
+| **Objetivo do Ator:**               | Ministrar aula online gravada e disponibilizar os slides para os alunos. |
+| **Contexto de Uso:**                | Computador (ou tablet) conectado à internet, no horário em que ela reserva para trabalhar na plataforma, sem notificações ativas. Turma de capacitação de servidores, organizada por setor de trabalho. |
+| **Precondições:**                   | 1. Helena está autenticada com a conta institucional.<br>2. A equipe da turma existe (criada por ela ou pela instituição) e os alunos já foram adicionados.<br>3. A reunião da aula está agendada e os slides estão prontos. |
+| **Fluxo Principal:**                | **1.** Iniciar reunião no canal da turma.<br>**2.** Ativar gravação e compartilhar apresentação de slides.<br>**3.** Encerrar a chamada e anexar o material no espaço adequado (aba *Arquivos*). |
+| **Fluxos Alternativos / Exceções:** | **FA01 - Dúvida sobre onde publicar:** No passo 3, com muitas opções na tela, Helena não tem certeza de onde colocar o material.<br>**Solução:** Recorre ao suporte de quem organiza o curso.<br>**FA02 - Envio lento de arquivo:** No passo 3, o arquivo demora a subir.<br>**Solução:** Ela aguarda o envio ou tenta novamente.<br>**FA03 - Aluno não encontra o material:** Depois da publicação, o aluno não localiza o material na plataforma.<br>**Solução:** Ele pede ajuda por WhatsApp ou e-mail, e Helena responde por esses canais. |
+| **Pós-condições:**                  | Aula ministrada, gravação disponível no chat e slides publicados, de modo que os alunos consigam localizá-los. |
+| **Avaliação de IHC:**               | O sistema facilita o controle da sala e a gravação sem poluir a visão da apresentação? Fica claro em qual espaço anexar o material? O envio de arquivos mostra o progresso ao usuário? |
+
+---
 ### 3.3. Perfil 3: Funcionário
 
 ## Esclarecimento de uma dúvida com colegas de trabalho
