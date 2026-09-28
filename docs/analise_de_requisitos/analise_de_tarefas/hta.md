@@ -140,7 +140,7 @@ A tarefa do gestor/chefe abrange as responsabilidades de liderança, criação d
 
 #### 3. Diagrama Gráfico HTA
 
-![Diagrama HTA - Chefe/Gestor](docs/assets/diagrama-hta-chefe.png)
+![Diagrama HTA - Chefe/Gestor](../../assets/diagrama-hta-chefe.png)
 
 ---
 
@@ -153,6 +153,8 @@ A tarefa do gestor/chefe abrange as responsabilidades de liderança, criação d
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição                                          | Autor(es)        | Revisor(es) |
-| ------ | ---------- | -------------------------------------------------- | ---------------- | ----------- |
-| `2.0`  | 27/09/2026 | Criação da página e adição do Perfil Chefe/Gestor. | Luccas Rodrigues |             |
+| Versão | Data       | Descrição                                                                       | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | ------------------------------------------------------------------------------- | ---------------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.                                                              | Lucas Sales      | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição do diagrama hta de esclarecimento de uma dúvida com colegas de trabalho. | Lucas Sales      | Luccas Rodrigues |
+| `1.2`  | 27/09/2026 | Atualização de estrutura da página                                              | Luccas Rodrigues | Lucas Sales      |

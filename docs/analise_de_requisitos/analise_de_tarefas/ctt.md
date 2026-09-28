@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Esclarecer dúvidas com um colega de trabalho
 
 Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega de outro setor, para isto, o mesmo conversa com seus colegas do setor busca via chat Teams contato com a pessoa que pode ajudar.
@@ -7,12 +6,6 @@ Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega d
 ![HTA](../../assets/ctt-entrevista-Lucas.png)
 <p align="center">Autor - Lucas Sales.</p>
 
-## Histórico de versão
-| Versão | Data       | Descrição                                                                | Autor(es)   | Revisor(es)      |
-| ------ | ---------- | ------------------------------------------------------------------------ | ----------- | ---------------- |
-| `1.0`  | 27/09/2026 | Criação da página.                                                       | Lucas Sales | Luccas Rodrigues |
-| `1.1`  | 27/09/2026 | Adição de diagrama de esclarecimento de dúvida com um colega de trabalho | Lucas Sales | Luccas Rodrigues |
-=======
 # Árvores de Tarefas Concorrentes (CTT – ConcurTaskTrees)
 
 ## 1. Introdução e Fundamentação Teórica
@@ -149,7 +142,7 @@ A análise por Árvore de Tarefas Concorrentes (CTT) do perfil do gestor modela 
 
 #### 3. Diagrama Gráfico CTT
 
-![Diagrama CTT - Chefe / Gestor](docs/assets/diagrama-ctt-chefe.png)
+![Diagrama CTT - Chefe / Gestor](../../assets/diagrama-ctt-chefe.png)
 
 ---
 
@@ -163,7 +156,9 @@ A análise por Árvore de Tarefas Concorrentes (CTT) do perfil do gestor modela 
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição          | Autor(es)        | Revisor(es)      |
-| ------ | ---------- | ------------------ | ---------------- | ---------------- |
-| `2.0`  | 27/09/2026 | Criação da página. | Luccas Rodrigues |                  |
->>>>>>> 6c703744ed94ed636ae4c5c9673e3a60dba0b8bb
+| Versão | Data       | Descrição                                                                      | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | ------------------------------------------------------------------------------ | ---------------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.                                                             | Lucas Sales      | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição do diagrama ctt de esclarecimento de uma dúvida com colegas de trabalho | Lucas Sales      | Luccas Rodrigues |
+| `1.2`  | 27/09/2026 | Atualização de estrutura da página                                             | Luccas Rodrigues | Lucas Sales      |
+

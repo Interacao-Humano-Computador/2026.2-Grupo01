@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-## Esclarecimento de uma dúvida com colegas de trabalho
-
-Ator: Marina Alves, profissional da área de comunicação, com experiência no uso de computadores e de ferramentas de comunicação e colaboração.
-
-Marina está realizando uma atividade de trabalho quando encontra uma dúvida que não consegue solucionar sozinha. Como precisa esclarecer a questão para dar continuidade à sua atividade, seu objetivo é encontrar um colega que possa fornecer a informação necessária.
-
-Inicialmente, Marina conversa presencialmente com alguns colegas para identificar quem possui conhecimento sobre o assunto. Ao descobrir quem pode ajudá-la, ela procura essa pessoa no Microsoft Teams e inicia o contato. Marina apresenta sua dúvida e aguarda as informações necessárias para decidir como prosseguir com a atividade.
-
-Caso o colega consiga esclarecer a questão, Marina encerra o contato e retorna à atividade que estava realizando, considerando que seu objetivo foi alcançado. Caso o colega não saiba responder à dúvida, ele indica outra pessoa que possivelmente possui o conhecimento necessário. Marina então procura essa nova pessoa no Teams e repete o processo de contato e esclarecimento.
-
-Esse processo pode se repetir até que Marina encontre alguém capaz de esclarecer a dúvida. Ao obter a informação necessária, ela avalia que a dúvida foi resolvida e pode continuar sua atividade de trabalho.
-
-## Histórico de versão
-| Versão | Data       | Descrição                                       | Autor(es)   | Revisor(es)      |
-| ------ | ---------- | ----------------------------------------------- | ----------- | ---------------- |
-| `1.0`  | 27/09/2026 | Criação da página.                              | Lucas Sales | Luccas Rodrigues |
-| `1.1`  | 27/09/2026 | Adição de cenário de esclarecimento de dúvidas. | Lucas Sales | Luccas Rodrigues |
-=======
 # Cenários de Uso — Microsoft Teams
 
 ## 1. Introdução e Fundamentação Teórica
@@ -57,17 +38,17 @@ ante inserir o texto narrativo em formato de história da persona Estudante]*
 
 #### 2. Mapeamento Estruturado
 
-| Campo | Detalhes do Cenário de Uso |
-| :--- | :--- |
-| **Identificador e Título:** | **Cenário 01:** Submissão de Atividade Avaliativa pelo Estudante. |
-| **Ator Protagonista:** | *[Nome da Persona Estudante]* (Perfil 1: Estudante). |
-| **Objetivo do Ator:** | Enviar o trabalho da disciplina dentro do prazo estipulado no Teams. |
-| **Contexto de Uso:** | *[Inserir ambiente, horário e dispositivos do estudante]* |
-| **Precondições:** | *[Condições necessárias antes do início da tarefa]* |
-| **Fluxo Principal:** | **1.** Acessar a equipe da disciplina.<br>**2.** Navegar até a aba *Tarefas (Assignments)*.<br>**3.** Anexar o arquivo PDF e clicar em *Entregar*. |
+| Campo                               | Detalhes do Cenário de Uso                                                                                                                            |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Identificador e Título:**         | **Cenário 01:** Submissão de Atividade Avaliativa pelo Estudante.                                                                                     |
+| **Ator Protagonista:**              | *[Nome da Persona Estudante]* (Perfil 1: Estudante).                                                                                                  |
+| **Objetivo do Ator:**               | Enviar o trabalho da disciplina dentro do prazo estipulado no Teams.                                                                                  |
+| **Contexto de Uso:**                | *[Inserir ambiente, horário e dispositivos do estudante]*                                                                                             |
+| **Precondições:**                   | *[Condições necessárias antes do início da tarefa]*                                                                                                   |
+| **Fluxo Principal:**                | **1.** Acessar a equipe da disciplina.<br>**2.** Navegar até a aba *Tarefas (Assignments)*.<br>**3.** Anexar o arquivo PDF e clicar em *Entregar*.    |
 | **Fluxos Alternativos / Exceções:** | **Exceção:** Falha no carregamento do anexo por instabilidade de rede.<br>**Solução:** Tentar novamente e confirmar o recebimento do feedback visual. |
-| **Pós-condições:** | Atividade entregue com comprovante visual de submissão na tela. |
-| **Avaliação de IHC:** | Como a interface confirma ao estudante que a entrega foi concluída com sucesso? |
+| **Pós-condições:**                  | Atividade entregue com comprovante visual de submissão na tela.                                                                                       |
+| **Avaliação de IHC:**               | Como a interface confirma ao estudante que a entrega foi concluída com sucesso?                                                                       |
 
 ---
 
@@ -82,42 +63,33 @@ ante inserir o texto narrativo em formato de história da persona Estudante]*
 
 #### 2. Mapeamento Estruturado
 
-| Campo | Detalhes do Cenário de Uso |
-| :--- | :--- |
-| **Identificador e Título:** | **Cenário 01:** Condução de Aula Síncrona e Publicação de Materiais pelo Docente. |
-| **Ator Protagonista:** | *[Nome da Persona Professor]* (Perfil 2: Professor). |
-| **Objetivo do Ator:** | Ministrar aula online gravada e disponibilizar os slides para os alunos. |
-| **Contexto de Uso:** | *[Inserir ambiente, horário e dispositivos do professor]* |
-| **Precondições:** | *[Condições necessárias antes do início da aula]* |
-| **Fluxo Principal:** | **1.** Iniciar reunião no canal da turma.<br>**2.** Ativar gravação e compartilhar apresentação de slides.<br>**3.** Encerrar a chamada e anexar o material na aba *Arquivos*. |
-| **Fluxos Alternativos / Exceções:** | **Exceção:** Alunos relatam não visualizar o compartilhamento de tela.<br>**Solução:** Alternar o modo de apresentação no Teams para o modo Janela. |
-| **Pós-condições:** | Aula ministrada, gravação disponível no chat e slides publicados. |
-| **Avaliação de IHC:** | O sistema facilita o controle da sala e a gravação sem poluir a visão da apresentação? |
+| Campo                               | Detalhes do Cenário de Uso                                                                                                                                                     |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Identificador e Título:**         | **Cenário 01:** Condução de Aula Síncrona e Publicação de Materiais pelo Docente.                                                                                              |
+| **Ator Protagonista:**              | *[Nome da Persona Professor]* (Perfil 2: Professor).                                                                                                                           |
+| **Objetivo do Ator:**               | Ministrar aula online gravada e disponibilizar os slides para os alunos.                                                                                                       |
+| **Contexto de Uso:**                | *[Inserir ambiente, horário e dispositivos do professor]*                                                                                                                      |
+| **Precondições:**                   | *[Condições necessárias antes do início da aula]*                                                                                                                              |
+| **Fluxo Principal:**                | **1.** Iniciar reunião no canal da turma.<br>**2.** Ativar gravação e compartilhar apresentação de slides.<br>**3.** Encerrar a chamada e anexar o material na aba *Arquivos*. |
+| **Fluxos Alternativos / Exceções:** | **Exceção:** Alunos relatam não visualizar o compartilhamento de tela.<br>**Solução:** Alternar o modo de apresentação no Teams para o modo Janela.                            |
+| **Pós-condições:**                  | Aula ministrada, gravação disponível no chat e slides publicados.                                                                                                              |
+| **Avaliação de IHC:**               | O sistema facilita o controle da sala e a gravação sem poluir a visão da apresentação?                                                                                         |
 
 ---
 
 ### 3.3. Perfil 3: Funcionário
 
-> **Responsável pelo Perfil:** *[Nome do Integrante do Grupo]*  
-> **Título do Cenário:** Atendimento de Solicitação Interna de Setor e Tramitação de Documentos
+## Esclarecimento de uma dúvida com colegas de trabalho
 
-#### 1. Narrativa do Cenário
+Ator: Marina Alves, profissional da área de comunicação, com experiência no uso de computadores e de ferramentas de comunicação e colaboração.
 
-*[Espaço reservado para o integrante inserir o texto narrativo em formato de história da persona Funcionário]*
+Marina está realizando uma atividade de trabalho quando encontra uma dúvida que não consegue solucionar sozinha. Como precisa esclarecer a questão para dar continuidade à sua atividade, seu objetivo é encontrar um colega que possa fornecer a informação necessária.
 
-#### 2. Mapeamento Estruturado
+Inicialmente, Marina conversa presencialmente com alguns colegas para identificar quem possui conhecimento sobre o assunto. Ao descobrir quem pode ajudá-la, ela procura essa pessoa no Microsoft Teams e inicia o contato. Marina apresenta sua dúvida e aguarda as informações necessárias para decidir como prosseguir com a atividade.
 
-| Campo | Detalhes do Cenário de Uso |
-| :--- | :--- |
-| **Identificador e Título:** | **Cenário 01:** Processamento de Solicitação e Envio de Documento Institucional. |
-| **Ator Protagonista:** | *[Nome da Persona Funcionário]* (Perfil 3: Funcionário). |
-| **Objetivo do Ator:** | Responder a demandas administrativas e compartilhar relatórios com outros setores. |
-| **Contexto de Uso:** | *[Inserir ambiente, horário e dispositivos do funcionário]* |
-| **Precondições:** | *[Condições necessárias antes do atendimento]* |
-| **Fluxo Principal:** | **1.** Receber mensagem de solicitação no chat do setor.<br>**2.** Localizar o arquivo solicitado no repositório.<br>**3.** Compartilhar o link de acesso direto com o solicitante. |
-| **Fluxos Alternativos / Exceções:** | **Exceção:** O solicitante não possui permissão de leitura no link enviado.<br>**Solução:** Ajustar as permissões de compartilhamento direto no Teams. |
-| **Pós-condições:** | Documento entregue ao solicitante e registro de atendimento arquivado. |
-| **Avaliação de IHC:** | Quão transparente é a gestão de permissões ao enviar links de arquivos pelo chat? |
+Caso o colega consiga esclarecer a questão, Marina encerra o contato e retorna à atividade que estava realizando, considerando que seu objetivo foi alcançado. Caso o colega não saiba responder à dúvida, ele indica outra pessoa que possivelmente possui o conhecimento necessário. Marina então procura essa nova pessoa no Teams e repete o processo de contato e esclarecimento.
+
+Esse processo pode se repetir até que Marina encontre alguém capaz de esclarecer a dúvida. Ao obter a informação necessária, ela avalia que a dúvida foi resolvida e pode continuar sua atividade de trabalho.
 
 ---
 
@@ -132,17 +104,17 @@ Em uma manhã de segunda-feira, Roberto encontra-se em seu escritório em modo *
 
 #### 2. Mapeamento Estruturado
 
-| Campo | Detalhes do Cenário de Uso |
-| :--- | :--- |
-| **Identificador e Título:** | **Cenário 05:** Estruturação de Nova Equipe de Projeto e Condução de Reunião Síncrona de Alinhamento pelo Gestor no Microsoft Teams. |
-| **Ator / Persona Protagonista:** | **Roberto Mendes** (Persona Primária: 44 anos, Coordenador de Projetos e Gestor de Setor Administrativo — Perfil 4: Chefe / Gestor).<br>*Atores secundários:* Camila (Analista Técnica e Colaboradora) e demais membros do setor administrativo. |
-| **Objetivo do Ator:** | **Objetivo Pessoal:** Manter a equipe alinhada e produtiva sem sobrecarregá-la com reuniões extensas ou mensagens dispersas fora do expediente.<br>**Objetivos Práticos no Teams:**<br>1. Criar uma equipe e canal estruturados para o novo projeto.<br>2. Configurar permissões de governança e proteção de arquivos.<br>3. Publicar comunicado formal em destaque no *Canal Geral*.<br>4. Agendar e conduzir reunião síncrona com gravação e pauta centralizada. |
-| **Contexto de Uso:** | Manhã de segunda-feira, escritório em *home office* (jornada híbrida), utilizando notebook corporativo com monitor secundário e headset. O setor precisa iniciar um projeto estratégico de reestruturação com prazo apertado imposto pela diretoria. |
-| **Precondições:** | • Roberto possui conta com privilégios de gestor/criador no Microsoft Teams.<br>• Os 8 colaboradores do setor estão previamente cadastrados na plataforma.<br>• Aplicação do Teams ativa e conectada à internet. |
-| **Fluxo Principal (Passo a Passo):** | **1. Criação do Espaço de Trabalho:** Roberto abre o Teams, navega até *Equipes*, cria a equipe *"Projeto Reestruturação 2026"* e adiciona os 8 colaboradores.<br>**2. Configuração de Governança:** Acessa as *Configurações da Equipe* e desmarca a permissão para que membros excluam arquivos compartilhados ou criem canais privados.<br>**3. Publicação do Anúncio:** No *Canal Geral*, cria uma postagem do tipo *Anúncio (Announcement)* em destaque vermelho (*"Atenção: Início do Projeto Reestruturação 2026"*), insere as metas da semana e marca como *"Importante"*.<br>**4. Agendamento:** Acessa o *Calendário*, agenda a reunião de alinhamento para às 14h00 e vincula o convite ao canal da equipe.<br>**5. Condução da Reunião:** Às 14h00, inicia a videoconferência, ativa *Gravação e Transcrição*, compartilha a tela com a pauta e define responsabilidades em 45 minutos. |
-| **Fluxos Alternativos / Exceções:** | **Ruptura de Permissão (Falha de Acesso):** Durante a chamada, a colaboradora Camila tenta anexar um relatório no canal e relata no chat que não possui permissão de escrita na pasta do SharePoint vinculado.<br>**Tratamento / Resolução:** Roberto acessa o *Gerenciamento do Canal*, altera a permissão da pasta de *"Apenas Leitura"* para *"Membro / Edição"*. Camila tenta novamente e consegue anexar o arquivo com sucesso. |
-| **Pós-condições (Resultado Final):** | • A gravação da reunião fica disponível automaticamente no chat do canal.<br>• Todos os membros reagem com *"OK"* ao anúncio fixado.<br>• Os arquivos da equipe ficam organizados e protegidos na pasta correta.<br>• O alinhamento é concluído sem atrasos, retrabalho ou envio de e-mails/mensagens fora do horário comercial. |
-| **Perguntas / Avaliação de IHC Associada:** | • *Como o sistema apoia a visibilidade e priorização de avisos críticos?* (Através do recurso de Anúncio e etiqueta de Importante).<br>• *Qual foi a barreira de usabilidade/governança identificada?* (Configuração padrão de permissão de pastas herdada do SharePoint que bloqueou a edição de membros até a intervenção manual do gestor).<br>• *Como a plataforma apoia o trabalho assíncrono?* (Disponibilização automática da gravação e transcrição no canal para membros ausentes). |
+| Campo                                       | Detalhes do Cenário de Uso                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Identificador e Título:**                 | **Cenário 05:** Estruturação de Nova Equipe de Projeto e Condução de Reunião Síncrona de Alinhamento pelo Gestor no Microsoft Teams.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Ator / Persona Protagonista:**            | **Roberto Mendes** (Persona Primária: 44 anos, Coordenador de Projetos e Gestor de Setor Administrativo — Perfil 4: Chefe / Gestor).<br>*Atores secundários:* Camila (Analista Técnica e Colaboradora) e demais membros do setor administrativo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Objetivo do Ator:**                       | **Objetivo Pessoal:** Manter a equipe alinhada e produtiva sem sobrecarregá-la com reuniões extensas ou mensagens dispersas fora do expediente.<br>**Objetivos Práticos no Teams:**<br>1. Criar uma equipe e canal estruturados para o novo projeto.<br>2. Configurar permissões de governança e proteção de arquivos.<br>3. Publicar comunicado formal em destaque no *Canal Geral*.<br>4. Agendar e conduzir reunião síncrona com gravação e pauta centralizada.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Contexto de Uso:**                        | Manhã de segunda-feira, escritório em *home office* (jornada híbrida), utilizando notebook corporativo com monitor secundário e headset. O setor precisa iniciar um projeto estratégico de reestruturação com prazo apertado imposto pela diretoria.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Precondições:**                           | • Roberto possui conta com privilégios de gestor/criador no Microsoft Teams.<br>• Os 8 colaboradores do setor estão previamente cadastrados na plataforma.<br>• Aplicação do Teams ativa e conectada à internet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Fluxo Principal (Passo a Passo):**        | **1. Criação do Espaço de Trabalho:** Roberto abre o Teams, navega até *Equipes*, cria a equipe *"Projeto Reestruturação 2026"* e adiciona os 8 colaboradores.<br>**2. Configuração de Governança:** Acessa as *Configurações da Equipe* e desmarca a permissão para que membros excluam arquivos compartilhados ou criem canais privados.<br>**3. Publicação do Anúncio:** No *Canal Geral*, cria uma postagem do tipo *Anúncio (Announcement)* em destaque vermelho (*"Atenção: Início do Projeto Reestruturação 2026"*), insere as metas da semana e marca como *"Importante"*.<br>**4. Agendamento:** Acessa o *Calendário*, agenda a reunião de alinhamento para às 14h00 e vincula o convite ao canal da equipe.<br>**5. Condução da Reunião:** Às 14h00, inicia a videoconferência, ativa *Gravação e Transcrição*, compartilha a tela com a pauta e define responsabilidades em 45 minutos. |
+| **Fluxos Alternativos / Exceções:**         | **Ruptura de Permissão (Falha de Acesso):** Durante a chamada, a colaboradora Camila tenta anexar um relatório no canal e relata no chat que não possui permissão de escrita na pasta do SharePoint vinculado.<br>**Tratamento / Resolução:** Roberto acessa o *Gerenciamento do Canal*, altera a permissão da pasta de *"Apenas Leitura"* para *"Membro / Edição"*. Camila tenta novamente e consegue anexar o arquivo com sucesso.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Pós-condições (Resultado Final):**        | • A gravação da reunião fica disponível automaticamente no chat do canal.<br>• Todos os membros reagem com *"OK"* ao anúncio fixado.<br>• Os arquivos da equipe ficam organizados e protegidos na pasta correta.<br>• O alinhamento é concluído sem atrasos, retrabalho ou envio de e-mails/mensagens fora do horário comercial.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Perguntas / Avaliação de IHC Associada:** | • *Como o sistema apoia a visibilidade e priorização de avisos críticos?* (Através do recurso de Anúncio e etiqueta de Importante).<br>• *Qual foi a barreira de usabilidade/governança identificada?* (Configuração padrão de permissão de pastas herdada do SharePoint que bloqueou a edição de membros até a intervenção manual do gestor).<br>• *Como a plataforma apoia o trabalho assíncrono?* (Disponibilização automática da gravação e transcrição no canal para membros ausentes).                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ---
 
@@ -154,7 +126,9 @@ Em uma manhã de segunda-feira, Roberto encontra-se em seu escritório em modo *
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição          | Autor(es)        | Revisor(es)      |
-| ------ | ---------- | ------------------ | ---------------- | ---------------- |
-| `2.0`  | 27/09/2026 | Criação da página. | Luccas Rodrigues |                  |
->>>>>>> 6c703744ed94ed636ae4c5c9673e3a60dba0b8bb
+| Versão | Data       | Descrição                                                               | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | ----------------------------------------------------------------------- | ---------------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.                                                      | Lucas Sales      | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição do cenário Esclarecimento de uma dúvida com colegas de trabalho. | Lucas Sales      | Luccas Rodrigues |
+| `1.2`  | 27/09/2026 | Atualização de estrutura da página                                      | Luccas Rodrigues | Lucas Sales      |
+
