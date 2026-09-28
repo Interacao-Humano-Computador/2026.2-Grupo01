@@ -54,28 +54,24 @@ ante inserir o texto narrativo em formato de história da persona Estudante]*
 
 ### 3.2. Perfil 2: Professor
 
-> **Responsável pelo Perfil:** *[Nome do Integrante do Grupo]*  
-> **Título do Cenário:** Organização do Canal de Disciplina e Condução de Reunião Síncrona de Aula
+> **Responsável pela Persona:** João Paulo  
+> **Status:** Persona Primária (Perfil 2: Professor)
 
-#### 1. Narrativa do Cenário
-
-*[Espaço reservado para o integrante inserir o texto narrativo em formato de história da persona Professor]*
-
-#### 2. Mapeamento Estruturado
-
-| Campo                               | Detalhes do Cenário de Uso                                                                                                                                                     |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Identificador e Título:**         | **Cenário 01:** Condução de Aula Síncrona e Publicação de Materiais pelo Docente.                                                                                              |
-| **Ator Protagonista:**              | *[Nome da Persona Professor]* (Perfil 2: Professor).                                                                                                                           |
-| **Objetivo do Ator:**               | Ministrar aula online gravada e disponibilizar os slides para os alunos.                                                                                                       |
-| **Contexto de Uso:**                | *[Inserir ambiente, horário e dispositivos do professor]*                                                                                                                      |
-| **Precondições:**                   | *[Condições necessárias antes do início da aula]*                                                                                                                              |
-| **Fluxo Principal:**                | **1.** Iniciar reunião no canal da turma.<br>**2.** Ativar gravação e compartilhar apresentação de slides.<br>**3.** Encerrar a chamada e anexar o material na aba *Arquivos*. |
-| **Fluxos Alternativos / Exceções:** | **Exceção:** Alunos relatam não visualizar o compartilhamento de tela.<br>**Solução:** Alternar o modo de apresentação no Teams para o modo Janela.                            |
-| **Pós-condições:**                  | Aula ministrada, gravação disponível no chat e slides publicados.                                                                                                              |
-| **Avaliação de IHC:**               | O sistema facilita o controle da sala e a gravação sem poluir a visão da apresentação?                                                                                         |
-
----
+#### 👤 Ficha da Persona: Helena Ribeiro
+| Campo                               | Detalhes da Persona |
+| :---------------------------------- | :------------------ |
+| **Nome e Sobrenome:**               | Helena Ribeiro (nome fictício; a participante da entrevista é mantida em anonimato) |
+| **Foto / Representação:**           | Mulher de 47 anos, expressão atenta e acolhedora, em ambiente de trabalho com computador e tablet (imagem ilustrativa a definir). |
+| **Idade e Demografia:**             | **Idade:** 47 anos.<br>**Formação:** Pedagoga (professora de formação).<br>**Departamento:** Área de capacitação de servidores públicos.<br>**Tempo no cargo:** 16 anos como Gestora em Políticas Públicas.<br>**Dispositivos:** Computador e tablet. |
+| **Status da Persona:**              | **Persona Primária** (foco do design e da avaliação para funcionalidades de ensino e de organização de turmas). |
+| **Frase de Efeito (Motto):**        | *"Eu teria um ambiente limpo, primeiro, sem muitas ferramentas."* |
+| **Perfil Profissional / Ocupação:** | Professora e capacitadora de servidores públicos, com turmas organizadas por setores de trabalho. Atua no serviço público como Gestora em Políticas Públicas. |
+| **Objetivos do Usuário:**           | **Objetivos Pessoais:**<br>• Ajudar os alunos, inclusive os mais velhos, a usar a plataforma sem dificuldade.<br>• Manter uma rotina de trabalho sem ansiedade, consultando a plataforma em horários próprios.<br><br>**Objetivos no Teams:**<br>• Criar turmas de capacitação (muitas) e organizá-las por setor.<br>• Marcar reuniões e postar arquivos e atividades no lugar certo.<br>• Corrigir trabalhos e interagir com a turma no chat. |
+| **Habilidades e Competências:**     | **Alfabetismo Computacional:** Intermediário.<br>**Atitude:** Aprende as ferramentas mexendo e, atualmente, com ajuda de IA. Vê o Teams como importante desde a pandemia, mas acha que hoje existem ferramentas mais modernas. |
+| **Tarefas Principais e Rotina:**    | **Mais demoradas:** Corrigir trabalhos e interagir com a turma.<br>**Recorrentes:** Postar arquivos e atividades; consultar a plataforma em horários que ela reserva, com as notificações desativadas.<br>**Por turma / eventuais:** Criar turmas (recebendo-as prontas ou criando do zero) e marcar reuniões.<br>*(A entrevista não detalhou a frequência exata.)* |
+| **Relacionamentos:**                | **Com Alunos (servidores):** Muitos preferem WhatsApp e e-mail por acharem mais fácil; entre eles há alunos mais velhos, com mais dificuldade com tecnologia.<br>**Com quem organiza o curso:** Recorre a essa equipe como suporte quando tem dúvida sobre a plataforma. |
+| **Requisitos e Necessidades:**      | **Ambiente limpo:** Menos ferramentas e espaços na tela.<br>**Clareza de postagem:** Deixar evidente onde e como postar atividades.<br>**Explicações embutidas:** Indicar para que serve cada espaço, com interações mais dinâmicas.<br>**Envio ágil:** Subida de arquivos mais rápida.<br>**Notificações:** Poder reduzi-las ou desativá-las. |
+| **Frustrações e Gambiarras:**       | **Frustrações:** Não saber em qual espaço colocar cada coisa (tarefa, conversa com o aluno) por causa da quantidade de opções; demora no envio de arquivos; excesso de ferramentas que dificulta o uso pelos alunos; notificações que a deixam ansiosa; dificuldade inicial na pandemia para gravar aulas e colocar material na plataforma.<br>**Soluções de Contorno:** Alunos recorrem ao WhatsApp e ao e-mail porque não encontram as coisas na plataforma; ela conta com o suporte de quem organiza o curso. |
 
 ### 3.3. Perfil 3: Funcionário
 
