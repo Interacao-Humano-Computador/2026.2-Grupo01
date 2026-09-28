@@ -39,6 +39,7 @@ nav:
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
   - Análise de Requisitos:
+    - Coleta de dados: analise_de_requisitos/coleta_de_dados.md
     - Perfil de usuário: analise_de_requisitos/perfil_usuarios.md
     - Personas: analise_de_requisitos/personas.md
     - Cenários: analise_de_requisitos/cenarios.md
