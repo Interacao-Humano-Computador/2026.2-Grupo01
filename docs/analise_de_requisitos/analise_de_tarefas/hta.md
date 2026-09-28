@@ -143,6 +143,6 @@ A tarefa do gestor/chefe abrange as responsabilidades de liderança, criação d
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição          | Autor(es)        | Revisor(es)      |
-| ------ | ---------- | ------------------ | ---------------- | ---------------- |
-| `2.0`  | 27/09/2026 | Criação da página. | Luccas Rodrigues |                  |
+| Versão | Data       | Descrição                                          | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | -------------------------------------------------- | ---------------- | ---------------- |
+| `2.0`  | 27/09/2026 | Criação da página e adição do Perfil Chefe/Gestor. | Luccas Rodrigues |                  |

@@ -32,6 +32,7 @@ Segundo a literatura-texto de IHC (Barbosa e Silva, 2010, p. 185), cada cenário
 > **Título do Cenário:** Acceso ao Material de Aula e Submissão de Atividade Avaliativa com Prazo Estipulado
 
 #### 1. Narrativa do Cenário
+
 *[Espaço reservado para o integr
 ante inserir o texto narrativo em formato de história da persona Estudante]*
 
@@ -102,6 +103,7 @@ ante inserir o texto narrativo em formato de história da persona Estudante]*
 ---
 
 ### 3.4. Perfil 4: Chefe/Gestor
+
 > **Responsável pelo Perfil:** Luccas Rodrigues  
 > **Título do Cenário:** Estruturação de Nova Equipe de Projeto e Condução de Reunião Síncrona de Alinhamento pelo Gestor
 

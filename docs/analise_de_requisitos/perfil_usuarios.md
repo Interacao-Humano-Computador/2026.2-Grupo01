@@ -14,6 +14,12 @@ Para realizar o mapeamento e a coleta de dados sobre os usuários da plataforma,
 * **Entrevista:** Aplicação de reuniões individuais guiadas por um roteiro para investigar a fundo as rotinas, problemas e necessidades de diferentes atores.
 * **Grupo de Foco:** Condução de discussões coletivas com participantes para capturar a dinâmica de interação, percepções compartilhadas e visões divergentes sobre o uso do ambiente virtual.
 
+### 2.1 Gravações das Entrevistas e Grupo de Foco
+
+Como forma de garantir a rastreabilidade da pesquisa em IHC, as sessões de coleta de dados foram gravadas (mediante autorização prévia formalizada no TCLE). Os registros audiovisuais das atividades estão disponíveis nos links abaixo:
+
+* 🎥 [Gravação da Entrevistas (Vídeo/Áudio)](https://youtu.be/MGMYDoBXBd4)
+
 ---
 
 ## 3. Aspectos Éticos e Termos de Consentimento
