@@ -11,7 +11,7 @@ Caso o colega consiga esclarecer a questão, Marina encerra o contato e retorna 
 Esse processo pode se repetir até que Marina encontre alguém capaz de esclarecer a dúvida. Ao obter a informação necessária, ela avalia que a dúvida foi resolvida e pode continuar sua atividade de trabalho.
 
 ## Histórico de versão
-| Versão | Data       | Descrição                                       | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------------------------------------------- | ----------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página.                              | Lucas Sales |             |
-| `1.1`  | 05/09/2026 | Adição de cenário de esclarecimento de dúvidas. | Lucas Sales |             |
+| Versão | Data       | Descrição                                       | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | ----------------------------------------------- | ----------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.                              | Lucas Sales | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição de cenário de esclarecimento de dúvidas. | Lucas Sales | Luccas Rodrigues |

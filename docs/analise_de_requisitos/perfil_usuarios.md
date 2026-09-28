@@ -39,7 +39,7 @@ A partir dos dados coletados por meio das **entrevistas e do grupo de foco**, fo
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | --------------------------- | ----------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página.          | Lucas Sales |             |
-| `1.1`  | 05/09/2026 | Adição de perfis de usuário | Lucas Sales |             |
+| Versão | Data       | Descrição                   | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | --------------------------- | ----------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.          | Lucas Sales | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição de perfis de usuário | Lucas Sales | Luccas Rodrigues |

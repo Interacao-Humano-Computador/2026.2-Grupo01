@@ -7,6 +7,7 @@ Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega d
 <p align="center">Autor - Lucas Sales.</p>
 
 ## Histórico de versão
-| Versão | Data       | Descrição          | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ------------------ | ----------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página. | Lucas Sales |             |
+| Versão | Data       | Descrição                                                                | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | ------------------------------------------------------------------------ | ----------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.                                                       | Lucas Sales | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição de diagrama de esclarecimento de dúvida com um colega de trabalho | Lucas Sales | Luccas Rodrigues |

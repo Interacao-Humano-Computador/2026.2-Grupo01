@@ -24,7 +24,7 @@ Seu principal objetivo ao utilizar uma ferramenta de comunicação e colaboraç�
 
 
 ## Histórico de versão
-| Versão | Data       | Descrição                       | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ------------------------------- | ----------- | ----------- |
-| `1.0`  | 05/09/2026 | Criação da página.              | Lucas Sales |             |
-| `1.1`  | 05/09/2026 | Adição da persona Marina Alves. | Lucas Sales |             |
+| Versão | Data       | Descrição                       | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | ------------------------------- | ----------- | ---------------- |
+| `1.0`  | 27/09/2026 | Criação da página.              | Lucas Sales | Luccas Rodrigues |
+| `1.1`  | 27/09/2026 | Adição da persona Marina Alves. | Lucas Sales | Luccas Rodrigues |
