@@ -38,7 +38,7 @@ nav:
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
 
-     - Análise de Requisitos:
+  - Análise de Requisitos:
     - Coleta de dados:
       - Coleta de dados: analise_de_requisitos/coleta_de_dados.md
       - Entrevista Rayca: Entrevistas/entrevista_rayca.md
@@ -52,7 +52,9 @@ nav:
     - Persona e Caso de Uso: Analise_Requisitos/persona_caso_de_uso.md
     - HTA e CTT: Analise_Requisitos/hta_ctt.md
 
-  - Atas e Apresentações: atas/reunioes.md
+    - Atas e Apresentações: atas/reunioes.md
+  - Inspeções: inspecoes/inspecao.md
+  - Entrevistas: Entrevistas/entrevistas.md
 
 
 
