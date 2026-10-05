@@ -48,11 +48,12 @@ nav:
     - Análise de Tarefas:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
       - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
-    - Entrevista: Analise_Requisitos/entrevista.md
-    - Persona e Caso de Uso: Analise_Requisitos/persona_caso_de_uso.md
-    - HTA e CTT: Analise_Requisitos/hta_ctt.md
-
-    - Atas e Apresentações: atas/reunioes.md
+    - Princípios Gerais do projeto: analise_de_requisitos/principios_gerais.md
+    - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md
+    - Guia de Estilo: analise_de_requisitos/guia_estilo.md
+    - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md
+    - Metas de usabilidade: analise_de_requisitos/metas_usabilidade.md
+  - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
   - Entrevistas: Entrevistas/entrevistas.md
 
