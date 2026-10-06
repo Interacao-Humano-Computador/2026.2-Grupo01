@@ -110,16 +110,12 @@ A Tabela 2 relaciona as características levantadas às decisões do redesenho, 
 
 <p><em>Fonte: Autores (2026).</em></p>
 
-## 6. Declaração de uso de Inteligência Artificial Generativa
-
-Em atenção às diretrizes da Sociedade Brasileira de Computação (SBC), informa-se que uma ferramenta de IA generativa foi utilizada como apoio na estruturação das Seções 2 a 5 desta página, na redação das tabelas e na consulta à documentação do Microsoft Teams. As descrições das funcionalidades devem ser conferidas pelos integrantes do grupo na própria plataforma, que mantêm a responsabilidade integral pelo conteúdo.
-
-## 7. Referências Bibliográficas
+## 6. Referências Bibliográficas
 
 1. BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021. Seções 3.1, 7.2 e 11.4.
 2. MICROSOFT. **Visão geral do Microsoft Teams**. Microsoft Learn, [s.d.]. Disponível em: <https://learn.microsoft.com/pt-br/microsoftteams/teams-overview>. Acesso em: 6 out. 2026.
 
-## 8. Histórico de versão
+## 7. Histórico de versão
 
 | Versão | Data       | Descrição                                                                                              | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------------------------------------------------------------------------------------------ | ----------- | ----------- |
