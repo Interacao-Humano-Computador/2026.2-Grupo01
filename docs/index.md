@@ -163,7 +163,7 @@ Conforme a ementa e o cronograma da disciplina, os artefatos encontram-se estrut
 * **Etapa 2: Análise de Requisitos e Perfil do Usuário**
   * Perfil do Usuário, Aspectos Éticos (TCLE), Personas, Cenários e Análise de Tarefas (HTA e GOMS/CTT).
 * **Etapa 3: Metas de Usabilidade e Guia de Estilo**
-  * Princípios Gerais do Projeto, Metas de Usabilidade e Guia de Estilo do Oppia.
+  * Princípios Gerais do Projeto, Metas de Usabilidade e Guia de Estilo do Microsoft Teams.
 * **Etapas 4 a 8: Avaliação, Prototipação e Verificação**
   * Planejamentos DECIDE, Storyboards, Protótipos de Baixa e Alta Fidelidade, e Verificação de Artefatos.
 
