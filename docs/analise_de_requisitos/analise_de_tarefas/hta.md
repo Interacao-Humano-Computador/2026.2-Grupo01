@@ -1,5 +1,9 @@
 # Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis)
 
+| Data       | Contribuição                                                                                                                                  | Autor(es)   | Revisor(es) |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| 06/10/2026 | Inserção da tabela de contribuição e atualização de diagrama HTA da tarefa de comunicação entre usuários, exclusão de estrutura não utilizada | Lucas Sales |             |
+
 ## 1. Introdução e Fundamentação Teórica
 
 A aplicação da HTA na avaliação do **Teams** permite identificar gargalos na navegação, quebras de fluxo, redundâncias operacionais e pontos onde o sistema exige esforço cognitivo excessivo para a conclusão de tarefas do cotidiano universitário e administrativo.
@@ -23,78 +27,28 @@ A modelagem HTA adota a seguinte estrutura:
 
 ---
 
-## 3. Análise de Tarefas por Perfil de Usuário
+## 3. Análise de Tarefas
 
-### 3.1. Perfil 1: Estudante
+## 3.1 Comunicação entre usuários:
 
-> **Responsável pelo Perfil:** *[Nome do Integrante do Grupo]*  
-> **Tarefa Analisada:** *[Ex: Entregar Atividade Avaliativa (Assignment) com Anexo de Arquivo]*
+Nesta tarefa o usuário precisa se comunicar com outros usuários, para alinhamentos, esclarecimentos de dúvidas, e outras tarefas que possam apoiar o trabalho individual de cada um, os mesmos utilizam a plataforma teams, com a funcionalidade de chat como meio de realização desta tarefa.
 
-#### 1. Texto Explicativo e Contextualização
 
-*[Colega: Insira aqui a contextualização da tarefa do Estudante, explicando o motivo da escolha desta tarefa e o cenário de uso associado.]*
+| Objetivos / operações                         | Problemas e recomendações                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Se comunicar com um usuário** `1>2`      | **input:** necessidade de informar algo ou obter algo de um usuário<br>**feedback:** usuário recebeu a mensagem e retornou ou agiu conforme o esperado<br>**plano:** 1>2<br>**recomendação:** avaliar se o chat do Teams é o canal adequado ao assunto e à urgência                                                                                                   |
+| **1. Definir conteúdo e destinatários** `1+2` | **plano:** 1+2, definir os dois ao mesmo tempo ou em qualquer ordem                                                                                                                                                                                                                                                                                                   |
+| 1.1 Definir o assunto ou pedido               | **input:** demanda ou dúvida a resolver<br>**ação:** decidir o conteúdo essencial e a ação esperada do usuário<br>**feedback:** assunto e pedido formulados com clareza<br>**problema:** mensagem vaga, sem a ação esperada explícita<br>**recomendação:** deixar claro o que se espera e o prazo                                                                     |
+| 1.2 Definir o assunto ou pedido               | **input:** demanda ou dúvida a resolver<br>**ação:** decidir o conteúdo essencial e a ação esperada do usuário<br>**feedback:** assunto e pedido formulados com clareza<br>**problema:** mensagem vaga, sem a ação esperada explícita<br>**recomendação:** deixar claro o que se espera e o prazo                                                                     |
+| **2. Transmitir a mensagem** `1>2`            | **plano:** 1>2<br>**problema:** o usuário pode não perceber ou não entender formatos menos comuns (Loop, ações de apps)<br>**recomendação:** priorizar texto quando o objetivo é ser compreendido rapidamente                                                                                                                                                         |
+| 2.1 Enviar mensagem de texto                  | **input:** conteúdo e destinatário definidos<br>**ação:** escrever, revisar e enviar o texto<br>**feedback:** mensagem aparece como enviada na conversa<br>**problema:** enviar com erro ou para a conversa errada<br>**recomendação:** revisar antes de enviar                                                                                                       |
+| 2.2 Enviar emoji, gif ou sticker              | **input:** necessidade de expressar tom ou reação<br>**ação:** escolher o item e enviar<br>**feedback:** item aparece na conversa<br>**problema:** o usuário interpretar o tom de forma diferente do pretendido<br>**recomendação:** usar como complemento ao texto, não como única mensagem                                                                          |
+| 2.3 Adicionar componente do Loop              | **input:** conteúdo que precisa ser editado ou acompanhado em conjunto (lista, tabela, tarefas)<br>**ação:** inserir o componente na conversa e preencher<br>**feedback:** componente visível e editável pelos participantes<br>**problema:** usuário não saber que pode editar ou não ter acesso<br>**recomendação:** avisar na mensagem que o componente é editável |
+| 2.4 Realizar ação vinculada à app Microsoft   | **input:** necessidade de integrar outra ferramenta (agendar reunião, compartilhar arquivo, etc.)<br>**ação:** acionar a app a partir do chat<br>**feedback:** ação concluída e refletida na conversa<br>**problema:** erro de permissão ou dificuldade de localizar a ação<br>**recomendação:** confirmar com o usuário que ele recebeu o que foi compartilhado      |
+| **3. Obter retorno dos usuários** `1+2`       | **plano:** 1+2                                                                                                                                                                                                                                                                                                                                                        |
+| 3.1 Acessar conversa com usuário              | **input:** mensagem enviada<br>**ação:** abrir a conversa e verificar a resposta<br>**feedback:** resposta identificada ou ausência de resposta constatada<br>**problema:** perder a resposta entre muitas notificações<br>**recomendação:** definir um prazo para checar o retorno                                                                                   |
 
-#### 2. Tabela de Análise Hierárquica de Tarefas (Tabela HTA)
-
-| Objetivos / Operações                | Elementos da Operação (`<Input, Ação, Feedback>`) e Planos                                          | Problemas Identificados e Recomendações de IHC                               |
-| :----------------------------------- | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| **0. [Nome da Tarefa do Estudante]** | `Plano: [Ex: 1 > 2 > 3]`                                                                            | **Problema:** [Descrição do problema]<br>**Recomendação:** [Sugestão de IHC] |
-| **1. [Subobjetivo 1]**               | `Plano: [Ex: 1.1 > 1.2]`                                                                            | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-| **1.1. [Operação 1.1]**              | **Input:** [Dados de entrada]<br>**Ação:** [Ação realizada]<br>**Feedback:** [Retorno da interface] | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-
-#### 3. Diagrama Gráfico HTA
-
-*[Colega: Adicione a imagem do diagrama HTA do Estudante no repositório e atualize o caminho abaixo]*
-
-![Diagrama HTA - Estudante]()
-
----
-
-### 3.2. Perfil 2: Professor
-
-> **Responsável pelo Perfil:** *[Nome do Integrante do Grupo]*  
-> **Tarefa Analisada:** *[Ex: Criar Equipe de Disciplina e Agendar Reunião de Aula Síncrona]*
-
-#### 1. Texto Explicativo e Contextualização
-
-*[Colega: Insira aqui a contextualização da tarefa do Professor, explicando o motivo da escolha desta tarefa e o cenário de uso associado.]*
-
-#### 2. Tabela de Análise Hierárquica de Tarefas (Tabela HTA)
-
-| Objetivos / Operações                | Elementos da Operação (`<Input, Ação, Feedback>`) e Planos                                          | Problemas Identificados e Recomendações de IHC                               |
-| :----------------------------------- | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| **0. [Nome da Tarefa do Professor]** | `Plano: [Ex: 1 > 2 > 3]`                                                                            | **Problema:** [Descrição do problema]<br>**Recomendação:** [Sugestão de IHC] |
-| **1. [Subobjetivo 1]**               | `Plano: [Ex: 1.1 > 1.2]`                                                                            | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-| **1.1. [Operação 1.1]**              | **Input:** [Dados de entrada]<br>**Ação:** [Ação realizada]<br>**Feedback:** [Retorno da interface] | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-
-#### 3. Diagrama Gráfico HTA
-
-*[Colega: Adicione a imagem do diagrama HTA do Professor no repositório e atualize o caminho abaixo]*
-
-![Diagrama HTA - Professor]()
-
----
-
-### 3.3. Perfil 3: Funcionário
-
-> **Responsável pelo Perfil:** *[Nome do Integrante do Grupo]*  
-> **Tarefa Analisada:** *[Ex: Atendimento de Solicitação Interna e Compartilhamento de Documentos]*
-
-#### 1. Texto Explicativo e Contextualização
-
-*[Colega: Insira aqui a contextualização da tarefa do Funcionário, explicando o motivo da escolha desta tarefa e o cenário de uso associado.]*
-
-#### 2. Tabela de Análise Hierárquica de Tarefas (Tabela HTA)
-
-| Objetivos / Operações                  | Elementos da Operação (`<Input, Ação, Feedback>`) e Planos                                          | Problemas Identificados e Recomendações de IHC                               |
-| :------------------------------------- | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| **0. [Nome da Tarefa do Funcionário]** | `Plano: [Ex: 1 > 2 > 3]`                                                                            | **Problema:** [Descrição do problema]<br>**Recomendação:** [Sugestão de IHC] |
-| **1. [Subobjetivo 1]**                 | `Plano: [Ex: 1.1 > 1.2]`                                                                            | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-| **1.1. [Operação 1.1]**                | **Input:** [Dados de entrada]<br>**Ação:** [Ação realizada]<br>**Feedback:** [Retorno da interface] | **Problema:** [Descrição]<br>**Recomendação:** [Sugestão]                    |
-
-## Esclarecer dúvidas com um colega de trabalho
-
-Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega de outro setor, para isto, o mesmo conversa com seus colegas do setor busca via chat Teams contato com a pessoa que pode ajudar.
+Para melhor visualização da imagem, com possibilidade de ampliar, [clique aqui](../../assets/hta-entrevista-Lucas.png)
 
 <p align="center">Figura 1 – HTA - Esclarecimento de dúvidas com colega de trabalho.</p>
 ![HTA](../../assets/hta-entrevista-Lucas.png)
@@ -102,15 +56,7 @@ Nesta tarefa o usuário precisa esclarecer dúvidas corporativas com um colega d
 
 ## Histórico de versão
 
-#### 3. Diagrama Gráfico HTA
-
-*[Colega: Adicione a imagem do diagrama HTA do Funcionário no repositório e atualize o caminho abaixo]*
-
-![Diagrama HTA - Funcionário]()
-
----
-
-### 3.4. Perfil 4: Chefe/Gestor
+### 3.2. Perfil 4: Chefe/Gestor
 
 > **Responsável pelo Perfil:** Luccas Rodrigues 
 > **Tarefa Analisada:** Estruturar Equipe de Projeto e Realizar Alinhamento Síncrono no Microsoft Teams
