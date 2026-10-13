@@ -37,6 +37,7 @@ nav:
     - Contribuição: planejamento/cronograma/contribuicao.md
     - Cronograma Planejado: planejamento/cronograma/cronograma_planejado.md
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
+    - Avaliação Formativa (DECIDE): planejamento/planejamento_avaliacao_decide.md
 
   - Análise de Requisitos:
     - Coleta de dados:
@@ -56,10 +57,6 @@ nav:
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
   - Entrevistas: Entrevistas/entrevistas.md
-
-
-
-
 
 markdown_extensions:
   - admonition
