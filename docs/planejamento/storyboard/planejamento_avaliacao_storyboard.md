@@ -1,6 +1,9 @@
-| Data       | Contribuição                                                                                       | Autor(es)              | Revisor(es) |
-| ---------- | -------------------------------------------------------------------------------------------------- | ---------------------- | ----------- |
-| 13/10/2026 | Criação da página com o planejamento da avaliação do Storyboard, organizado pelas etapas do DECIDE. | Evellyn de Sousa Rocha | A definir   |
+| Data       | Contribuição                                                                                               | Autor(es)              | Revisor(es) |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- |
+| 13/10/2026 | Criação da página com o planejamento da avaliação do Storyboard, organizado pelas etapas do DECIDE.        | Evellyn de Sousa Rocha | A definir   |
+| 19/10/2026 | Adição do objetivo da avaliação e perguntas a serem exploradas para a tarefa de comunicação entre usuários | Lucas Sales Ribeiro    | A definir   |
+| 19/10/2026 | Adição da seção de uso de IA generativa                                                                    | Lucas Sales Ribeiro    | A definir   |
+
 
 # Planejamento da Avaliação do Storyboard (Microsoft Teams)
 
@@ -16,14 +19,14 @@ Para a elaboração deste planejamento, utiliza-se o **Framework DECIDE**, propo
 
 **Tabela 1 – Etapas do Framework DECIDE para o Storyboard do Microsoft Teams**
 
-| Letra | Definição no Framework DECIDE | Aplicação no Projeto Microsoft Teams |
-| ----- | ----------------------------- | ----------------------------------- |
+| Letra | Definição no Framework DECIDE                | Aplicação no Projeto Microsoft Teams                                                                         |
+| ----- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **D** | Determinar os objetivos da avaliação de IHC. | Verificar a clareza e o alinhamento da narrativa visual do Storyboard com a rotina acadêmica dos estudantes. |
-| **E** | Explorar perguntas a serem respondidas. | Investigar se a jornada gráfica é compreensível e coerente com os Cenários de Uso e o perfil dos usuários. |
-| **C** | Escolher os métodos de avaliação. | Utilizar entrevistas semiestruturadas guiadas pela apresentação do Storyboard. |
-| **I** | Identificar e administrar questões práticas. | Definir participantes, materiais, ferramentas de comunicação e cronograma. |
-| **D** | Decidir como lidar com as questões éticas. | Prever consentimento informado, participação voluntária, privacidade e anonimato. |
-| **E** | Avaliar, interpretar e apresentar os dados. | Organizar as observações, identificar dificuldades e sintetizar os resultados da avaliação. |
+| **E** | Explorar perguntas a serem respondidas.      | Investigar se a jornada gráfica é compreensível e coerente com os Cenários de Uso e o perfil dos usuários.   |
+| **C** | Escolher os métodos de avaliação.            | Utilizar entrevistas semiestruturadas guiadas pela apresentação do Storyboard.                               |
+| **I** | Identificar e administrar questões práticas. | Definir participantes, materiais, ferramentas de comunicação e cronograma.                                   |
+| **D** | Decidir como lidar com as questões éticas.   | Prever consentimento informado, participação voluntária, privacidade e anonimato.                            |
+| **E** | Avaliar, interpretar e apresentar os dados.  | Organizar as observações, identificar dificuldades e sintetizar os resultados da avaliação.                  |
 
 *Fonte: Adaptado de Barbosa e Silva (2010, p. 313) e do arquivo-modelo.*
 
@@ -40,6 +43,68 @@ Os objetivos específicos incluem:
 
 **Fundamentação bibliográfica:** Barbosa e Silva (2010), Capítulo 9 (Planejamento da Avaliação de IHC), Seção 9.2 (Por que Avaliar?), pp. 288–290; Seção 9.8 (Framework DECIDE), p. 313.
 
+
+### 3.1 Objetivos da avaliação do storyboard - Comunicação entre usuários
+
+Barbosa e Silva (2021), propõem 4 objetivos para realizar uma avaliação de IHC e perguntas específicas relacionadas a cada um deles, para decidir os objetivos da avaliação do storyboard, foram analisados estes objetivos e suas perguntas:
+
+| Objetivo                                       | Exemplos de perguntas a serem respondidas                                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Analisar a apropriação da tecnologia           | De que maneira os usuários utilizam o sistema?                                                                           |
+|                                                | Em que difere do planejado?                                                                                              |
+|                                                | Como o sistema interativo afeta o modo de as pessoas se comunicarem e relacionarem?                                      |
+|                                                | Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema?                             |
+|                                                | E no tempo que levam para atingir seus objetivos?                                                                        |
+|                                                | E na sua satisfação com o sistema?                                                                                       |
+|                                                | O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?        |
+|                                                | O quanto eles são motivados a explorar novas funcionalidades?                                                            |
+|                                                | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?                                                 |
+|                                                | Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem?                                 |
+|                                                | Quais necessidades e desejos foram ou não atendidos?                                                                     |
+|                                                | A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos? |
+|                                                | O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?                          |
+|                                                | Por que os usuários não incorporaram o sistema no seu cotidiano?                                                         |
+| Comparar ideias e alternativas de design       | Qual das alternativas é a mais eficiente? Mais fácil de aprender?                                                        |
+|                                                | Qual delas pode ser construída em menos tempo?                                                                           |
+|                                                | De qual delas se espera que tenha um impacto negativo menor ao ser adotada?                                              |
+|                                                | Qual delas torna mais evidente os diferenciais da solução projetada?                                                     |
+|                                                | Qual delas os usuários preferem? Por quê?                                                                                |
+| Verificar a conformidade com um padrão         | O sistema está de acordo com os padrões de acessibilidade do W3C?                                                        |
+|                                                | A interface segue o padrão do sistema operacional? E da empresa?                                                         |
+|                                                | Os termos na interface seguem convenções estabelecidas no domínio?                                                       |
+| Identificar problemas na interação e interface | Considerando cada perfil de usuário esperado: O usuário consegue operar o sistema?                                       |
+|                                                | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?                             |
+|                                                | Que parte da interface e da interação o deixa insatisfeito?                                                              |
+|                                                | Que parte da interface o desmotiva a explorar novas funcionalidades?                                                     |
+|                                                | Ele entende o que significa e para que serve cada elemento de interface?                                                 |
+|                                                | Ele vai entender o que deve fazer em seguida?                                                                            |
+|                                                | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?                                         |
+|                                                | Onde esses problemas se manifestam?                                                                                      |
+|                                                | Com que frequência tendem a ocorrer?                                                                                     |
+|                                                | Qual é a gravidade desses problemas?                                                                                     |
+|                                                | Quais barreiras o usuário encontra para atingir seus objetivos?                                                          |
+|                                                | Ele tem acesso a todas as informações oferecidas pelo sistema?                                                           |
+<p align="center">Tabela 1 - Relação de objetivos x perguntas de IHC.</p>
+
+
+Pelo entendimento que o autor Lucas Sales teve da funcionalidade, dos objetivos e perguntas definidas por Barbosa e Silva (2021), dois objetivos se destacam fortemente para serem analisados na avaliação do storyboard: **Apropriação da tecnologia pelos usuários** e **Problemas na interação e interface**.
+
+Por questões relacionadas a prazo e complexidade, o autor escolhe realizar a avaliação considerando apenas um objetivo, e reavaliando as perguntas de cada um, foi escolhido o objetivo de **Apropriação da tecnologia**, pelas perguntas que tem forte relação com o objetivo de comunicação via chat Teams, que serão exploradas no tópico [4. E – Explorar Perguntas a Serem Respondidas com a Avaliação](#4-e-explorar-perguntas-a-serem-respondidas-com-a-avaliacao)
+
+
+**Fonte:**
+
+Conteúdo de Barbosa e Silva (2021), páginas 250 e 251:
+<a id="figura-1"></a>
+![Objetivos e perguntas de IHC](../../assets/objetivos_perguntas_1.png)
+<p align="center">Figura 1 - Objetivos e perguntas </p>
+<a id="figura-2"></a>
+![Objetivos e perguntas de IHC](../../assets/objetivos_perguntas_2.png)
+<p align="center">Figura 2 - Objetivos e perguntas </p>
+
+A Tabela 1 foi gerada com auxílio de inteligência artificial (Claude) a partir do conteúdo da literatura.
+
+
 ## 4. E – Explorar Perguntas a Serem Respondidas com a Avaliação
 
 Com base nos objetivos do projeto, foram formuladas as seguintes perguntas para orientar a avaliação:
@@ -49,6 +114,21 @@ Com base nos objetivos do projeto, foram formuladas as seguintes perguntas para 
 - **Composição e fluidez:** a composição visual, incluindo personagens, cenários, caixas de diálogo e ícones, permite identificar o que acontece em cada etapa?
 - **Compreensão da tarefa:** o Storyboard apresenta os passos necessários para localizar e baixar um arquivo de aula?
 - **Identificação de dificuldades:** existem pontos confusos, transições pouco claras ou etapas ausentes que possam dificultar a compreensão da atividade?
+
+### 4.1 Perguntas da avaliação do storyboard - Comunicação entre usuários
+
+As perguntas segundo Barbosa e Silva (2021), declaradas na [Figura 1](#figura-1) e [Figura 2](#figura-2), que se destacam para esta avaliação, são:
+
+**Como o sistema interativo afeta o modo de as pessoas se comunicarem e relacionarem?**: Relação direta com a funcionalidade de comunicação entre usuários.
+
+**O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?**: Uma vez que a comunicação entre usuários pode ocorrer de diversas formas, esta pergunta avalia o impacto da funcionalidade no dia a dia dos usuários.
+
+**O quanto eles são motivados a explorar novas funcionalidades?**: O chat Teams dispões de diversos recursos de comunicação além do texto comum, há opções de formatação, *emojis*, *GIF's*, *stickers* e o *loop component*.
+
+**Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?**: Explora quais recursos de comunicação os usuários utilizam que o chat teams não supre.
+
+**Por que os usuários não incorporaram o sistema no seu cotidiano?**: Analisa quais impedimentos os usuários enfrentam e explora o motivo de menor utilização da ferramenta e/ou da funcionalidade.
+
 
 ## 5. C – Escolher os Métodos de Avaliação
 
@@ -60,6 +140,10 @@ A entrevista semiestruturada permite que o entrevistador siga um roteiro de perg
 
 - Barbosa e Silva (2010), Capítulo 5 (Identificação de Necessidades e Requisitos), Seção 5.5.1 (Entrevistas), pp. 145–147.
 - Barbosa e Silva (2010), Capítulo 8 (Princípios e Diretrizes para o Design de IHC), Seção 8.2.4 (Storyboard e Prototipação em Papel), pp. 263–264.
+
+### 5.1 - Método de avaliação escolhido para avaliação do storyboard - Comunicação entre usuários
+
+Pela tabela 12.10 da pag 307 do livro, escolhi investigação, entrevista
 
 ## 6. I – Identificar Questões Práticas da Avaliação
 
@@ -93,14 +177,14 @@ A avaliação será planejada para ocorrer sem custos financeiros adicionais par
 
 **Tabela 2 – Cronograma Previsto das Avaliações do Storyboard**
 
-| ID | Avaliador(es) | Participante (Iniciais/Código) | Perfil do Participante | Data e Horário | Local / Meio |
-| -- | ------------- | ------------------------------ | ---------------------- | -------------- | ------------ |
-| **01** | João Paulo | L.S. | Estudante de graduação | 15/10/2026 – 14:00 | Microsoft Teams (on-line) |
-| **02** | Lucas Sales | J.P. | Estudante de graduação | 15/10/2026 – 15:00 | Microsoft Teams (on-line) |
-| **03** | Evellyn de Sousa Rocha | E.R. | Estudante de graduação | 16/10/2026 – 10:00 | Microsoft Teams (on-line) |
-| **04** | João Paulo | L.S. | Estudante de graduação | 16/10/2026 – 11:30 | Microsoft Teams (on-line) |
-| **05** | Lucas Sales | J.P. | Estudante de graduação | 17/10/2026 – 16:00 | Microsoft Teams (on-line) |
-| **06** | Evellyn de Sousa Rocha | E.R. | Estudante de graduação | 17/10/2026 – 17:00 | Microsoft Teams (on-line) |
+| ID     | Avaliador(es)          | Participante (Iniciais/Código) | Perfil do Participante | Data e Horário     | Local / Meio              |
+| ------ | ---------------------- | ------------------------------ | ---------------------- | ------------------ | ------------------------- |
+| **01** | João Paulo             | L.S.                           | Estudante de graduação | 15/10/2026 – 14:00 | Microsoft Teams (on-line) |
+| **02** | Lucas Sales            | J.P.                           | Estudante de graduação | 15/10/2026 – 15:00 | Microsoft Teams (on-line) |
+| **03** | Evellyn de Sousa Rocha | E.R.                           | Estudante de graduação | 16/10/2026 – 10:00 | Microsoft Teams (on-line) |
+| **04** | João Paulo             | L.S.                           | Estudante de graduação | 16/10/2026 – 11:30 | Microsoft Teams (on-line) |
+| **05** | Lucas Sales            | J.P.                           | Estudante de graduação | 17/10/2026 – 16:00 | Microsoft Teams (on-line) |
+| **06** | Evellyn de Sousa Rocha | E.R.                           | Estudante de graduação | 17/10/2026 – 17:00 | Microsoft Teams (on-line) |
 
 *Fonte: Elaborado pela equipe.*
 
@@ -112,14 +196,14 @@ Durante a apresentação do Storyboard, o entrevistador utilizará as perguntas 
 
 **Tabela 3 – Roteiro de Perguntas para Validação do Storyboard do Microsoft Teams**
 
-| ID | Pergunta / Enunciado | Opções de Resposta | Espaço para Observações e Justificativas |
-| -- | -------------------- | ------------------ | ---------------------------------------- |
-| **1** | A narrativa visual apresentada no Storyboard é coerente com o objetivo da tarefa de localizar um arquivo na área de equipes? | Sim / Não / Parcialmente | Registrar se o participante compreendeu o fluxo inicial. |
-| **2** | A situação retratada, incluindo as dificuldades de localização de arquivos e pastas, é compatível com sua experiência acadêmica no Microsoft Teams? | Sim / Não / Parcialmente | Registrar comentários sobre experiências semelhantes. |
-| **3** | O Storyboard apresenta os principais passos necessários para encontrar o documento de aula? | Sim / Não / Parcialmente | Identificar possíveis etapas ausentes. |
-| **4** | As ações representadas entre os quadros seguem uma ordem lógica e fácil de compreender? | Sim / Não / Parcialmente | Registrar transições que gerem dúvidas. |
-| **5** | Os elementos visuais, como personagens, ícones, pastas e caixas de texto, são claros e identificáveis? | Sim / Não / Parcialmente | Registrar dificuldades de interpretação e sugestões. |
-| **6** | A proposta de interação apresentada no final do Storyboard parece facilitar a localização do arquivo de aula? | Sim / Não / Parcialmente | Registrar a percepção geral do participante e suas justificativas. |
+| ID    | Pergunta / Enunciado                                                                                                                                | Opções de Resposta       | Espaço para Observações e Justificativas                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------ |
+| **1** | A narrativa visual apresentada no Storyboard é coerente com o objetivo da tarefa de localizar um arquivo na área de equipes?                        | Sim / Não / Parcialmente | Registrar se o participante compreendeu o fluxo inicial.           |
+| **2** | A situação retratada, incluindo as dificuldades de localização de arquivos e pastas, é compatível com sua experiência acadêmica no Microsoft Teams? | Sim / Não / Parcialmente | Registrar comentários sobre experiências semelhantes.              |
+| **3** | O Storyboard apresenta os principais passos necessários para encontrar o documento de aula?                                                         | Sim / Não / Parcialmente | Identificar possíveis etapas ausentes.                             |
+| **4** | As ações representadas entre os quadros seguem uma ordem lógica e fácil de compreender?                                                             | Sim / Não / Parcialmente | Registrar transições que gerem dúvidas.                            |
+| **5** | Os elementos visuais, como personagens, ícones, pastas e caixas de texto, são claros e identificáveis?                                              | Sim / Não / Parcialmente | Registrar dificuldades de interpretação e sugestões.               |
+| **6** | A proposta de interação apresentada no final do Storyboard parece facilitar a localização do arquivo de aula?                                       | Sim / Não / Parcialmente | Registrar a percepção geral do participante e suas justificativas. |
 
 *Fonte: Adaptado do arquivo-modelo de Arthur de Melo e Rafael Ferreira e de Barbosa e Silva (2010).*
 
@@ -169,7 +253,15 @@ O teste-piloto será conduzido pelos integrantes da equipe, simulando uma sessã
 
 Após o teste-piloto, o roteiro poderá ser ajustado caso sejam identificados problemas de clareza, duração ou condução da sessão.
 
-## 11. Referências Bibliográficas
+## 11. Agradecimento e Uso de IA generativa:
+
+O documento utiliza IA generativa nos seguintes pontos:
+
+- Formatação e redação de texto;
+- Geração e adaptação de código markdown;
+
+
+## 12. Referências Bibliográficas
 
 - **BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da.** *Interação Humano-Computador*. Rio de Janeiro: Elsevier / Editora Campus, 2010. ISBN 978-85-352-3418-3.
   - **Capítulo 5 – Identificação de Necessidades dos Usuários e Requisitos de IHC:** Seção 5.4 (Aspectos Éticos de Pesquisas Envolvendo Pessoas), pp. 139–142; Seção 5.5.1 (Entrevistas), pp. 145–147.
