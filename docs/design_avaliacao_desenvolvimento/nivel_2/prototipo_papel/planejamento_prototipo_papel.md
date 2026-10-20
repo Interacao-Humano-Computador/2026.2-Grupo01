@@ -75,6 +75,26 @@ Ambiente: A avaliação será realizada em um ambiente controlado e silencioso p
 
 Os custos envolvidos na avaliação incluem despesas com impressão de materiais, transporte dos participantes e equipamentos para gravação, caso necessário. A equipe buscará otimizar o uso dos recursos disponíveis, minimizando despesas e aproveitando ao máximo os materiais já disponíveis.
 
+### Prazos
+<a id="cronogramaEntrevista"></a>
+A avaliação será realizada conforme cronograma a ser definido, considerando a disponibilidade dos participantes e dos entrevistadores.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
+
+| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data |
+|---|---|:---:|:---:|:---:|---|
+| [Lucas Sales Ribeiro] |            |       |        |  | 
+| [Evellyn de Sousa Rocha]|           |       |       |  | 
+| [João Paulo da Silva Pereira] |      |      |       |  | 
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  João Paulo da Silva Pereira</p>
+
+</center>
+
+Os entrevistadores deverão garantir que os materiais estejam prontos com antecedência e que os participantes sejam contatados para confirmar o horário agendado.
 
 
 ## Histórico de versão
