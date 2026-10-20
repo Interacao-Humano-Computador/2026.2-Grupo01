@@ -8,11 +8,11 @@
 
 ## Introdução
 
-A avaliação de Interação Humano-Computador (IHC) é uma etapa essencial no desenvolvimento de sistemas interativos, pois permite julgar a qualidade de uso da solução e identificar problemas na interação e interface que possam comprometer a experiência do usuário. Essa atividade orienta o processo de melhorias, garantindo que o sistema atenda às necessidades específicas dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021)<sup>[1](./planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>.
+A avaliação de Interação Humano-Computador (IHC) é uma etapa essencial no desenvolvimento de sistemas interativos, pois permite julgar a qualidade de uso da solução e identificar problemas na interação e interface que possam comprometer a experiência do usuário. Essa atividade orienta o processo de melhorias, garantindo que o sistema atenda às necessidades específicas dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021)
 
 ## Metodologia
 
-A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto alternativas de design quanto a identificação de problemas na interação e interface.
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021), uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto alternativas de design quanto a identificação de problemas na interação e interface.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
@@ -20,7 +20,7 @@ Os objetivos dessa avaliação são essenciais para direcionar o processo e gara
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021)<sup>[3](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>, visando o contexto específico da avaliação de protótipos de papel. O objetivo é compreender como os usuários percebem os fluxos de interação e quais aspectos podem afetar a experiência de uso. As questões foram elaboradas para investigar tanto as alternativas de design quanto a identificação de problemas de IHC, considerando as interações apresentadas no protótipo. Essas perguntas serão essenciais para entender se o design facilita ou dificulta o uso do sistema, e se há aspectos que precisam ser ajustados para melhorar a experiência do usuário.
+As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021), visando o contexto específico da avaliação de protótipos de papel. O objetivo é compreender como os usuários percebem os fluxos de interação e quais aspectos podem afetar a experiência de uso. As questões foram elaboradas para investigar tanto as alternativas de design quanto a identificação de problemas de IHC, considerando as interações apresentadas no protótipo. Essas perguntas serão essenciais para entender se o design facilita ou dificulta o uso do sistema, e se há aspectos que precisam ser ajustados para melhorar a experiência do usuário.
 
 <center>
 
@@ -53,9 +53,32 @@ A combinação desses dois métodos permitirá uma análise detalhada, com foco 
 
 A identificação e administração das questões práticas são fundamentais para garantir que a avaliação do protótipo de papel ocorra de forma eficiente, respeitando as limitações de recursos, tempo e logística. A seguir, são detalhadas as questões práticas relacionadas a recrutamento, preparação, custos e prazos.
 
+### Recrutamento
+
+Os participantes serão selecionados serão alunos, professores e gestores definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. O processo de recrutamento será realizado por meio de convites diretos e seleção de voluntários, que devem atender aos critérios estabelecidos.
+
+### Preparação
+
+A preparação para a avaliação do protótipo de papel envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.  
+
+> **Entrevista Semiestruturada:**  
+Ferramentas: Celular para gravação de áudio e vídeo;    
+Materiais: Protótipos de papel impressos e roteiros de avaliação;    
+Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
+
+> **Avaliação Heurística:**  
+Ferramentas: computador para redigir o relatório/relato dos resultados;  
+Materiais: Lista de princípios heurísticos;  
+Ambiente: A avaliação será realizada em um ambiente controlado e silencioso para garantir que o avaliador possa se concentrar na análise do protótipo sem distrações;  
+
+### Custos
+
+Os custos envolvidos na avaliação incluem despesas com impressão de materiais, transporte dos participantes e equipamentos para gravação, caso necessário. A equipe buscará otimizar o uso dos recursos disponíveis, minimizando despesas e aproveitando ao máximo os materiais já disponíveis.
+
 
 
 ## Histórico de versão
 | Versão | Data       | Descrição          | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------ | ----------- | ----------- |
 | `1.0`  | 20/10/2026 | Criação da página. | Lucas Sales |             |
+| `2.0`  | 20/10/2026 | Adicionando informações | João Paulo |         |
