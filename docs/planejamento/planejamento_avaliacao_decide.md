@@ -36,7 +36,7 @@ As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos 
 | Problemas na Interação e Interface | 8. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? ||
 | Problemas na Interação e Interface | 9. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos? ||
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:João Paulo</p>
 
 </center>
 
