@@ -123,6 +123,14 @@ A avaliação dos dados coletados será conduzida de acordo com as etapas descri
 
 Os dados das entrevistas semiestruturadas e da avaliação heurística serão organizados, codificados e analisados para identificar padrões, dificuldades e oportunidades de melhoria. Os resultados serão apresentados de forma estruturada, destacando problemas encontrados, sugestões de melhoria e lições aprendidas, com base nas análises dos feedbacks dos participantes e dos problemas de interface identificados.
 
+## Referências Bibliográficas
+
+> 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> 2. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 279-280. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> 3. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 266-267. Autopublicação. ISBN: 978-65-00-19677-1.
+
 ## Histórico de versão
 | Versão | Data       | Descrição          | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------ | ----------- | ----------- |
