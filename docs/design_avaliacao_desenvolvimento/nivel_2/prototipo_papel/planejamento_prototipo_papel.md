@@ -85,9 +85,9 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data |
 |---|---|:---:|:---:|:---:|---|
-| [Lucas Sales Ribeiro] |            |       |        |  | 
-| [Evellyn de Sousa Rocha]|           |       |       |  | 
-| [João Paulo da Silva Pereira] |      |      |       |  | 
+| [Lucas Sales Ribeiro] |      -      |     -  |    -    | - | 
+| [Evellyn de Sousa Rocha]|       -    |   -    |   -    | - | 
+| [João Paulo da Silva Pereira] |   -   |  -    |     -  | - | 
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  João Paulo da Silva Pereira</p>
