@@ -72,7 +72,6 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 <center>
 
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
 </center>
 
