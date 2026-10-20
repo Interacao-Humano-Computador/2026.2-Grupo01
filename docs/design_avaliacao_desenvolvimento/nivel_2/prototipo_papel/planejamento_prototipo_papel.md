@@ -83,11 +83,12 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
 
-| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data |
-|---|---|:---:|:---:|:---:|---|
-| [Lucas Sales Ribeiro] |      -      |     -  |    -    | - | 
-| [Evellyn de Sousa Rocha]|       -    |   -    |   -    | - | 
-| [João Paulo da Silva Pereira] |   -   |  -    |     -  | - | 
+|Entrevistador | Entrevistado(a) | Horário Início | Horário Fim |  Data |
+| ------ | ---------- | ------------------ | ----------- | ----------- |
+| `Lucas Sales`  | 20/10/2026 a definir |  a definir | a definir | a definir |
+| `João Paulo`  |  a definir |  a definir |  a definir | a definir |
+| `Evellyn de Sousa`  |  a definir | A a definir |  a definir | a definir |
+
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  João Paulo da Silva Pereira</p>
