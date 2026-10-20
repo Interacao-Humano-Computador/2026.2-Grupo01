@@ -85,7 +85,7 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 
 |Entrevistador | Entrevistado(a) | Horário Início | Horário Fim |  Data |
 | ------ | ---------- | ------------------ | ----------- | ----------- |
-| `Lucas Sales`  | 20/10/2026 a definir |  a definir | a definir | a definir |
+| `Lucas Sales`  | a definir |  a definir | a definir | a definir |
 | `João Paulo`  |  a definir |  a definir |  a definir | a definir |
 | `Evellyn de Sousa`  |  a definir | A a definir |  a definir | a definir |
 
