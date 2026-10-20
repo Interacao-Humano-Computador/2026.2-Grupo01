@@ -71,15 +71,6 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
-
-| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
-|---|---|:---:|:---:|:---:|---|
-| [Necivaldo Amaral](https://github.com/junioramaral22) | 17:10 | 17:20 | Lago Sul | 31/12/2024 | Presencialmente |
-| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:10 | 10:20 | 19/12/2024 | Campus UnB Gama |
-| [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
-| [Rodrigo Ferreira](https://github.com/rodwendrel) | Moyses Carvalho | 13:00 | 13:30 | 03/01/2025 | Biblioteca Nacional de Brasília | 
-| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:40 | 13:50 | 27/12/2024 | Casa da entrevistada |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -93,16 +84,16 @@ Baseado no [termo de consentimento geral](../../../analise-de-requisitos/aspecto
 
 ### Termo de Consentimento (Adaptado)
 
-Somos o Grupo 06 da que está participando do projeto do site da Prefeitura Municipal de Nova Iorque para a disciplina de Interação Humano-Computador, ministrada pelo Prof. André Barros de Sales na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE - UnB) no período de 2024.2. Nessa etapa do projeto, buscamos avaliar a qualidade de uso dos storyboards desenvolvidos para o site. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:  <br/>
+Somos o Grupo 01 da que está participando do projeto do site da Prefeitura Municipal de Nova Iorque para a disciplina de Interação Humano-Computador, ministrada pelo Prof. André Barros de Sales na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE - UnB) no período de 2026.2. Nessa etapa do projeto, buscamos avaliar a qualidade de uso dos storyboards desenvolvidos para o site. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:  <br/>
 - Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do
-site da Prefeitura Municiapl de Nova Iorque.
+site Microsoft Teams.
 -  Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o entrevistado. A divulgação
 desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em
 quaisquer documentos que elaborarmos.
 - O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos
 necessários sobre a pesquisa.
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-- Nossa equipe encontra-se disponível para contato através do e-mail: melopaulo210@gmail.com. <br/>
+- Nossa equipe encontra-se disponível para contato através do e-mail: jotasv2005@gmail.com <br/>
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:   
 (  ) Dou meu consentimento para a sua realização. &emsp; (  ) Não consinto com a sua realização.
@@ -120,16 +111,10 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 **Detalhes:**  
 - Data: 17/12/2024
 - Horário: 11:00 às 11:20
-- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigues
+- Integrantes responsáveis: João Paulo
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto
-
-Como dito no [planejamento da avaliação do storyboard](../Storyboard/planejamentoAvaliacaoStoryboard.md#resultado-do-teste-piloto), foi feito um único vídeo de teste piloto para avaliar tanto o storyboard quanto a análise de tarefas. Dessa forma, o entrevistado fica mais confortável e a avaliação é realizada de forma mais dinâmica. Vale ressaltar que o termo de consentimento foi apresentado no início do vídeo. A gravação do teste piloto da parte da avaliação do diagrama da análise de tarefas (HTA) pode ser visualizada abaixo:
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pevPKX113NY?si=FB_INRkd9nhfEqdI&amp;start=265" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
 
 Da parte da avaliação da análise de tarefas, foi identificado uma falta de clareza nas perguntas feitas, o que dificultou a compreensão do entrevistado. Além disso, ainda sobre o termo de consentimento, o teste piloto evidenciou a necessidade de uma maior clareza e objetividade no que será feito durante a realização da entrevista no termo de consentimento.
 
