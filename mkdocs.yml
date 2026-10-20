@@ -40,9 +40,6 @@ nav:
     - Cronograma Executado: planejamento/cronograma/cronograma_executado.md
     - Avaliação Formativa (DECIDE): planejamento/planejamento_avaliacao_decide.md
     - Relato dos Resultados: planejamento/planejamento_relato_resultados.md
-    - Storyboard:
-      - Planejamento da Avaliação do Storyboard: planejamento/storyboard/planejamento_avaliacao_storyboard.md
-      - Planejamento do Relato dos Resultados da Avaliação do Storyboard: planejamento/storyboard/planejamento_relato_resultados_storyboard.md
 
 
   - Análise de Requisitos:
@@ -60,6 +57,22 @@ nav:
     - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md
     - Guia de Estilo: analise_de_requisitos/guia_estilo.md
     - Metas de usabilidade: analise_de_requisitos/metas_usabilidade.md
+
+
+  - Design, avaliação, desenvolvimento:
+    - Nível 1:
+      - Storyboard:
+        - Planejamento da avaliação: planejamento/storyboard/planejamento_avaliacao_storyboard.md
+        - Planejamento do relato dos resultados: planejamento/storyboard/planejamento_relato_resultados_storyboard.md
+        - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados_storyboard.md
+      - Análise de tarefas:
+        - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise_tarefas.md
+    - Nível 2:
+      - Protótipo de papel:
+        - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel.md
+        - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_relato_prototipo_papel.md.md
+
+
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
   - Entrevistas: Entrevistas/entrevistas.md

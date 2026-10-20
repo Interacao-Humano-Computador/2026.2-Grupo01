@@ -143,7 +143,13 @@ A entrevista semiestruturada permite que o entrevistador siga um roteiro de perg
 
 ### 5.1 - Método de avaliação escolhido para avaliação do storyboard - Comunicação entre usuários
 
-Pela tabela 12.10 da pag 307 do livro, escolhi investigação, entrevista
+Barbosa e Silva (2021) propõem uma tabela com aspectos geralmento avaliados por meio de cada método de avaliação de IHC, a [Figura 3](#figura-3) representa esta tabela.
+
+<a id="figura-3"></a>
+![Objetivos e métodos de avaliação](../../assets/tabela_metodos_avaliacao.png)
+<p align="center">Figura 3 - Tabela de relação entre objetivos e métodos de avaliação </p>
+
+Como o objetivo a ser avaliado é a apropriação da tecnologia pelos usuários, o método a ser utilizado para avaliação do storyboard da comunicação entre usuários será o de **investigação por entrevistas**.
 
 ## 6. I – Identificar Questões Práticas da Avaliação
 
