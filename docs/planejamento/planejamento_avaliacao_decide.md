@@ -147,14 +147,6 @@ Feita essas reflexões, os erros identificados serão corrigidos para que a entr
 
 ## Histórico de Versão
 
-| Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
-|:---:|:---:|---|---|:---:|---|
-| 1.0 | 09/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-| 1.3 | 18/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção textual pós teste piloto | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-## 11. Histórico de versão
-
 | Versão | Data       | Descrição                                           | Autor(es) | Revisor(es) |
 | ------ | ---------- | --------------------------------------------------- | --------- | ----------- |
 | `1.0`  | 13/10/2026 | Criação da página: planejamento DECIDE completo.    | João Paulo | A definir   |
