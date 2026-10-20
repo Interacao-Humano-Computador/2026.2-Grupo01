@@ -2,6 +2,7 @@
 | Data       | Contribuição      | Autor(es)           | Revisor(es) |
 | ---------- | ----------------- | ------------------- | ----------- |
 | 20/10/2026 | Criação da página | Lucas Sales Ribeiro | A definir   |
+| 20/10/2026 | Adicionando informações | João Paulo          | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -37,6 +38,21 @@ As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da ta
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): João Paulo</p>
 
 </center>
+
+## C - Escolher os métodos de avaliação a serem utilizados
+
+Para a avaliação do protótipo de papel, serão utilizados dois métodos principais: **entrevista semiestruturada** e **avaliação heurística**, cada um focando em aspectos específicos da avaliação.
+
+A entrevista semiestruturada será utilizada para avaliar o aspecto da apropriação da tecnologia. Esse método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
+
+Já a avaliação heurística, por outro lado, será empregada para avaliar as alternativas de design e identificar problemas de interação e interface (problemas de IHC). Essa análise ajudará a identificar falhas de design que podem comprometer a eficiência, a satisfação e a experiência do usuário com o protótipo.
+
+A combinação desses dois métodos permitirá uma análise detalhada, com foco em diferentes aspectos da usabilidade e do design, fornecendo uma base sólida para melhorias no protótipo.
+
+## I - Identificar e administrar as questões práticas da avaliação
+
+A identificação e administração das questões práticas são fundamentais para garantir que a avaliação do protótipo de papel ocorra de forma eficiente, respeitando as limitações de recursos, tempo e logística. A seguir, são detalhadas as questões práticas relacionadas a recrutamento, preparação, custos e prazos.
+
 
 
 ## Histórico de versão
