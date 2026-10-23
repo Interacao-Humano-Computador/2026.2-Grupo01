@@ -92,7 +92,7 @@ quaisquer documentos que elaborarmos.
 - O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos
 necessários sobre a pesquisa.
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-- Nossa equipe encontra-se disponível para contato através do e-mail: jotasv2005@gmail.com <br/>
+- Nossa equipe encontra-se disponível para contato através do e-mail: <br/>
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:   
 (  ) Dou meu consentimento para a sua realização. &emsp; (  ) Não consinto com a sua realização.
