@@ -52,8 +52,7 @@ O Storyboard elaborado por Evellyn retrata a jornada do estudante ao utilizar o 
 
 ### 3.2. Storyboard — [Lucas Sales]
 
-![Storyboard - Aluno 2](StoryboarOutroAluno1.png)  
-*<p align="center"><b>Figura 2:</b> Storyboard do fluxo de interação no MS Teams (Autor: [Nome do Aluno 2]).</p>*
+
 
 #### 🔍 Explicação do Storyboard
 `[Inserir aqui a explicação detalhada do Storyboard].`
@@ -62,8 +61,7 @@ O Storyboard elaborado por Evellyn retrata a jornada do estudante ao utilizar o 
 
 ### 3.3. Storyboard — [João Paulo]
 
-![Storyboard - Aluno 3](StoryboarOutroAluno2.png)  
-*<p align="center"><b>Figura 3:</b> Storyboard do fluxo de interação no MS Teams (Autor: [Nome do Aluno 3]).</p>*
+
 
 ####  Explicação do Storyboard
 `[Inserir aqui a explicação detalhada do Storyboard ].`
