@@ -5,7 +5,7 @@ sidebar_position: 2
 # Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas
 
 ## Introdução
-O Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas se trata do documento de organização que irá mostrar os resultados e conclusões da avaliação. Esse artefato segue o [planejamento feito para a análise de tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md) e ajuda a garantir que todas as informações importantes sejam apresentadas de forma clara e organizada. Isso facilita entender e usar os dados coletados, além de identificar melhorias que podem ser feitas na interface do portal da Prefeitura Municial de Nova Iorque.
+O Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas se trata do documento de organização que irá mostrar os resultados e conclusões da avaliação. Esse artefato segue o planejamento feito para a análise de tarefas e ajuda a garantir que todas as informações importantes sejam apresentadas de forma clara e organizada. Isso facilita entender e usar os dados coletados, além de identificar melhorias que podem ser feitas na interface do portal da Prefeitura Municial de Nova Iorque.
 
 ## Metodologia
 Tomaremos como princípio os tópicos descritos por Barbosa e Silva, e os adequando para o desenvolvimento da equipe. Os tópicos estão descritos a baixo:
