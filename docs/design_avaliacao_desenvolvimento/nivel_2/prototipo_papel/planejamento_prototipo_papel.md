@@ -99,7 +99,7 @@ Os entrevistadores deverão garantir que os materiais estejam prontos com antece
 
 ## D - Decidir como lidar com as questões éticas
 
-Tendo como base o [termo de consentimento geral](../../analise-de-requisitos/aspectosEticos.md#termo-de-consentimento), os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes serão utilizadas apenas para propósito da pesquisa.
+Tendo como base o termo de consentimento geral, os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que as gravações dos participantes serão utilizadas exclusivamente para esse propósito.
 
 ### Termo de Consentimento (Adaptado)
 
