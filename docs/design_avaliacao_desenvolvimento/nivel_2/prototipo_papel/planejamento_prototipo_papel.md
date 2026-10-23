@@ -101,21 +101,6 @@ Os entrevistadores deverão garantir que os materiais estejam prontos com antece
 
 Tendo como base o termo de consentimento geral, os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que as gravações dos participantes serão utilizadas exclusivamente para esse propósito.
 
-### Termo de Consentimento (Adaptado)
-
-Somos o Grupo 06 da que está participando do projeto do site Microsoft Teams para a disciplina de Interação Humano-Computador, ministrada pelo Prof. André Barros de Sales na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE - UnB) no período de 2026.2. Nessa etapa do projeto, buscamos avaliar a qualidade de uso dos storyboards desenvolvidos para o site. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:  <br/>
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do
-site da Prefeitura Municiapl de Nova Iorque.
--  Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o entrevistado. A divulgação
-desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em
-quaisquer documentos que elaborarmos.
-- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos
-necessários sobre a pesquisa.
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-- Nossa equipe encontra-se disponível para contato através do e-mail:  <br/>
-
-De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:   
-(  ) Dou meu consentimento para a sua realização. &emsp; (  ) Não consinto com a sua realização.
 
 ## E - Avaliar, interpretar e apresentar os dados
 
