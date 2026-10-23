@@ -112,14 +112,14 @@ quaisquer documentos que elaborarmos.
 - O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos
 necessários sobre a pesquisa.
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-- Nossa equipe encontra-se disponível para contato através do e-mail: jotasv2005@gmail.com. <br/>
+- Nossa equipe encontra-se disponível para contato através do e-mail:  <br/>
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:   
 (  ) Dou meu consentimento para a sua realização. &emsp; (  ) Não consinto com a sua realização.
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Protótipo de Papel](./planejamento_relato_prototipo_papel.md.md).
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento Planejamento do Relato do Protótipo de Pape.
 
 Os dados das entrevistas semiestruturadas e da avaliação heurística serão organizados, codificados e analisados para identificar padrões, dificuldades e oportunidades de melhoria. Os resultados serão apresentados de forma estruturada, destacando problemas encontrados, sugestões de melhoria e lições aprendidas, com base nas análises dos feedbacks dos participantes e dos problemas de interface identificados.
 
