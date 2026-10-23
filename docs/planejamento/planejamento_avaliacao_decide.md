@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## Introdução
 
-A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)<sup>[1](./planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>.
+A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)
 
 ## Metodologia
 
-A avaliação segue o framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas e (E) avaliar, interpretar e apresentar os dados. Essa metodologia assegura um planejamento detalhado, proporcionando resultados confiáveis para melhorar a experiência do usuário.
+A avaliação segue o framework DECIDE (Barbosa, 2021), uma abordagem estruturada que organiza o processo em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas e (E) avaliar, interpretar e apresentar os dados. Essa metodologia assegura um planejamento detalhado, proporcionando resultados confiáveis para melhorar a experiência do usuário.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
@@ -18,7 +18,7 @@ Os objetivos desta avaliação são voltados para compreender como os usuários 
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021)<sup>[3](./planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários e identificar possíveis problemas na interação.
+As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021), considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários e identificar possíveis problemas na interação.
 
 <center>
 
@@ -42,7 +42,7 @@ As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos 
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021)<sup>[4](planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, será utilizado o método de **entrevista semiestruturada**.
+Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021), será utilizado o método de **entrevista semiestruturada**.
 
 A entrevista semiestruturada é uma técnica flexível que combina perguntas predefinidas com a possibilidade de explorar temas que surgem ao longo da conversa. Esse método permite obter informações diretas dos usuários sobre como percebem e utilizam o sistema, além de identificar dificuldades e oportunidades de melhoria. No contexto desta avaliação, as entrevistas serão conduzidas para investigar como os usuários se apropriam da tecnologia e identificar possíveis problemas de IHC.
 
@@ -52,13 +52,13 @@ A identificação e administração das questões práticas asseguram que a aval
 
 ### Recrutamento
 
-Os 5 participantes serão selecionados conforme o [perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
+Os 5 participantes serão selecionados conforme definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
 
 ### Preparação
 
 A preparação envolve a organização de todos os materiais e recursos necessários para a condução da entrevista semiestruturada e da avaliação heurística:
 - Ferramentas: Celular para gravação de áudio e vídeo;
-- Materiais: Termo de consentimento, roteiro de entrevistas, formulário de avaliação e material de apoio relacionado ao artefato de [análise de tarefas](../../../analise-de-requisitos/analiseTarefas.md);
+- Materiais: Termo de consentimento, roteiro de entrevistas, formulário de avaliação e material de apoio relacionado ao artefato de;
 - Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
 
 ### Custos
@@ -79,7 +79,7 @@ Os entrevistadores deverão garantir que todos os materiais estejam prontos com 
 
 ## D - Decidir como lidar com as questões éticas
 
-Baseado no [termo de consentimento geral](../../../analise-de-requisitos/aspectosEticos.md#termo-de-consentimento), os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes será utilizada exclusivamente para esse propósito.
+Baseado no termo de consentimento, os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes será utilizada exclusivamente para esse propósito.
 
 ### Termo de Consentimento (Adaptado)
 
@@ -99,7 +99,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato da Análise de Tarefas](./planejamentoRelatoAnaliseDeTarefas.md).
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento Planejamento do Relato da Análise de Tarefas.
 
 Essa análise incluirá a organização, codificação e interpretação dos feedbacks obtidos, com foco em identificar padrões, dificuldades e oportunidades de melhoria nas análises de tarefas. Os resultados serão apresentados de forma estruturada, conforme descrito no planejamento do relato.
 
