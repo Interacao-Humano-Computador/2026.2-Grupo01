@@ -96,11 +96,12 @@ Entrevista semiestruturada guiada pelo storyboard, com um quadro por vez, pensan
 
 **Tabela 1 – Cronograma das avaliações do storyboard de agendamento**
 
-| ID da Sessão | Entrevistador(es) | Participante (Identificação) | Data e Horário de Início/Fim | Local / Plataforma Utilizada |
+| ID da Sessão | Entrevistador(es) | Participante (Identificação) | Data  | Local / Plataforma Utilizada |
 | ------------ | ----------------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| **01**       | João Paulo        | Participante A               | 23/10/2026 – horário a preencher | Sessão gravada em vídeo (meio a confirmar) |
+| **01**       | João Paulo        | Pedro               | 23/10/2026  | Sessão gravada em vídeo na faculdade |
 
-*Fonte: Elaborado pela equipe.*
+*Fonte: Elaborado por João Paulo.*
+Registro da sessão: vídeo da entrevista de avaliação do storyboard.
 
 ### 4.3. Seleção dos participantes e perfil de usuário
 
