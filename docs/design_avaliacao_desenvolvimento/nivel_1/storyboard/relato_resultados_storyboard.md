@@ -6,7 +6,7 @@
 | 23/10/2026 | Elaboração e especificação do Storyboard, metodologia e referências bibliográficas | Evellyn de Sousa Rocha | A definir |
 | 24/10/2026 | Storyboard de agendamento de reunião com o coordenador (3.3) e relato dos resultados da entrevista de avaliação (seção 4) | João Paulo da Silva Pereira | A definir |
 
-#  Storyboards de Interação
+#  Storyboards  
 
 ## 1. Introdução
 
@@ -40,16 +40,54 @@ A concepção e elaboração dos Storyboards pela equipe pautou-se nos princípi
 
 #### Explicação do Storyboard
 
-O Storyboard elaborado por Evellyn retrata a jornada do estudante ao utilizar o módulo de **Aproveitamento de Estudos e Dispensa de Disciplinas** integrado ao canal do Microsoft Teams [1, 3]:
+O Storyboard elaborado por Evellyn retrata a jornada do estudante ao utilizar o módulo de **Aproveitamento de Estudos e Dispensa de Disciplinas** integrado ao canal do Microsoft Teams :
 
 1. **Quadro 1 (Necessidade e Contexto):** O estudante encontra-se em sua escrivaninha de estudos em casa, consultando o calendário acadêmico. Ele percebe a necessidade urgente de solicitar a dispensa de uma disciplina cursada em outra instituição antes do término do prazo do semestre.
-2. **Quadro 2 (Navegação no MS Teams):** O discente acede ao Microsoft Teams e navega até a equipe da sua turma/curso. No menu superior do canal geral, localiza e clica na aba personalizada **"Serviços Acadêmicos"**, selecionando a opção **"Aproveitamento de Estudos"** [1].
+2. **Quadro 2 (Navegação no MS Teams):** O discente acede ao Microsoft Teams e navega até a equipe da sua turma/curso. No menu superior do canal geral, localiza e clica na aba personalizada **"Serviços Acadêmicos"**, selecionando a opção **"Aproveitamento de Estudos"** .
 3. **Quadro 3 (Formulário Inteligente):** A interface carrega o formulário eletrônico de solicitação. O estudante nota positivamente que seus dados cadastrais (nome, matrícula e curso atual) já vieram autopreenchidos. Ele seleciona a disciplina da grade que deseja dispensar e informa os dados da instituição de origem.
 4. **Quadro 4 (Envio de Documentação Comprobatória):** O usuário realiza o *upload* dos arquivos obrigatórios em PDF (Histórico Escolar Oficial e Ementa da disciplina). O sistema exibe um indicador visual de validação verde [✓] indicando que os documentos foram anexados com sucesso.
 5. **Quadro 5 (Confirmação e Protocolo):** Após revisar os dados, o discente clica no botão de confirmação. O sistema processa o envio e apresenta imediatamente na tela o **Número de Protocolo**, enviando também uma notificação automática no *chat* do Teams.
 6. **Quadro 6 (Resultado e Fechamento):** O estudante sente alívio ao concluir a pendência de forma ágil e sem burocracia, ciente de que poderá acompanhar o parecer da coordenação pela central de notificações do próprio aplicativo.
 
+#  Verificação de Conformidade do Storyboard (Checklist)
+
+> **Objeto de Avaliação:** Storyboards da funcionalidade de Aproveitamento de Estudos e Dispensa no MS Teams  
+> **Base Teórica:** Design Baseado em Cenários e Prototipação de Baixa Fidelidade (Barbosa e Silva, 2010, cap. 4 e 7; Rogers et al., 2013, cap. 8)  
+> **Método:** Avaliação por Inspeção de Conformidade com Diretrizes  
+
 ---
+
+A verificação de conformidade consiste em inspecionar um artefato de IHC por meio de uma lista de verificação (*checklist*) para garantir que as diretrizes metodológicas e os princípios de design foram respeitados antes da evolução do protótipo [3]. 
+
+Este documento apresenta a verificação de conformidade dos **Storyboards** produzidos para o aplicativo de **Aproveitamento de Estudos no Microsoft Teams**, avaliando a aderência dos desenhos e narrativas aos conceitos formais da literatura.
+
+---
+
+## Checklist de Verificação de Conformidade do Storyboard
+
+| ID | Critério / Categoria | Pergunta de Verificação de Conformidade | Conforme? (Sim/Não/Parcial) | Observações e Evidências Registradas |
+| :---: | :--- | :--- | :---: | :--- |
+| **C-01** | **Ancoragem em Personas** | O personagem principal retratado no Storyboard corresponde explicitamente a uma Persona pré-definida do projeto? | **Sim** | O ator representa a Persona João (estudante de 25 anos com rotina atarefada). |
+| **C-02** | **Cenário de Interação** | A história retratada descreve um cenário de uso realista no contexto acadêmico? | **Sim** | Retrata a necessidade urgente de solicitar dispensa de disciplina antes do prazo. |
+| **C-03** | **Fidelidade Adequada (*Sketches*)** | O Storyboard utiliza desenhos simples (*sketches*, figuras de palito, caixas) focando na interação e não no acabamento gráfico? | **Sim** | Utiliza ilustrações simples com caixas de texto e símbolos visuais de fácil alteração. |
+| **C-04** | **Estrutura Narrativa em 3 Atos** | A sequência de quadros apresenta início (gatilho/motivação), meio (ações e formulários) e fim (resolução do problema)? | **Sim** | Inicia com a dúvida do discente, passa pelo upload no Teams e encerra com o protocolo. |
+| **C-05** | **Diálogo Ação–Resposta** | Cada quadro demonstra tanto a intenção/ação do usuário quanto o feedback visual fornecido pela interface? | **Sim** | Demonstra o clique do usuário acompanhado da tela de confirmação e alerta visual. |
+| **C-06** | **Legendas Explicativas** | Cada painel/quadro contém uma legenda textual descritiva contextualizando a cena abaixo da ilustração? | **Sim** | Todos os quadros possuem textos explicando a ação e a intenção do personagem. |
+| **C-07** | **Prevenção e Tratamento de Rupturas** | O fluxo retratado ilustra mecanismos para evitar erros (ex.: validação de PDF e avisos de limite)? | **Sim** | Destaca a mensagem de arquivo anexado com sucesso e formato aceito. |
+| **C-08** | **Atendimento aos Requisitos** | A narrativa contempla as etapas regulamentares reais do peticionamento eletrônico (upload de Histórico e Ementa)? | **Sim** | Alinhado ao Manual da SAA/UnB (v4.0) para anexo de Histórico e Ementa em PDF. |
+| **C-09** | **Expressão de Fechamento (*Relívio*)** | O quadro final transmite a sensação de conclusão satisfatória e fornecimento de número de protocolo? | **Sim** | O último quadro mostra o aluno aliviado com o protocolo e notificação no chat. |
+
+---
+
+## . Síntese do Diagnóstico de Conformidade
+
+Com base na inspeção realizada, os Storyboards avaliados apresentaram **alta conformidade** com os princípios de prototipação de baixa fidelidade de IHC:
+
+* **Pontos Fortes Mapeados:**  encadeamento lógico dos quadros, uso adequado de legendas de apoio e clara representação do feedback do sistema (*geração de protocolo no chat do Teams*).
+* **Recomendações de Melhoria:** Reforçar a visibilidade dos limites de arquivo  nos balões de pensamento do personagem no Quadro 4 para evidenciar ainda mais a prevenção de erros na interface.
+
+---
+
 
 ### 3.2. Storyboard — [Lucas Sales]
 
@@ -199,3 +237,4 @@ O participante entendeu o fluxo do começo ao fim e percebeu sem ajuda a disponi
 | `1.0` | 20/10/2026 | Criação da página. | Lucas Sales Ribeiro | A definir |
 | `1.1` | 23/10/2026 | Detalhamento do Storyboard (quadro a quadro), fundamentação em IHC e referências, espaço aos outros integrantes. | Evellyn de Sousa Rocha | A definir |
 | `1.2` | 24/10/2026 | Storyboard de agendamento de reunião (3.3) e relato dos resultados da avaliação (tópico 4). | João Paulo da Silva Pereira | A definir |
+| `1.3` | 24/10/2026 | Criação e publicação do checklist de conformidade do Storyboard. | Evellyn  |  |
