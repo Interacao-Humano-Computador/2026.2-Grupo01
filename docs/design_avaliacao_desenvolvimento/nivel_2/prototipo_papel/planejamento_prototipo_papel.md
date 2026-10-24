@@ -5,6 +5,7 @@
 | 20/10/2026 | Adicionando informações                                                                                     | João Paulo  | A definir   |
 | 21/10/2026 | Determinando objetivos, perguntas e método de avaliação para a funcionalidade de comunicação entre usuários | Lucas Sales | A definir   |
 | 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
+| 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -61,6 +62,7 @@ Barbosa e Silva (2021), propõem 4 objetivos para realizar uma avaliação de IH
 |                                                | Quais barreiras o usuário encontra para atingir seus objetivos?                                                          |
 |                                                | Ele tem acesso a todas as informações oferecidas pelo sistema?                                                           |
 <p align="center">Tabela 1 - Relação de objetivos x perguntas de IHC.</p>
+
 
 
 Para o protótipo de papel, que representa um protótipo de baixa fidelidade do produto, será aplicada uma atualização da funcionalidade de gravação de áudio, originalmente disponível apenas em aplicativo mobile do Microsoft Teams, neste protótipo, a funcionalidade estará disponível em ambiente web e desktop, os quais compartilham elementos de layout, design e interação.
@@ -258,10 +260,55 @@ A criação do protótipo de papel envolve representar graficamente as telas do 
 6. Componente representando o áudio enviado no chat; 
 
 #### Teste piloto
-a gente pode fazer entre a gente ne? colocar entao um dos nossos pra fazer a funcionalidade do outro e fica mec dms
-#### Cronograma
-ai eu nao sei nao
 
+Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
+
+Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão normal de avaliação, conseguindo verificar se a linguagem, materiais e condução da avaliação são adequeadas e suficientes para orientar o participante durante a avaliação. O teste-piloto também permite avaliar se o produto, equipamentos de condução e de registro de dados estão funcionando corretamente e se o tempo necessário para executar as tarefas é suficiente.
+
+Por fim, o avaliador deve realizar uma breve análise dos dados coletados para garantir que eles permitirão responder as questões da avaliação.
+
+Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponível no seguinte link: [CLique aqui para acessar a gravação do teste-piloto](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+
+##### Análise dos dados do teste-piloto
+
+Por questões de disponibilidade do avaliador, não foi possível realizar o teste-piloto no ambiente exato onde ocorrerá a avaliação, dado inclusive o fato de que o ambiente utilizada dependerá do fator de disponibilidade de sala da própria universidade. Contudo, o teste-piloto permitiu analisar as principais questões do planejamento da avaliação:
+
+*Linguagem, material e condução:*
+Durante a execucação do teste-piloto, a linguagem utilizada demonstrou ser amigável e acolhedora, demonstrando ao participante que a avaliação é sobre o produto e não sobre a pessoa em si.
+*Equipamentos de gravação e de registros de dados:*
+Os equipamentos de gravação (tripé e telefone celular) apresentaram funcionamento normal e esperado, produzindo o vídeo com estabilidade e demonstrando com clareza os processos envolvidos no teste-piloto.
+*Tempo necessário:*
+O tempo aproximado que o avaliador, simulando um participante levou para concluir a tarefa foi de 23 minutos e 15 segundos, o que demonstra estar dentro do escopo da avaliação, que visa durar em torno de 30 a 40 minutos.
+*Produz os dados necessarios:*
+Para analisar a produção dos dados necessários, foram utilizadas as (perguntas específicas)[#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios] e abaixo estão descritas a relação do avaliador, simulando um participante e as questões em si:
+*1. O usuário consegue operar o sistema?*
+No teste-piloto, o avaliador, simulando um participante, conseguiu utilizar todas as telas e componentes em papel descritos na [criação do protótipo de papel](#criacao-do-prototipo-de-papel). 
+*2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?*
+*3. Ele entende o que significa e para que serve cada elemento da interface?*
+*4. Ele vai entender o que deve fazer em seguida?*
+*5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?*
+*6. Onde esses problemas se manifestam?*
+*7. Com que frequência tendem a ocorrer?*
+*8. Qual é a gravidade desses problemas?*
+*9. Quais barreiras o usuário encontra para atingir seus objetivos?*
+
+
+#### Cronograma
+
+O cronograma abaixo considera a disponibilidade dos avaliadores e dos participantes. Cada sessão terá dois avaliadores (um simulando o sistema e outro observando e registrando), com duração prevista de 30 a 40 minutos, reservando-se uma hora por sessão para preparação e margem.
+
+
+<p align="center">Cronograma da avaliação do protótipo de papel </p>
+
+| Data  | Dia    | Atividade                                                                                                      | Responsável(is)          |
+| ----- | ------ | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 27/10 | Terça  | Confirmar participantes e horários, buscar sala vaga na FCTE para o dia 28/10, conferir tripé, celular e áudio | Lucas Sales              |
+| 28/10 | Quarta | Sessão de coleta de dados do protótipo de papel                                                                | Lucas Sales              |
+| 29/10 | Quinta | Organizar anotações e gravações                                                                                | Lucas Sales e João Paulo |
+| 30/10 | Sexta  | Construção do relato de resultados do protótipo de papel                                                       | Lucas Sales              |
+
+<p align="center">Tabela 2 - Cronograma da avaliação do protótipo de papel </p>
+<p align="center">Autor - Lucas Sales </p>
 
 
 ## D - Decidir como lidar com as questões éticas
