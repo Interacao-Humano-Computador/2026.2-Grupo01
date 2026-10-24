@@ -4,6 +4,7 @@
 | 20/10/2026 | Criação da página                                                                                           | Lucas Sales | A definir   |
 | 20/10/2026 | Adicionando informações                                                                                     | João Paulo  | A definir   |
 | 21/10/2026 | Determinando objetivos, perguntas e método de avaliação para a funcionalidade de comunicação entre usuários | Lucas Sales | A definir   |
+| 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -209,6 +210,59 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 </center>
 
 Os entrevistadores deverão garantir que os materiais estejam prontos com antecedência e que os participantes sejam contatados para confirmar o horário agendado.
+
+### Questões práticas - Comunicação entre usuários
+
+As questões práticas relativas à avaliação do protótipo de papel incluem: definição da tarefa a ser realizada, definição de perfil dos participantes e recrutamento dos mesmos, preparação de ambiente e de equipamentos, a criação do protótipo de papel em si e a execução de teste piloto.
+
+#### Definição da tarefa
+
+A comunicação entre usuários no Microsoft Teams pode acontecer de várias formas, dentre elas, reuniões, mensagens de texto via chat teams, envio de emojis, stickers e loop components. A funcionalidade analisada na avaliação, é a gravação de mensagem de voz, disponível apenas no aplicativo mobile do Microsoft Teams, no contexto da avaliação, a funcionalidade estará disponível em ambiente web e desktop.
+
+Desta forma, a tarefa que o participante irá realizar, é a **gravação de áudio no Microsoft Teams, em ambiente web ou desktop**, consideraremos no protótipo que o login na plataforma já foi realizado e que o participante irá enviar uma mensagem de áudio para um dos usuários que houve interação recente, para evitar o fluxo de pesquisa de um usuário.
+
+O passo a passo esperado que o participante realize é:
+
+1. Selecionar uma conversa recente.
+2. Selecionar o ícone de microfone para iniciar a gravação de áudio.
+3. Falar a mensagem a ser transmitida.
+4. Selecionar o ícone de quadrado vermelho, para encerrar a gravação de áudio ou selecionar o ícone com duas barras verticais que indica a pausa, podendo continuar o áudio, até o momento de encerrar.
+5. Selecionar o ícone de triângulo apontado para a direita *(play)* para escutar o próprio áudio antes do envio. *(opcional)*
+6. Selecionar o ícone de seta apontada para a direita para enviar o áudio.
+
+#### Definição de perfil dos participantes e recrutamento
+
+Para esta avaliação o perfil de participantes esperados são estudantes de graduação da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB), que utilizam o Microsoft Teams para realizar trabalhos em grupo, comunicações com professores e servidores da universidade.
+
+O recrutamento ocorrerá dentro da própria universidade, sendo solicitado aos estudantes para realizarem uma rápida pesquisa para contribuir com o trabalho da disciplina.
+
+#### Preparação de ambiente e de equipamentos
+
+A avaliação será realizada na Universidade de Brasília (UnB), mais especificamente na Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Uma sala vaga será ocupada pelos avaliadores e o participante, a própria universidade já dispõe de cadeiras com mesas para serem utilizadas. 
+
+Os demais equipamentos que serão utilizados são:
+
+1. Telefone celular;
+2. Tripé de apoio;
+3. Canetas;
+
+#### Criação do protótipo de papel
+
+A criação do protótipo de papel envolve representar graficamente as telas do Microsoft Teams para que o participante interaja com a mesma. As telas e componentes que serão representadas em papel, são:
+
+1. Tela inicial, com usuário já logado e conversas recentes aparentes;
+2. Tela de conversa selecionada, com o chat disponível, com o ícone de gravação de áudio;
+3. Componente representando o áudio sendo gravado;
+4. Componente representando um ícone de pausa;
+5. Componente representando o áudio gravado;
+6. Componente representando o áudio enviado no chat; 
+
+#### Teste piloto
+a gente pode fazer entre a gente ne? colocar entao um dos nossos pra fazer a funcionalidade do outro e fica mec dms
+#### Cronograma
+ai eu nao sei nao
+
+
 
 ## D - Decidir como lidar com as questões éticas
 
