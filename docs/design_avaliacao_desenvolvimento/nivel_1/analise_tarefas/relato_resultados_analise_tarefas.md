@@ -32,7 +32,7 @@ Entrevista semiestruturada, com consentimento do participante (termo lido e acei
 
 | ID da Sessão | Entrevistador | Participante | Data | Plataforma |
 | ------------ | ------------- | ------------ | ---- | ---------- |
-| <a id="sessao-02"></a>**02** | João Paulo | Participante B | 23/10/2026 – horário a preencher | Sessão gravada em vídeo (meio a confirmar) |
+| <a id="sessao-02"></a>**02** | João Paulo | Gabriel Diniz | 23/10/2026 | Sessão gravada em vídeo faculdade |
 
 <a id="participantes"></a>
 
