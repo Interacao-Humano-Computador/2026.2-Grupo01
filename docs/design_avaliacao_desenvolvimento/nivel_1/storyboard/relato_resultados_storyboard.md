@@ -5,6 +5,7 @@
 | 20/10/2026 | Criação da página e estrutura inicial                                                                                     | Lucas Sales Ribeiro         | A definir   |
 | 23/10/2026 | Elaboração e especificação do Storyboard, metodologia e referências bibliográficas                                        | Evellyn de Sousa Rocha      | A definir   |
 | 24/10/2026 | Storyboard de agendamento de reunião com o coordenador (3.3) e relato dos resultados da entrevista de avaliação (seção 4) | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | Relato dos resultado do storyboard da comunicação com usuário(s)                                                          | Lucas Sales Ribeiro         | A definir   |
 
 #  Storyboards  
 
@@ -362,6 +363,13 @@ Na entrevista, foi possível coletar os seguintes dados do participante:
 - Para realizar as palestras, o participante informou que a reuniao era marcada previamente pela empresa de contratação e a mesma era responsável por divulgar o link aos colaboradores que iriam participar da reunião, o participante recebia o mesmo link da empresa e ingressava na reunião no horário e dia devido;
 
 ##### Validação do Storyboard
+
+O storyboard apresentado ao usuário, está disponível abaixo e no [link](../../../assets/storyboard_lucas_sales.jpg) para melhor visualização:
+
+<a id="figura-2"></a>
+![Storyboard comunicação com usuário(s)](../../../assets/storyboard_lucas_sales.jpg)
+<p align="center">Figura 2 - Storyboard de comunicação com usuário(s) </p>
+
 O participante explicou com clareza o storyboard, demonstrando entender cada etapa do processo e das ações realizadas pela personagem, associou a funcionalidade de comunicação com usuários via mensagem de voz pelo chat do Microsoft Teams, com a comunicação por mensagem de voz do Whatsapp o que levou o participante a indicar faltar a transcrição do audio, orientando que esta funcionalidade, pode ajudar a pessoa que recebe o áudio a dar um direcionamento com mais celeridade e objetividade.
 
 #### Interpretação e análise dos dados
@@ -520,3 +528,4 @@ O participante entendeu o fluxo do começo ao fim e percebeu sem ajuda a disponi
 | `1.1`  | 23/10/2026 | Detalhamento do Storyboard (quadro a quadro), fundamentação em IHC e referências, espaço aos outros integrantes. | Evellyn de Sousa Rocha      | A definir   |
 | `1.2`  | 24/10/2026 | Storyboard de agendamento de reunião (3.3) e relato dos resultados da avaliação (tópico 4).                      | João Paulo da Silva Pereira | A definir   |
 | `1.3`  | 24/10/2026 | Criação e publicação do checklist de conformidade do Storyboard.                                                 | Evellyn                     |             |
+| `1.4`  | 24/10/2026 | Adição de todo o escopo do relato do storyboard da comunicação com usuário(s)                                    | Lucas Sales                 |             |
