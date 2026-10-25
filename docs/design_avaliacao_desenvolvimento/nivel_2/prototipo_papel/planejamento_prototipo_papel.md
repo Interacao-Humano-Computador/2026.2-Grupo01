@@ -316,6 +316,8 @@ O cronograma abaixo considera a disponibilidade dos avaliadores e dos participan
 Tendo como base o termo de consentimento geral, os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que as gravações dos participantes serão utilizadas exclusivamente para esse propósito.
 
 
+
+
 ## E - Avaliar, interpretar e apresentar os dados
 
 A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento Planejamento do Relato do Protótipo de Pape.
