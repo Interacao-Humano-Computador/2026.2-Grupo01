@@ -260,6 +260,12 @@ A criação do protótipo de papel envolve representar graficamente as telas do 
 5. Componente representando o áudio gravado;
 6. Componente representando o áudio enviado no chat; 
 
+Abaixo estão os componentes criados, de acordo com a descrição acima:
+![Componentes de papel](../../../assets/componentes_em_papel.jpeg)
+<a id="figura-7"></a>
+<p align="center">Figura 7 - Componentes e telas em papel </p>
+<p align="center">Autor - Lucas Sales </p>
+
 #### Teste piloto
 
 Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
@@ -359,18 +365,18 @@ Além destes, os avaliadores se comprometem a sempre **explicar os objetivos** d
 Por fim, todos os participantes da pesquisa, devem preencher o **Termo de Consentimento Livre e Esclarecido (TCLE)** previamente à sua participação nesta, que está disponível abaixo.
 
 ![Termo de Consentimento Livre e Esclarecido](../../../assets/TCLE_v2.png)
-<p align="center">Figura 7 - Termo de Consentimento Livre e Esclarecido </p>
+<p align="center">Figura 8 - Termo de Consentimento Livre e Esclarecido </p>
 <p align="center">Autor - Lucas Sales </p>
 
 **Fonte:**
 
 Conteúdo de Barbosa e Silva (2021), páginas 126,127 e 128:
-<a id="figura-8"></a>
-![Princípios éticos](../../../assets/principios_1.png)
-<p align="center">Figura 8 - Princípios éticos </p>
 <a id="figura-9"></a>
-![Princípios éticos](../../../assets/principios_2.png)
+![Princípios éticos](../../../assets/principios_1.png)
 <p align="center">Figura 9 - Princípios éticos </p>
+<a id="figura-10"></a>
+![Princípios éticos](../../../assets/principios_2.png)
+<p align="center">Figura 10 - Princípios éticos </p>
 
 ## E - Avaliar, interpretar e apresentar os dados
 
@@ -392,11 +398,11 @@ O documento utiliza IA generativa nos seguintes pontos:
 
 ## Referências Bibliográficas
 
-> 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.
+> 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 979-65-00-19677-1.
 
-> 2. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 279-280. Autopublicação. ISBN: 978-65-00-19677-1.
+> 2. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 279-280. Autopublicação. ISB10: 978-65-00-19677-1.
 
-> 3. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 266-267. Autopublicação. ISBN: 978-65-00-19677-1.
+> 3. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro10 Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 266-267. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 | Versão | Data       | Descrição               | Autor(es)   | Revisor(es) |
