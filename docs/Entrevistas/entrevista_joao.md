@@ -4,10 +4,11 @@
 
 ## Sumário
 
-1. [Análise de Tarefas (HTA e CTT)](#parte-1--análise-de-tarefas-em-ihc-microsoft-teams)
-2. [Persona e Caso de Uso](#parte-2--persona-e-caso-de-uso-professor)
-3. [Registro da Entrevista](#parte-3--avaliação-de-interação-humano-computador)
+## Sumário
 
+1. Análise de Tarefas (HTA e CTT)
+2. Persona e Caso de Uso
+3. Registro da Entrevista
 ---
 
 ## Parte 1 – Análise de Tarefas em IHC: Microsoft Teams
