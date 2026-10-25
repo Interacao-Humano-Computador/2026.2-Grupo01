@@ -7,11 +7,8 @@
 | 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
 | 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
 | 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                     | Lucas Sales | A definir   |
-<<<<<<< Updated upstream
 | 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir |
-=======
 | 25/10/2026 | atualização do planejamento do protótipo de papel e adição do vídeo e foto do protótipo  | Evellyn Rocha | A definir   |
->>>>>>> Stashed changes
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -412,7 +409,7 @@ Abaixo são apresentados os componentes e telas desenhados manualmente para simu
 
 ###  Registro de foto do Protótipo de Papel-evellyn
 
-![Figura 1 – Componentes e Telas do Protótipo de Papel](prototipo_papel_eve.jpg)
+![Figura 1 – Componentes e Telas do Protótipo de Papel](prototipo_papel_eve.png)
 
 <p align="center"><b>Figura 1:</b> Componentes e telas do protótipo de papel do módulo de aproveitamento de estudos no MS Teams. Fonte: Elaborado pela autora (2026).</p>
 
