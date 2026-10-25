@@ -334,19 +334,55 @@ _______________________________________________
 
 Agradecemos pela sua participação! Suas respostas irão contribuir para o desenvolvimento da avaliação de Interação Humano Computador do produto Microsoft Teams. Se tiver dúvidas ou quiser saber dos resultados, a pessoa avaliadora irá lhe fornecer todos os recursos.
 
-#### Perfil de usuários e avaliadores que participaram da avaliação:
+#### Perfil de usuários e avaliadores que participaram da avaliação
 
 O perfil de usuário entrevistado foi o de **funcionário**, para analisar como o Microsoft Teams se comporta dentro de empresas, independente do tamanho ou escala de funcionários.
 
 O número de avaliadores foi de apenas uma pessoa, o aluno Lucas Sales.
 
+Abaixo estão descritas as informações demográficos do participante:
+
+| Nº  | Pergunta                                                                                                                     | Resposta                                                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Qual seu sexo?                                                                                                               | Feminino                                                                                                                                 |
+| 2   | Qual sua idade em anos?                                                                                                      | 18 - 40                                                                                                                                  |
+| 3   | Qual sua formação?                                                                                                           | Bacharel em Psicologia                                                                                                                   |
+| 4   | Possui dificuldade com informação impressa?                                                                                  | Não                                                                                                                                      |
+| 5   | Possui experiência com textos complexos?                                                                                     | Sim                                                                                                                                      |
+| 6   | Está disposto(a) a ler textos como manuais ou ebooks ao utilizar produtos como o Microsoft Teams?                            | Não                                                                                                                                      |
+| 7   | Prefere aprender com outras pessoas, ou aprender fazendo?                                                                    | Prefiro aprender com outras pessoas                                                                                                      |
+| 8   | Qual seu cargo atual?                                                                                                        | Gerente de RH                                                                                                                            |
+| 9   | Possui quanto tempo de experiência nesse cargo em anos?                                                                      | Menos de 1                                                                                                                               |
+| 10  | Possui quanto tempo na empresa atual em anos?                                                                                | Menos de 1                                                                                                                               |
+| 11  | Quais suas principais responsabilidades?                                                                                     | Supervisionar a folha de pagamento; controle de ponto, férias, admissões e demissões; analisar indicadores e definir metas para a equipe |
+| 12  | Possui plano de carreira?                                                                                                    | Não                                                                                                                                      |
+| 13  | Quais cargos já trabalhou antes?                                                                                             | Psicóloga clínica                                                                                                                        |
+| 14  | Aproximadamente quantas pessoas trabalham na empresa onde você atua?                                                         | Não sei informar                                                                                                                         |
+| 15  | Qual a sua área de atuação?                                                                                                  | Psicologia (RH)                                                                                                                          |
+| 16  | O quanto você acredita que treinamento é valioso?                                                                            | Parcialmente valioso                                                                                                                     |
+| 17  | Qual estilo de aprendizado você prefere?                                                                                     | Visual                                                                                                                                   |
+| 18  | Na sua rotina de trabalho atual, você conseguiria investir tempo para aprender a utilizar um produto como o Microsoft Teams? | Não                                                                                                                                      |
+| 19  | Qual seu domínio com computadores?                                                                                           | Bom domínio                                                                                                                              |
+| 20  | Quanto tempo de experiência, em anos, você tem com computadores?                                                             | 20+                                                                                                                                      |
+| 21  | Quais sistemas operacionais de computadores conhece?                                                                         | Windows, Mac OS                                                                                                                          |
+| 22  | Quais sistemas operacionais de computadores utiliza?                                                                         | Windows                                                                                                                                  |
+| 23  | Quais dispositivos utiliza no dia a dia?                                                                                     | Smartphones, Tablets, Notebook/Laptop, Computador de mesa                                                                                |
+
+<p align="center">Tabela 1 - Respostas do questionário de perfil do participante.</p>
+
+#### Questões éticas
+
+Previamente à gravação, foi solicitado permissão e assinatura do Termo de Consentimento Livre e Esclarecido, disponível logo abaixo, o participante se demonstrou confortável em todo o processo e respeitado, realizando com tranquilidade e respeito a entrevista.
+
+![TCLE](../../../assets/tcle_preenchido_lucas_sales.jpg)
+<p align="center">Figura 2 - Termo de Consentimento Livre e Esclarecido preenchido </p>
+
+
 #### Dados coletados
 
 A gravação com o participante está disponível [neste link](https://youtu.be/JlWh0enZWTM)
 
-Para os dados demográficos, o questionário está disponível abaixo:
-
-(foto do questionário preenchido)
+Para os dados demográficos, o questionário está disponível abaixo [neste link](/assets/questionario_preenchido.pdf)
 
 Na entrevista, foi possível coletar os seguintes dados do participante:
 
@@ -366,9 +402,9 @@ Na entrevista, foi possível coletar os seguintes dados do participante:
 
 O storyboard apresentado ao usuário, está disponível abaixo e no [link](../../../assets/storyboard_lucas_sales.jpg) para melhor visualização:
 
-<a id="figura-2"></a>
+<a id="figura-3"></a>
 ![Storyboard comunicação com usuário(s)](../../../assets/storyboard_lucas_sales.jpg)
-<p align="center">Figura 2 - Storyboard de comunicação com usuário(s) </p>
+<p align="center">Figura 3 - Storyboard de comunicação com usuário(s) </p>
 
 O participante explicou com clareza o storyboard, demonstrando entender cada etapa do processo e das ações realizadas pela personagem, associou a funcionalidade de comunicação com usuários via mensagem de voz pelo chat do Microsoft Teams, com a comunicação por mensagem de voz do Whatsapp o que levou o participante a indicar faltar a transcrição do audio, orientando que esta funcionalidade, pode ajudar a pessoa que recebe o áudio a dar um direcionamento com mais celeridade e objetividade.
 
