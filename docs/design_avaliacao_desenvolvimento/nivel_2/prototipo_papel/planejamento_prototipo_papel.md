@@ -7,6 +7,7 @@
 | 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
 | 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
 | 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                     | Lucas Sales | A definir   |
+| 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -82,6 +83,17 @@ Conteúdo de Barbosa e Silva (2021), páginas 250 e 251:
 
 A Tabela 1 foi gerada com auxílio de inteligência artificial (Claude) a partir do conteúdo da literatura.
 
+### Objetivos da avaliação do protótipo de papel - Agendamento de reunião com o coordenador do curso
+
+Para esta funcionalidade valem os mesmos objetivos e perguntas da Tabela 1. O protótipo de papel representa o reprojeto do agendamento de uma reunião com o coordenador do curso no Microsoft Teams, pelo Perfil 1 (Estudante). Nele, o formulário mostra só os campos essenciais, sugere o coordenador com nome e cargo ao digitar, exibe a disponibilidade dos dois antes do envio, orienta o que escrever no assunto, confirma o envio e mostra o status do convite (melhorias M01 a M07 do [planejamento da avaliação do storyboard](/planejamento/storyboard/planejamento_avaliacao_storyboard/)).
+
+O autor João Paulo escolhe analisar dois objetivos da Tabela 1:
+
+- **Comparar ideias e alternativas de design:** a HTA do Estudante prevê duas entradas para a mesma tarefa (nós 1.1 e 1.2, plano `1.1 / 1.2`). A **alternativa A** é abrir o Calendário e acionar "Nova reunião"; a **alternativa B** é abrir a conversa com o coordenador e acionar "Marcar reunião". Depois da entrada, as duas seguem o mesmo fluxo. A pergunta é qual entrada é mais eficiente, mais fácil de aprender e a preferida pelo usuário.
+- **Problemas na interação e interface:** verificar se o usuário consegue marcar a reunião sem ajuda, encontra o coordenador certo, percebe os horários livres para os dois, entende a confirmação de envio e o status do convite.
+
+O protótipo parte do storyboard avaliado no Nível 1, em que a avaliação com um participante apontou dificuldade em identificar o coordenador na lista de sugestões e dúvida sobre a tela de resumo e envio.
+
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
 As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021), visando o contexto específico da avaliação de protótipos de papel. O objetivo é compreender como os usuários percebem os fluxos de interação e quais aspectos podem afetar a experiência de uso. As questões foram elaboradas para investigar tanto as alternativas de design quanto a identificação de problemas de IHC, considerando as interações apresentadas no protótipo. Essas perguntas serão essenciais para entender se o design facilita ou dificulta o uso do sistema, e se há aspectos que precisam ser ajustados para melhorar a experiência do usuário.
@@ -126,6 +138,28 @@ Foram extraídas da literatura de Barbosa e Silva (2021) as seguintes perguntas 
 **9. Quais barreiras o usuário encontra para atingir seus objetivos?**
 
 
+### Perguntas a serem respondidas na avaliação - Agendamento de reunião com o coordenador do curso
+
+As perguntas 1 a 3 da Tabela 1 comparam as duas entradas (alternativas A e B). As perguntas abaixo, extraídas de Barbosa e Silva (2021) para o objetivo de identificar problemas na interação e na interface, são aplicadas ao agendamento com os seguintes pontos de atenção:
+
+**1. O usuário consegue operar o sistema?** Consegue abrir o formulário pela entrada indicada (Calendário ou conversa)?
+
+**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?** Envia o convite ao coordenador certo, no horário livre para os dois, com a duração pedida? Erros possíveis: escolher a secretaria no lugar do coordenador, escolher horário ocupado, deixar o assunto vazio ou não enviar o convite.
+
+**3. Ele entende o que significa e para que serve cada elemento da interface?** Entende a lista de sugestões (nome e cargo), os horários livres e ocupados, a orientação do campo Assunto, o lembrete e o status do convite?
+
+**4. Ele vai entender o que deve fazer em seguida?** Sabe que, depois de revisar o resumo, deve enviar, e que, depois do envio, deve esperar a resposta ou propor outro horário?
+
+**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
+
+**6. Onde esses problemas se manifestam?** Em qual tela (T1 a T7) e em qual nó da HTA.
+
+**7. Com que frequência tendem a ocorrer?**
+
+**8. Qual é a gravidade desses problemas?**
+
+**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
+
 ## C - Escolher os métodos de avaliação a serem utilizados
 
 Para a avaliação do protótipo de papel, serão utilizados dois métodos principais: **entrevista semiestruturada** e **avaliação heurística**, cada um focando em aspectos específicos da avaliação.
@@ -165,6 +199,14 @@ Conteúdo de Barbosa e Silva (2021), páginas 288, 303, 304 e 305:
 ![Quantidade de avaliadores](../../../assets/dois_avaliadores_2.png)
 <p align="center">Figura 6 - Quantidade de avaliadores </p>
 
+
+### Método de avaliação - Agendamento de reunião com o coordenador do curso
+
+Para o agendamento é usada a **prototipação em papel**, como descrito para a comunicação entre usuários: dois avaliadores, um simulando o sistema (o "computador de papel", que coloca as peças sem explicar oralmente) e outro observando e registrando. O participante fala em voz alta o que pensa (*think aloud*) e, depois da tarefa, responde a uma entrevista curta.
+
+A **entrevista pós-teste** pergunta de qual entrada o participante gostou mais e por quê, o que causou dúvida, o que faltou e como saberia que o coordenador aceitou a reunião. A **avaliação heurística** é feita pelo avaliador sobre as telas T1 a T7, com as heurísticas de Nielsen (1994) mais ligadas à tarefa: visibilidade do estado do sistema (confirmação de envio e status do convite), correspondência com o mundo real ("Participante", "Assunto"), controle e liberdade (editar o horário, propor outro horário), prevenção de erros (conflito de horário, pessoa errada), reconhecimento em vez de memorização (sugestões de pessoas) e design minimalista (campos essenciais).
+
+Quando a sessão de cada funcionalidade for do mesmo participante, a ordem das funcionalidades e, no agendamento, das alternativas A e B é registrada, para considerar o efeito de ordem.
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -347,6 +389,57 @@ O cronograma abaixo considera a disponibilidade dos avaliadores e dos participan
 <p align="center">Autor - Lucas Sales </p>
 
 
+### Questões práticas - Agendamento de reunião com o coordenador do curso
+
+#### Definição da tarefa
+
+O Microsoft Teams permite marcar reuniões de várias formas. A funcionalidade analisada é a **marcação de uma reunião entre duas pessoas, o estudante e o coordenador do curso**, sem canal de turma. Consideramos no protótipo que o login já foi feito. Os nomes e dados do protótipo são fictícios (coordenador "Carlos Menezes", estudante "Rafaela Duarte", persona provisória até que a persona oficial do Estudante seja definida).
+
+Cenário lido ao participante, sem explicar a interface: *"Você é estudante e precisa tirar uma dúvida com o coordenador do curso sobre aproveitamento de disciplinas antes da matrícula. Use o Teams para marcar uma reunião de 30 minutos com ele na quinta-feira, dia 29."*
+
+O passo a passo esperado, ligado aos nós da HTA do Estudante, é:
+
+1. Abrir o Calendário e acionar "Nova reunião" (alternativa A, nó 1.1) ou abrir a conversa com o coordenador e acionar "Marcar reunião" (alternativa B, nó 1.2).
+2. Digitar o nome ou o cargo do coordenador e selecionar a pessoa certa na lista de sugestões, e não a secretaria (nós 2.1 e 2.2).
+3. Consultar a disponibilidade dos dois, escolher quinta-feira, dia 29, às 11h, que é livre para os dois, e definir 30 minutos de duração (nós 3.1 a 3.3).
+4. Informar o assunto e, se quiser, detalhar a descrição (nós 4.1 e 4.2).
+5. Revisar o resumo e enviar o convite (nós 5.1 e 5.2).
+6. Conferir a confirmação do envio e o status do convite (nó 6.1).
+7. Em uma segunda rodada, o simulador mostra o convite como recusado e o participante propõe outro horário (nó 6.2).
+
+#### Definição de perfil dos participantes e recrutamento
+
+Perfil 1 (Estudante): estudantes de graduação da FCTE/UnB que usam o Microsoft Teams para trabalhos em grupo e comunicação com professores e servidores. Preferência por participantes que ainda não viram o storyboard do agendamento, para não haver aprendizado prévio. O recrutamento ocorre dentro da universidade, junto com o da funcionalidade de comunicação entre usuários.
+
+#### Preparação de ambiente e de equipamentos
+
+Mesma sala e mesmos equipamentos da avaliação da comunicação entre usuários (celular, tripé e canetas), mais as folhas impressas das telas e as peças móveis do agendamento.
+
+#### Criação do protótipo de papel
+
+As telas e componentes representados em papel são:
+
+| Tela | Conteúdo | Nó da HTA |
+| ---- | -------- | --------- |
+| T1 | Menu lateral do Teams (Chat, Equipes, Calendário, Arquivos), com usuário já logado | 1 |
+| T2-A | Calendário com o botão "Nova reunião" | 1.1 |
+| T2-B | Conversa com o coordenador, com o botão "Marcar reunião" | 1.2 |
+| T3 | Formulário com o campo Participante e peças da lista de sugestões (nome e cargo; coordenador e secretaria) | 2.1 e 2.2 |
+| T4 | Disponibilidade dos dois, com peças de horários livres e ocupados | 3.1 a 3.3 |
+| T5 | Campos Assunto (com orientação) e Duração | 4.1 e 4.2 |
+| T6 | Resumo, botão Enviar e peça de confirmação de envio com lembrete | 5.1 e 5.2 |
+| T7 | Evento com peça de status do convite (pendente, aceito ou recusado) e botão "Propor outro horário" | 6.1 e 6.2 |
+
+A tela T2-B ainda precisa ser desenhada; as demais partem dos quadros do storyboard do agendamento. As imagens do protótipo serão anexadas a esta página depois de prontas.
+
+#### Teste piloto
+
+Ainda não foi realizado para o agendamento. Antes da sessão, um avaliador fará uma sessão normal simulando um participante, para verificar a linguagem, as peças em papel, os equipamentos e o tempo (meta de 30 a 40 minutos para as duas rodadas), e registrará os resultados nas nove perguntas, como foi feito para a comunicação entre usuários.
+
+#### Cronograma
+
+A sessão do agendamento segue o cronograma geral da avaliação do protótipo de papel, com os avaliadores Lucas Sales e João Paulo. Participante, horário e sala do agendamento estão a definir.
+
 ## D - Decidir como lidar com as questões éticas
 
 Para garantir a integridade e o aspecto ético da pesquisa, são utilizadas os princípios éticos descritos por Barbosa e Silva(2021).
@@ -388,6 +481,10 @@ Desta forma a avaliação dos dados coletados será conduzida de acordo com as e
 O relato dos resultados estará disponível na pagina [Relato dos resultados - Protótipo de papel](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/resultados_prototipo_papel/) de acordo com o seguimento da disciplina de IHC. 
 
 
+### Questões éticas e avaliação dos dados - Agendamento de reunião com o coordenador do curso
+
+Valem o TCLE e os princípios descritos acima. Para o agendamento, o participante é identificado por uma letra, os nomes do protótipo são fictícios e a gravação só ocorre com a permissão dele. Os dados serão analisados com os indicadores do planejamento do relato (conclusão sem ajuda, tempo, erros por tela, passos fora da HTA e preferência entre as alternativas A e B), e com poucas sessões os resultados serão tratados como indício, sem generalizar.
+
 ## Agradecimento e Uso de IA generativa
 
 O documento utiliza IA generativa nos seguintes pontos:
@@ -404,8 +501,11 @@ O documento utiliza IA generativa nos seguintes pontos:
 
 > 3. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro10 Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Páginas 266-267. Autopublicação. ISBN: 978-65-00-19677-1.
 
+> 4. NIELSEN, Jakob. **Usability Inspection Methods**. New York: John Wiley & Sons, 1994.
+
 ## Histórico de versão
 | Versão | Data       | Descrição               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------------------- | ----------- | ----------- |
 | `1.0`  | 20/10/2026 | Criação da página.      | Lucas Sales |             |
 | `2.0`  | 20/10/2026 | Adicionando informações | João Paulo  |             |
+| `2.1`  | 25/10/2026 | Adicionando a funcionalidade de agendamento de reunião com o coordenador | João Paulo  |             |
