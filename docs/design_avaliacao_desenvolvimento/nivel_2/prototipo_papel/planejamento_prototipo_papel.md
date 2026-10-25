@@ -268,7 +268,7 @@ Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão
 
 Por fim, o avaliador deve realizar uma breve análise dos dados coletados para garantir que eles permitirão responder as questões da avaliação.
 
-Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponível no seguinte link: [CLique aqui para acessar a gravação do teste-piloto](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponível no seguinte link: [CLique aqui para acessar a gravação do teste-piloto](https://youtube.com/shorts/Qcpn9fD_NHw?feature=share)
 
 ##### Análise dos dados do teste-piloto
 
@@ -289,21 +289,37 @@ Para analisar a produção dos dados necessários, foram utilizadas as (pergunta
 **1. O usuário consegue operar o sistema?**
 No teste-piloto, o avaliador, simulando um participante, conseguiu utilizar todas as telas e componentes em papel descritos na [criação do protótipo de papel](#criacao-do-prototipo-de-papel). 
 
-*2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?*
+**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
 
-*3. Ele entende o que significa e para que serve cada elemento da interface?*
+O avaliador, simulando um participante, atingiu com eficiencia, em 2 minutos a tarefa. Nenhum erro foi cometido.
 
-*4. Ele vai entender o que deve fazer em seguida?*
+**3. Ele entende o que significa e para que serve cada elemento da interface?**
 
-*5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?*
+O avaliador, simulando um participante compreende com exatidão os elementos da interface.
 
-*6. Onde esses problemas se manifestam?*
+**4. Ele vai entender o que deve fazer em seguida?**
 
-*7. Com que frequência tendem a ocorrer?*
+O avaliador, simulando um participante entendeu completamente o fluxo da tarefa.
 
-*8. Qual é a gravidade desses problemas?*
+**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
 
-*9. Quais barreiras o usuário encontra para atingir seus objetivos?*
+O avaliador, simulando um participante não teve problemas ao realizar a tarefa.
+
+**6. Onde esses problemas se manifestam?**
+
+Não se aplica.
+
+**7. Com que frequência tendem a ocorrer?**
+
+Não se aplica.
+
+**8. Qual é a gravidade desses problemas?**
+
+Não se aplica.
+
+**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
+
+Nenhuma barreira foi encontrada pelo avaliador, enquanto simulava um participante.
 
 
 
