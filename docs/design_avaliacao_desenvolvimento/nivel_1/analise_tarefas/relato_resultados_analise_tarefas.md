@@ -4,7 +4,7 @@
 | 20/10/2026 | Criação da página                                                                                                          | Lucas Sales Ribeiro         | A definir   |
 | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador do curso (Estudante) | João Paulo da Silva Pereira | A definir   |
 | 25/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                                        | Lucas Sales Ribeiro         | A definir   |
-| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador no formato do relato da comunicação com usuário(s) | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador | João Paulo da Silva Pereira | A definir   |
 
 # Relato dos resultados agendamento de reunião com o coordenador do curso
 
