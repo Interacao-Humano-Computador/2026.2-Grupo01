@@ -3,6 +3,7 @@
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
 | 20/10/2026 | Criação da página                                                                                                          | Lucas Sales Ribeiro         | A definir   |
 | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador do curso (Estudante) | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                                        | Lucas Sales Ribeiro         | A definir   |
 
 # Relato dos Resultados da Avaliação da Análise de Tarefas – Agendamento de Reunião com o Coordenador (Estudante)
 
@@ -397,3 +398,4 @@ Tal funcionalidade, não pode ocorrer em mensagens de áudio muito longas, dado 
 | ------ | ---------- | ------------------------------------------------------------------------------------------------------ | --------------------------- | ----------- |
 | `1.0`  | 20/10/2026 | Criação da página.                                                                                     | Lucas Sales                 |             |
 | `1.1`  | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador. | João Paulo da Silva Pereira | A definir   |
+| `1.2`  | 24/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                    | Lucas Sales Ribeiro         | A definir   |

@@ -6,6 +6,7 @@
 | 21/10/2026 | Determinando objetivos, perguntas e método de avaliação para a funcionalidade de comunicação entre usuários | Lucas Sales | A definir   |
 | 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
 | 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
+| 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                     | Lucas Sales | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -273,24 +274,37 @@ Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponív
 
 Por questões de disponibilidade do avaliador, não foi possível realizar o teste-piloto no ambiente exato onde ocorrerá a avaliação, dado inclusive o fato de que o ambiente utilizada dependerá do fator de disponibilidade de sala da própria universidade. Contudo, o teste-piloto permitiu analisar as principais questões do planejamento da avaliação:
 
-*Linguagem, material e condução:*
+**Linguagem, material e condução:**
 Durante a execucação do teste-piloto, a linguagem utilizada demonstrou ser amigável e acolhedora, demonstrando ao participante que a avaliação é sobre o produto e não sobre a pessoa em si.
-*Equipamentos de gravação e de registros de dados:*
+
+**Equipamentos de gravação e de registros de dados:**
 Os equipamentos de gravação (tripé e telefone celular) apresentaram funcionamento normal e esperado, produzindo o vídeo com estabilidade e demonstrando com clareza os processos envolvidos no teste-piloto.
-*Tempo necessário:*
+
+**Tempo necessário:**
 O tempo aproximado que o avaliador, simulando um participante levou para concluir a tarefa foi de 23 minutos e 15 segundos, o que demonstra estar dentro do escopo da avaliação, que visa durar em torno de 30 a 40 minutos.
-*Produz os dados necessarios:*
+
+**Produz os dados necessarios:**
 Para analisar a produção dos dados necessários, foram utilizadas as (perguntas específicas)[#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios] e abaixo estão descritas a relação do avaliador, simulando um participante e as questões em si:
-*1. O usuário consegue operar o sistema?*
+
+**1. O usuário consegue operar o sistema?**
 No teste-piloto, o avaliador, simulando um participante, conseguiu utilizar todas as telas e componentes em papel descritos na [criação do protótipo de papel](#criacao-do-prototipo-de-papel). 
+
 *2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?*
+
 *3. Ele entende o que significa e para que serve cada elemento da interface?*
+
 *4. Ele vai entender o que deve fazer em seguida?*
+
 *5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?*
+
 *6. Onde esses problemas se manifestam?*
+
 *7. Com que frequência tendem a ocorrer?*
+
 *8. Qual é a gravidade desses problemas?*
+
 *9. Quais barreiras o usuário encontra para atingir seus objetivos?*
+
 
 
 #### Cronograma
@@ -313,16 +327,44 @@ O cronograma abaixo considera a disponibilidade dos avaliadores e dos participan
 
 ## D - Decidir como lidar com as questões éticas
 
-Tendo como base o termo de consentimento geral, os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que as gravações dos participantes serão utilizadas exclusivamente para esse propósito.
+Para garantir a integridade e o aspecto ético da pesquisa, são utilizadas os princípios éticos descritos por Barbosa e Silva(2021).
 
+- **Princípio da autonomia:** Envolve o consentimento livre e esclarecido dos indivíduos e a proteção a grupos vulneráveis e aos legalmente incapazes, tais como: menores de idade, alunos ou subordinados. Nesse sentido, a pesquisa envolvendo seres humanos deverá sempre tratá-los com dignidade, respeitá-los em sua autonomia e defendê-los em sua vulnerabilidade;
 
+- **Princípio da beneficência:** Envolve a ponderação entre riscos e benefícios, tanto atuais como potenciais, individuais ou coletivos, comprometendo-se com o máximo de benefícios e o mínimo de danos e riscos. Os danos podem ocorrer na dimensão física psíquica, moral, intelectual, social, cultural ou espiritual do ser humano, em qualquer fase da pesquisa ou depois dela;
 
+- **Princípio da não maleficência:**Envolve a garantia de evitar danos previsíveis relacionados à pesquisa, tanto os imediatos quanto os tardios;
+
+- **Princípio da justiça e equidade:** Relacionado à relevância social da pesquisa, com vantagens
+significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
+
+Além destes, os avaliadores se comprometem a sempre **explicar os objetivos** da pesquisa previamente, garantir a **confidencialidade** e a **privacidade** dos participantes, que serão sempre apresentados de forma **anônima.** Obtendo sua **permissão para gravação de imagem e voz** antes de iniciar a mesma.
+
+Por fim, todos os participantes da pesquisa, devem preencher o **Termo de Consentimento Livre e Esclarecido (TCLE)** previamente à sua participação nesta, que está disponível abaixo.
+
+![Termo de Consentimento Livre e Esclarecido](../../../assets/TCLE_v2.png)
+<p align="center">Figura 7 - Termo de Consentimento Livre e Esclarecido </p>
+<p align="center">Autor - Lucas Sales </p>
+
+**Fonte:**
+
+Conteúdo de Barbosa e Silva (2021), páginas 126,127 e 128:
+<a id="figura-8"></a>
+![Princípios éticos](../../../assets/principios_1.png)
+<p align="center">Figura 8 - Princípios éticos </p>
+<a id="figura-9"></a>
+![Princípios éticos](../../../assets/principios_2.png)
+<p align="center">Figura 9 - Princípios éticos </p>
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento Planejamento do Relato do Protótipo de Pape.
+Barbosa e Silva(2021), orienta que para interpretar e apresentar os dados o avaliador precisa estar atento a alguns
+aspectos da avaliação realizada antes de tirar conclusões e divulgar resultados. deve se considerar o grau de confiabilidade dos dados, a validade interna do estudo, a validade externa do estudo, e a validade ecológica do estudo.
 
-Os dados das entrevistas semiestruturadas e da avaliação heurística serão organizados, codificados e analisados para identificar padrões, dificuldades e oportunidades de melhoria. Os resultados serão apresentados de forma estruturada, destacando problemas encontrados, sugestões de melhoria e lições aprendidas, com base nas análises dos feedbacks dos participantes e dos problemas de interface identificados.
+Desta forma a avaliação dos dados coletados será conduzida de acordo com as etapas descritas neste documento, de acordo com cada funcionalidade e seu autor.
+
+O relato dos resultados estará disponível na pagina [Relato dos resultados - Protótipo de papel](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/resultados_prototipo_papel/) de acordo com o seguimento da disciplina de IHC. 
+
 
 ## Agradecimento e Uso de IA generativa
 
