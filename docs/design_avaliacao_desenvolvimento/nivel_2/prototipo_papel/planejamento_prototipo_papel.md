@@ -7,7 +7,11 @@
 | 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
 | 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
 | 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                     | Lucas Sales | A definir   |
+<<<<<<< Updated upstream
 | 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir |
+=======
+| 25/10/2026 | atualização do planejamento do protótipo de papel e adição do vídeo e foto do protótipo  | Evellyn Rocha | A definir   |
+>>>>>>> Stashed changes
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -308,6 +312,116 @@ Abaixo estão os componentes criados, de acordo com a descrição acima:
 <p align="center">Figura 7 - Componentes e telas em papel </p>
 <p align="center">Autor - Lucas Sales </p>
 
+
+
+# 1. Definição da Tarefa - Evellyn
+
+## 1.1. Contexto e Funcionalidade Analisada
+
+A comunicação e o acesso a serviços acadêmicos no Microsoft Teams ocorrem por meio de canais de equipe, mensagens de texto, reuniões e aplicativos integrados.
+
+A funcionalidade analisada nesta avaliação é a solicitação de **Aproveitamento de Estudos e Dispensa de Componentes Curriculares**, atualmente realizada via peticionamento eletrônico no SEI/UnB, adaptada para a interface do Microsoft Teams nos ambientes Web e Desktop.
+
+## 1.2. Escopo e Precondições da Tarefa
+
+Para a execução do teste com o protótipo de papel, considera-se que:
+
+- O usuário já realizou o login e está autenticado com seu perfil discente no Microsoft Teams.
+- O participante já acessou a equipe da sua turma/curso e atua no contexto da canalização oficial da Universidade de Brasília (UnB).
+
+## 1.3. Passo a Passo Esperado da Tarefa (Fluxo do Usuário no Protótipo)
+
+O participante deverá realizar o fluxo completo de solicitação de dispensa de disciplinas interagindo com o protótipo de papel. O sequenciamento esperado de ações é:
+
+1. **Acessar o Canal e o Aplicativo:** navegar até o canal geral da turma no Microsoft Teams e selecionar, na barra superior, a aba personalizada **"Serviços Acadêmicos"**.
+
+2. **Iniciar a Solicitação:** no painel de serviços exibido, clicar no card **"Aproveitamento de Estudos e Dispensa de Disciplinas"**.
+
+3. **Conferir Dados Cadastrais:** verificar as informações pessoais e do curso (nome, matrícula e curso UnB), apresentadas como autopreenchidas no formulário inteligente.
+
+4. **Mapear Disciplinas e Equivalências:** informar a instituição de origem e selecionar a disciplina cursada juntamente com a disciplina equivalente na UnB, identificando a categoria do crédito (Obrigatória, Optativa ou Módulo Livre).
+
+5. **Anexar Documentação Comprobatória (PDF):** realizar o upload dos arquivos obrigatórios em formato PDF (Histórico Escolar Oficial e Ementa/Plano de Ensino detalhado), respeitando o limite de até 10 MB e observando a marca visual verde de confirmação (`[✓]`).
+
+6. **Revisar as Informações:** conferir, na tela de resumo, os dados inseridos e a lista de anexos carregados antes da submissão final.
+
+7. **Confirmar e Submeter:** clicar no botão **"Submeter Solicitação"** e aguardar a mensagem de sucesso.
+
+8. **Verificar o Protocolo e Comprovantes:** checar a geração do Número de Protocolo Oficial SEI exibido na tela, a notificação automática enviada no chat do Teams e o envio do comprovante para o e-mail institucional.
+
+9. **Acompanhar o Status:** visualizar o painel de acompanhamento do processo estruturado em três fases: Solicitação Recebida, Em Análise pela Coordenação e Parecer Concluído.
+
+---
+
+# 2. Definição de Perfil dos Participantes e Recrutamento
+
+## 2.1. Perfil dos Participantes Esperados
+
+Para esta avaliação de usabilidade por protótipo de papel, o perfil de participantes definido com base nas personas do projeto é composto por:
+
+- **Público-alvo:** estudantes de graduação ativos da Universidade de Brasília (UnB), matriculados nos cursos do campus Faculdade de Ciências e Tecnologias em Engenharia (FCTE/FGA) ou demais faculdades/institutos.
+- **Experiência com Tecnologia:** discentes que utilizam o Microsoft Teams semanalmente para realização de trabalhos em grupo, aulas síncronas e comunicação com professores/servidores da universidade.
+- **Domínio da Tarefa:** alunos que possuem ou podem vir a ter a necessidade de solicitar o aproveitamento de créditos/disciplinas cursadas em outras Instituições de Ensino Superior (IES) ou em cursos anteriores da UnB.
+
+## 2.2. Estratégia de Recrutamento e Protocolo Ético
+
+- **Local de Recrutamento:** o recrutamento ocorrerá de forma presencial no campus da UnB (FCTE), convidando voluntários para colaborar com a pesquisa acadêmica da disciplina de IHC.
+- **Cuidados Éticos (Resolução CNS nº 466/2012 e LGPD):** cada participante assinará o Termo de Consentimento Livre e Esclarecido (TCLE) em duas vias antes do início da sessão. O avaliador enfatizará que a avaliação foca no protótipo de papel e no sistema, e não na capacidade individual do estudante, garantindo o sigilo dos dados e o anonimato.
+
+---
+
+# 3. Preparação de Ambiente e de Equipamentos
+
+## 3.1. Ambiente Físico
+
+A avaliação será realizada em uma sala vaga e reservada nas instalações da Faculdade de Ciências e Tecnologias em Engenharia (FCTE/UnB), proporcionando um local tranquilo, isento de ruídos externos e interferências, equipado com mesa e cadeiras para o participante e os avaliadores.
+
+## 3.2. Equipamentos e Materiais
+
+- **Gravação Audiovisual:** telefone celular e tripé de apoio para registro em vídeo e áudio do teste de papel, com foco na manipulação dos componentes.
+- **Materiais de Escritório:** canetas de cores variadas, bloco de notas para anotações do observador e papéis autocolantes (*post-its*).
+- **Documentos Impressos:** duas vias do Termo de Consentimento Livre e Esclarecido (TCLE), roteiro de tarefas, cenários e folha de registro de observação.
+- **Protótipo em Papel:** conjunto completo de telas estáticas e componentes gráficos em papel.
+
+## 3.3. Papéis da Equipe de Avaliação (Snyder, 2003; Barbosa e Silva, 2010)
+
+- **Avaliador / Moderador:** apresenta o objetivo do teste, orienta o participante com os cenários de tarefa, faz perguntas neutras e conduz a entrevista pós-teste sem induzir respostas.
+- **Simulador do Sistema ("Homem do Pano" / Computador Humano):** responsável por manipular as telas e peças de papel em resposta direta e imediata aos cliques/ações do participante, mantendo neutralidade verbal.
+- **Observador / Escriba:** anota o tempo de execução, dúvidas verbalizadas (*think aloud*), erros de navegação e rupturas comunicativas observadas.
+
+---
+
+# 4. Criação do Protótipo de Papel (Telas e Componentes)
+
+A criação do protótipo de papel envolve a representação gráfica em baixa/média fidelidade das telas do Microsoft Teams e de seus componentes interativos móveis.
+
+Serão produzidas em papel as seguintes telas e peças:
+
+| Nº | Componente / Tela em Papel | Descrição dos Elementos Representados no Papel |
+|:--:|---|---|
+| 1 | **Tela Inicial do MS Teams** | Interface do canal da turma/curso na UnB, exibindo a barra superior de abas com destaque para a guia "Serviços Acadêmicos". |
+| 2 | **Menu de Serviços Acadêmicos** | Painel exibindo os cards de serviços disponíveis, incluindo a opção "Aproveitamento de Estudos e Dispensa". |
+| 3 | **Tela de Formulário Eletrônico** | Formulário de solicitação com campos autopreenchidos (Nome, Matrícula, Curso) e campos para digitação da IES de origem. |
+| 4 | **Componente Móvel 1 — Busca de Equivalências** | Menu suspenso (*drop-down*) móvel contendo a lista de disciplinas equivalentes e tags de classificação (Obrigatória, Optativa ou Módulo Livre). |
+| 5 | **Componente Móvel 2 — Componente de Upload PDF** | Área de anexo de arquivos exibindo avisos de formato (`.pdf`), limite de tamanho (até 10 MB) e indicador visual verde de validação (`[✓]`) ao anexar Histórico Escolar e Ementa. |
+| 6 | **Tela de Resumo e Revisão** | Painel de conferência mostrando os pares de disciplinas vinculados e lista de anexos com botões "Editar" e "Submeter Solicitação". |
+| 7 | **Componente Móvel 3 — Modal de Protocolo e Confirmação** | Cartão pop-up exibindo a mensagem de sucesso, o Número de Protocolo SEI gerado e o aviso de envio de comprovante por e-mail institucional e chat do Teams. |
+| 8 | **Tela de Acompanhamento (Status)** | Painel de acompanhamento com linha do tempo indicando os três status do processo: Recebido, Em Análise e Concluído. |
+
+Abaixo são apresentados os componentes e telas desenhados manualmente para simular a navegação e a execução da tarefa no Microsoft Teams:
+
+###  Registro de foto do Protótipo de Papel-evellyn
+
+![Figura 1 – Componentes e Telas do Protótipo de Papel](prototipo_papel_eve.jpg)
+
+<p align="center"><b>Figura 1:</b> Componentes e telas do protótipo de papel do módulo de aproveitamento de estudos no MS Teams. Fonte: Elaborado pela autora (2026).</p>
+
+###  Registro de vídeo teste piloto do  Protótipo de Papel-evellyn
+
+https://youtube.com/shorts/bpovdN-4HrQ?si=utPoc8qq2S3DYYKn
+
+---
+
 #### Teste piloto
 
 Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
@@ -508,4 +622,8 @@ O documento utiliza IA generativa nos seguintes pontos:
 | ------ | ---------- | ----------------------- | ----------- | ----------- |
 | `1.0`  | 20/10/2026 | Criação da página.      | Lucas Sales |             |
 | `2.0`  | 20/10/2026 | Adicionando informações | João Paulo  |             |
+<<<<<<< Updated upstream
 | `2.1`  | 25/10/2026 | Adicionando a funcionalidade de agendamento de reunião com o coordenador | João Paulo  |             |
+=======
+| `2.0`  | 20/10/2026 | Adicão de  informações | Evellyn Rocha  | 
+>>>>>>> Stashed changes

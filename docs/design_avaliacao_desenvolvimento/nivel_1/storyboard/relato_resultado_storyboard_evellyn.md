@@ -6,7 +6,7 @@ A **Tabela 1** especifica as contribuições dos integrantes do grupo na concep�
 
 | Data | Contribuição | Autor(es) | Revisor(es) |
 | :---: | :--- | :--- | :--- |
-| **23/10/2026** | Concepção, ilustração e especificação do Storyboard manual 1.1 e checklist de conformidade | Evellyn de Sousa Rocha |  |
+| **23/10/2026** | Concepção, ilustração e especificação do Storyboard manual 1.1 e checklist de conformidade | Evellyn de Sousa Rocha | |
 | **22/10/2026** | Planejamento, condução do Teste-Piloto do Storyboard, gravação solo e calibração técnica | Evellyn de Sousa Rocha |  |
 | **24/10/2026** | Condução da avaliação empírica do Storyboard com o participante João Lima, transcrição e relato | Evellyn de Sousa Rocha |  |
 
@@ -111,7 +111,7 @@ Conforme prescrito por Simone Barbosa et al. (2021, p. 300), o teste-piloto inte
 > Conforme estabelece a literatura de IHC (Barbosa et al., 2021, p. 300), os dados, respostas e registros obtidos durante a execução deste teste-piloto têm finalidade **exclusiva de calibração metodológica e técnica**. Eles **NÃO serão computados, contabilizados nem agregados** aos resultados oficiais das avaliações do Storyboard com usuários.
 
 ### 2.1 Metadados e Registro do Vídeo do Teste-Piloto do Storyboard
-A **Tabela 3** detalha os parâmetros operacionais da gravação do Teste-Piloto individual focado na calibração do Storyboard:
+A **Tabela 3** detalha os parâmetros operacionais da gravação do Teste-Piloto individual:
 
 | Parâmetro | Definição Operacional |
 | :--- | :--- |
@@ -137,7 +137,7 @@ A gravação completa do ensaio preparatório individual do Teste-Piloto encontr
 ---
 
 ### 2.2 Transcrição Rastreável do Teste-Piloto (Foco Exclusivo no Storyboard)
-A **Tabela 4** apresenta a transcrição síncrona extraída do registro `transcrição_teste_piloto`, cobrindo **estritamente a calibração do Storyboard e das perguntas Q1 a Q7** (`0:50` a `3:17`):
+A **Tabela 4** apresenta a transcrição síncrona extraída do registro `transcrição_teste_piloto`
 
 | Minutagem | Fala / Ação da Avaliadora (Evellyn de Sousa Rocha) | Etapa de Calibração do Storyboard |
 | :---: | :--- | :--- |
@@ -155,7 +155,7 @@ A **Tabela 4** apresenta a transcrição síncrona extraída do registro `transc
 ---
 
 ### 2.3 Ficha de Calibração Técnica Pós-Piloto do Storyboard
-Após a execução do ensaio solo, a avaliadora **Evellyn** preencheu a Ficha de Calibração técnica (**Tabela 5**), conforme o padrão de Daniel da Silva Batista (2026):
+
 
 | # | Item Verificado | Critério de Aprovação | Resultado Observado | Ajuste / Ação Realizada |
 | :---: | :--- | :--- | :---: | :--- |
@@ -202,7 +202,7 @@ A gravação na íntegra da sessão de avaliação do Storyboard com o participa
 
 ## 4. Transcrição Rastreável das Perguntas e Respostas (Q1 a Q7)
 
-A **Tabela 7** registra a transcrição síncrona das perguntas de **Evellyn** e das respostas de **João Lima**, mapeadas aos localizadores temporais do vídeo:
+A **Tabela 7** registra a transcrição síncrona das perguntas de **Evellyn** e das respostas de **João Lima**:
 
 | ID / Quadros | Pergunta da Moderadora (Evellyn) | Resposta do Participante (João Lima) | Localizador no Vídeo |
 | :---: | :--- | :--- | :---: |
@@ -219,7 +219,7 @@ A **Tabela 7** registra a transcrição síncrona das perguntas de **Evellyn** e
 
 ## 5. Atividades Documentadas na Gravação
 
-A **Tabela 8** resume o fluxo de condução e observação da sessão empírica:
+A **Tabela 8** resume o fluxo de condução e observação da sessão :
 
 | ID | Atividade Realizada na Sessão | Evidência Observada na Gravação | Minutagem |
 | :---: | :--- | :--- | :---: |
@@ -235,7 +235,6 @@ A **Tabela 8** resume o fluxo de condução e observação da sessão empírica:
 
 ## 6. Análise e Propostas de Redesign (RP01 a RP04)
 
-Com base nos diagnósticos da entrevista empírica com João Lima, foram estruturadas **4 Propostas de Redesign (RP01 a RP04)** para orientar a evolução do protótipo de papel e das telas digitais (**Tabela 9**):
 
 | ID | Problema / Necessidade Apontada | Diagnóstico do Usuário na Entrevista | Proposta de Redesign para o Protótipo (RP) | Prioridade |
 | :---: | :--- | :--- | :--- | :---: |
