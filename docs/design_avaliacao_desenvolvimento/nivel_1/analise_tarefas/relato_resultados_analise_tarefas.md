@@ -4,16 +4,13 @@
 | 20/10/2026 | Criação da página                                                                                                          | Lucas Sales Ribeiro         | A definir   |
 | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador do curso (Estudante) | João Paulo da Silva Pereira | A definir   |
 | 25/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                                        | Lucas Sales Ribeiro         | A definir   |
+| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador no formato do relato da comunicação com usuário(s) | João Paulo da Silva Pereira | A definir   |
 
-# Relato dos Resultados da Avaliação da Análise de Tarefas – Agendamento de Reunião com o Coordenador (Estudante)
+# Relato dos resultados agendamento de reunião com o coordenador do curso
 
-Este relato segue os tópicos da página [Planejamento do relato dos resultados](../../../planejamento/planejamento_relato_resultados.md): [objetivos](#objetivos), [método](#metodo), [participantes](#participantes), [sumário dos dados](#sumario), [interpretação](#interpretacao), [problemas](#problemas) e [reprojeto](#reprojeto). As falas vêm da transcrição automática do vídeo da sessão e podem ter erros; o participante é identificado por letra, e não por nome.
+## Objetivos e escopo da avaliação
 
-<a id="objetivos"></a>
-
-## 1. Objetivos e escopo da avaliação
-
-Verificar se o caminho que um estudante descreve para marcar uma reunião com o coordenador do curso no Microsoft Teams corresponde ao caminho da HTA do Estudante (nós 1 a 6, [Figura 1](#figura-1)), e identificar dificuldades nesse caminho. Ficam fora do escopo a reunião em si e outros tipos de agendamento.
+O objetivo da avaliação da análise de tarefas foi analisar **problemas na interação e na interface**, para coletar dados a respeito de se o usuário entende a funcionalidade de marcar uma reunião com o coordenador do curso no Microsoft Teams, os passos para realizar essa tarefa e se há impedimentos ou erros no diagrama HTA do Estudante ([Figura 1](#figura-1)). Ficam fora do escopo a reunião em si e outros tipos de agendamento.
 
 <a id="figura-1"></a>
 
@@ -21,33 +18,84 @@ Verificar se o caminho que um estudante descreve para marcar uma reunião com o 
 
 <p align="center"><b>Figura 1:</b> HTA do Estudante: marcar reunião com o coordenador do curso.</p>
 
-<a id="metodo"></a>
+## Método de avaliação
 
-## 2. Forma como a avaliação foi realizada
+O método de avaliação empregado foi o de **entrevista semiestruturada**, com o participante falando da própria rotina e, em seguida, comparando-a com os passos do diagrama HTA. Não foi aplicado questionário de dados demográficos nesta sessão; o perfil do participante foi levantado na própria entrevista.
 
-Entrevista semiestruturada, com consentimento do participante (termo lido e aceito; anotações e gravação de áudio autorizadas). O entrevistador pediu que o participante contasse a última vez que marcou um horário com alguém, mostrou a lista de passos da HTA e perguntou sobre ordem, passos que faltam, dúvidas, erros anteriores e o que ajuda ou atrapalha no Teams.
+Para a entrevista semiestruturada o avaliador buscou compreender como o participante marca reuniões com outras pessoas, juntamente com a apresentação da lista de passos do diagrama HTA. A coleta de dados com o storyboard do mesmo tema, feita com outro participante, está relatada em [Relato dos resultados - Storyboard](/design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados_storyboard/).
 
-<a id="tabela-1"></a>
+### Roteiro entrevista semiestruturada
+
+#### Introdução
+
+- *Relacionadas à pesquisa*:
+  - Objetivo da pesquisa: entender como o estudante marca uma reunião com o coordenador do curso, principalmente pelo Microsoft Teams;
+  - Como será a participação: o participante conta o que faz de verdade e depois compara com uma lista de passos;
+  - Tempo aproximado da coleta: de 15 a 20 minutos;
+  - Tipos de dados coletados: anotações e áudio, com autorização;
+  - Como serão analisados, por quem e para que: pelo grupo, para a avaliação de IHC do Microsoft Teams;
+  - Enfatizar que a avaliação é sobre o produto e não sobre o usuário, e que não existe jeito certo ou errado de fazer;
+  - Leitura e aceite do termo de consentimento, e esclarecimento de dúvidas, se houver;
+
+#### Coleta de dados relacionados ao usuário
+
+- *Experiência com um produto específico ou ferramentas semelhantes*:
+  - Com que frequência usa o Microsoft Teams e para que usa na faculdade;
+  - Já precisou marcar horário com um coordenador ou professor?
+  - Como foi a última vez que marcou um horário com uma pessoa, do começo ao fim, em qualquer plataforma;
+- *Atitudes e valores*:
+  - O que no Teams ajuda e o que atrapalha nos passos de marcar a reunião;
+  - Prefere outro jeito de marcar? Qual e por quê?
+
+#### Coleta de dados relacionados ao produto
+
+- *Objetivos*:
+  - **Como o usuário atinge o objetivo de marcar uma reunião com o coordenador do curso;**
+    - Como encontraria o coordenador?
+    - Como escolheria o horário? Olha a agenda do coordenador antes?
+    - O que costuma escrever no assunto?
+    - Antes de enviar, confere alguma coisa? O quê?
+    - Como ficaria sabendo da resposta, se o coordenador recusar ou não responder?
+    - Algum passo seria feito mais de uma vez? Em qual passo demora mais ou fica em dúvida?
+    - Já enviou convite para a pessoa errada ou para um horário em que ela estava ocupada? O que aconteceu? (consequências dos erros)
+  - **Validar diagrama HTA;**
+    - Apresentar a lista de passos (iniciar, definir o participante, definir o horário, descrever o assunto, enviar o convite e acompanhar a resposta);
+    - Perguntar se aparece com o que o usuário faz, se falta alguma coisa e se a ordem é a mesma;
+    - Perguntar se começaria pelo Calendário ou pela conversa com a pessoa;
+    - Perguntar se falta algum passo ou situação que não foi perguntada;
+
+#### Perfil de usuários e avaliadores que participaram da avaliação:
+
+O perfil de usuário entrevistado foi o de **estudante** de graduação da UnB (Perfil 1), identificado como Participante B. Ele não é o mesmo participante da avaliação do storyboard. O número de avaliadores foi de apenas uma pessoa, o aluno João Paulo, autor da análise, que conduziu a própria sessão.
 
 **Tabela 1 – Sessão realizada**
 
-| ID da Sessão                 | Entrevistador | Participante  | Data       | Plataforma                        |
-| ---------------------------- | ------------- | ------------- | ---------- | --------------------------------- |
-| <a id="sessao-02"></a>**02** | João Paulo    | Gabriel Diniz | 23/10/2026 | Sessão gravada em vídeo faculdade |
+| ID da Sessão | Entrevistador | Participante   | Data       | Plataforma                        | Gravação |
+| ------------ | ------------- | -------------- | ---------- | --------------------------------- | -------- |
+| **02**       | João Paulo    | Participante B | 23/10/2026 | Sessão gravada em vídeo na faculdade | [Vídeo da entrevista](https://youtu.be/w-9FIzXFeLQ) |
 
-<a id="participantes"></a>
+**Registro da sessão:** [vídeo da entrevista de análise de tarefas](https://youtu.be/w-9FIzXFeLQ)
 
-**Registro da sessão:** [vídeo da entrevista de análise de tarefas](https://youtu.be/w-9FIzXFeLQ).
+#### Dados coletados
 
-## 3. Número e perfil dos participantes e avaliadores
+A gravação com o participante está disponível [neste link](https://youtu.be/w-9FIzXFeLQ).
 
-Um participante (B) e um entrevistador (João Paulo, autor da análise). O Participante B é estudante universitário e usa o Teams duas a três vezes por semana, para reuniões de projeto, envio de arquivos e atividades de disciplinas. Nunca marcou horário com coordenador ou professor; relatou como exemplo a marcação de reuniões de grupo pelo WhatsApp, com enquete de horários. Não é o mesmo participante da avaliação do storyboard.
+Na entrevista, foi possível coletar os seguintes dados do participante:
 
-<a id="sumario"></a>
+- O participante usa o Teams cerca de duas a três vezes por semana, para reuniões de projeto com colegas e com professor, envio de arquivos e atividades de disciplinas;
+- O participante nunca precisou marcar horário com coordenador ou professor;
+- Na última vez que marcou um horário com outras pessoas, foi com um grupo de clientes de projeto, pelo WhatsApp, com uma enquete de horários, e a reunião ocorreu no horário em que todos podiam;
+- O participante acredita que, para marcar reunião com o coordenador, o Teams é direto para achar a pessoa pelo nome, mas tem muitos passos necessários;
+- O participante prefere o e-mail, por achar mais simples;
+- O participante nunca enviou convite para a pessoa errada nem para um horário em que a pessoa estava ocupada;
+- O participante não repete passos durante o agendamento;
+- O passo em que mais demoraria é descrever o assunto, por ser algo formal que ele quer escrever "bonitinho";
+- Antes de enviar, o participante revisa o texto, se há erro de escrita e se falta alguma informação;
+- Para saber da resposta, o participante olharia a plataforma usada (e-mail, WhatsApp ou Teams); se o coordenador não respondesse até a data solicitada, o participante assumiria que não foi possível marcar;
 
-## 4. Sumário dos dados coletados
+##### Validação do diagrama HTA
 
-<a id="tabela-2"></a>
+O participante demonstrou compreender o fluxo demonstrado no diagrama HTA, confirmando a ordem: escolher a pessoa, o horário, o assunto, revisar o envio e ver a resposta, sem acrescentar passos. Indicou, porém, que poderia olhar o calendário primeiro, só para ver as datas disponíveis (antes do nó 2), e que olharia a agenda do coordenador antes de escolher o horário (nó 3.1). Citou o Calendário como ponto de partida e não citou a conversa com a pessoa (nó 1.2).
 
 **Tabela 2 – Resultado por nó da HTA ([Figura 1](#figura-1))**
 
@@ -62,19 +110,11 @@ Um participante (B) e um entrevistador (João Paulo, autor da análise). O Parti
 | 6.1 Consultar o status        | Diferente ([T03](#t03))                | Saberia da resposta "pela plataforma" (e-mail, WhatsApp ou Teams); se o coordenador não respondesse até a data, assumiria que não foi possível marcar. Não citou olhar um status do convite. |
 | Passos repetidos e erros      | Sem relato                             | Não repete passos; nunca enviou convite à pessoa errada nem para horário ocupado.                                                                                                            |
 
-O que ajuda no Teams: achar a pessoa pelo nome é direto. O que atrapalha: "muitos passos necessários". Prefere o e-mail, que acha mais simples. Não acrescentou passos que faltassem.
+#### Interpretação e análise dos dados
 
-<a id="interpretacao"></a>
+O participante demonstrou entender bem todo o fluxo de marcar uma reunião com o coordenador, indicando que os passos apresentados correspondem ao que ele faria, sem passos sobrando ou faltando, conforme a [Tabela 2](#tabela-2). Dois pontos reforçam o que a HTA registra: a busca pelo nome (nó 2.1) e a consulta à agenda do coordenador antes de escolher o horário (nó 3.1). Três pontos pedem atenção: a possível ordem inversa, com o calendário antes da pessoa ([T01](#t01)); o esforço de redigir o assunto formal (nó 4.1, [T02](#t02)); e a ausência do hábito de consultar o status do convite (nó 6.1, [T03](#t03)), em que o participante dependeria de outro canal. Como o participante nunca marcou reunião com coordenador, a validade do relato sobre o fluxo é limitada, e o resultado é um indício de uma única sessão. O autor da análise conduziu a própria sessão.
 
-## 5. Interpretação e análise dos dados
-
-A HTA ([Figura 1](#figura-1)) se sustentou, conforme a [Tabela 2](#tabela-2): os seis grupos de passos apareceram na fala do participante, sem passos sobrando ou faltando. Dois pontos reforçam o que a HTA registra: a busca pelo nome (nó 2.1) e a consulta à agenda do coordenador antes de escolher o horário (nó 3.1). Três pontos pedem atenção: a possível ordem inversa (calendário antes da pessoa, [T01](#t01)), o esforço de redigir o assunto formal (nó 4.1, [T02](#t02)) e a ausência do hábito de consultar o status do convite (nó 6.1, [T03](#t03)), em que o participante dependeria de outro canal. Como o participante nunca marcou reunião com coordenador, a validade do relato sobre o fluxo é limitada, e o resultado é um indício de uma única sessão. O autor da análise conduziu a própria sessão. Os problemas estão na [Tabela 3](#tabela-3) e os encaminhamentos na [Tabela 4](#tabela-4).
-
-<a id="problemas"></a>
-
-## 6. Lista dos problemas encontrados
-
-<a id="tabela-3"></a>
+#### Problemas encontrados
 
 **Tabela 3 – Problemas encontrados na análise de tarefas**
 
@@ -85,11 +125,9 @@ A HTA ([Figura 1](#figura-1)) se sustentou, conforme a [Tabela 2](#tabela-2): os
 | <a id="t03"></a>**T03** | 6.1     | Sem hábito de consultar o status; espera a resposta por outro canal e assume recusa se ela não vier.          | Média     |
 | <a id="t04"></a>**T04** | Geral   | O Teams parece ter "muitos passos", e o participante prefere e-mail.                                          | Leve      |
 
-<a id="reprojeto"></a>
+#### Planejamento para o reprojeto do sistema
 
-## 7. Planejamento para o reprojeto
-
-<a id="tabela-4"></a>
+Para o reprojeto do sistema, as ações são as da tabela abaixo. Para o assunto (T02), o campo deve trazer uma orientação do que escrever (motivo da reunião e o que se espera do coordenador) e pode oferecer um modelo de assunto pronto. Para o status (T03), o convite deve mostrar em texto, na lista e no evento do calendário, se está pendente, aceito ou recusado, e permitir propor outro horário no próprio evento.
 
 **Tabela 4 – Encaminhamentos para o reprojeto**
 
@@ -98,6 +136,7 @@ A HTA ([Figura 1](#figura-1)) se sustentou, conforme a [Tabela 2](#tabela-2): os
 | <a id="a01"></a>**A01** | Registrar na HTA que o nó 3.1 (disponibilidade) pode ocorrer antes do nó 2 (participante) (problema [T01](#t01)). | João Paulo  | A definir |
 | <a id="a02"></a>**A02** | Oferecer orientação ou um modelo de assunto, para reduzir o esforço do nó 4.1 (problema [T02](#t02)).             | João Paulo  | A definir |
 | <a id="a03"></a>**A03** | Tornar o status do convite visível onde o estudante já olha (nó 6.1) (problema [T03](#t03)).                      | João Paulo  | A definir |
+
 
 # Relato dos resultados comunicação com usuário(s)
 
@@ -397,3 +436,4 @@ Tal funcionalidade, não pode ocorrer em mensagens de áudio muito longas, dado 
 | `1.0`  | 20/10/2026 | Criação da página.                                                                                     | Lucas Sales                 |             |
 | `1.1`  | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador. | João Paulo da Silva Pereira | A definir   |
 | `1.2`  | 24/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                    | Lucas Sales Ribeiro         | A definir   |
+| `1.3`  | 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador, no formato do relato da comunicação com usuário(s) | João Paulo da Silva Pereira | A definir   |
