@@ -1,14 +1,14 @@
 ## Tabela de contribuição
-| Data       | Contribuição                                                                                                | Autor(es)   | Revisor(es) |
-| ---------- | ----------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| 20/10/2026 | Criação da página                                                                                           | Lucas Sales | A definir   |
-| 20/10/2026 | Adicionando informações                                                                                     | João Paulo  | A definir   |
-| 21/10/2026 | Determinando objetivos, perguntas e método de avaliação para a funcionalidade de comunicação entre usuários | Lucas Sales | A definir   |
-| 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                          | Lucas Sales | A definir   |
-| 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                       | Lucas Sales | A definir   |
-| 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                     | Lucas Sales | A definir   |
-| 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir |
-| 25/10/2026 | atualização do planejamento do protótipo de papel e adição do vídeo e foto do protótipo  | Evellyn Rocha | A definir   |
+| Data       | Contribuição                                                                                                                        | Autor(es)                   | Revisor(es) |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
+| 20/10/2026 | Criação da página                                                                                                                   | Lucas Sales                 | A definir   |
+| 20/10/2026 | Adicionando informações                                                                                                             | João Paulo                  | A definir   |
+| 21/10/2026 | Determinando objetivos, perguntas e método de avaliação para a funcionalidade de comunicação entre usuários                         | Lucas Sales                 | A definir   |
+| 22/10/2026 | Determinando questões práticas para a funcionalidade de comunicação entre usuários                                                  | Lucas Sales                 | A definir   |
+| 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                                               | Lucas Sales                 | A definir   |
+| 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                                             | Lucas Sales                 | A definir   |
+| 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | atualização do planejamento do protótipo de papel e adição do vídeo e foto do protótipo                                             | Evellyn Rocha               | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
 
@@ -309,6 +309,83 @@ Abaixo estão os componentes criados, de acordo com a descrição acima:
 <p align="center">Figura 7 - Componentes e telas em papel </p>
 <p align="center">Autor - Lucas Sales </p>
 
+#### Cronograma
+
+O cronograma abaixo considera a disponibilidade dos avaliadores e dos participantes. Cada sessão terá dois avaliadores (um simulando o sistema e outro observando e registrando), com duração prevista de 30 a 40 minutos, reservando-se uma hora por sessão para preparação e margem.
+
+
+<p align="center">Cronograma da avaliação do protótipo de papel </p>
+
+| Data  | Dia    | Atividade                                                                                                      | Responsável(is)          |
+| ----- | ------ | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 27/10 | Terça  | Confirmar participantes e horários, buscar sala vaga na FCTE para o dia 28/10, conferir tripé, celular e áudio | Lucas Sales              |
+| 28/10 | Quarta | Sessão de coleta de dados do protótipo de papel                                                                | Lucas Sales              |
+| 29/10 | Quinta | Organizar anotações e gravações                                                                                | Lucas Sales e João Paulo |
+| 30/10 | Sexta  | Construção do relato de resultados do protótipo de papel                                                       | Lucas Sales              |
+
+<p align="center">Tabela 2 - Cronograma da avaliação do protótipo de papel </p>
+<p align="center">Autor - Lucas Sales </p>
+
+#### Teste piloto
+
+Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
+
+Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão normal de avaliação, conseguindo verificar se a linguagem, materiais e condução da avaliação são adequeadas e suficientes para orientar o participante durante a avaliação. O teste-piloto também permite avaliar se o produto, equipamentos de condução e de registro de dados estão funcionando corretamente e se o tempo necessário para executar as tarefas é suficiente.
+
+Por fim, o avaliador deve realizar uma breve análise dos dados coletados para garantir que eles permitirão responder as questões da avaliação.
+
+Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponível no seguinte link: [CLique aqui para acessar a gravação do teste-piloto](https://youtube.com/shorts/Qcpn9fD_NHw?feature=share)
+
+##### Análise dos dados do teste-piloto
+
+Por questões de disponibilidade do avaliador, não foi possível realizar o teste-piloto no ambiente exato onde ocorrerá a avaliação, dado inclusive o fato de que o ambiente utilizada dependerá do fator de disponibilidade de sala da própria universidade. Contudo, o teste-piloto permitiu analisar as principais questões do planejamento da avaliação:
+
+**Linguagem, material e condução:**
+Durante a execucação do teste-piloto, a linguagem utilizada demonstrou ser amigável e acolhedora, demonstrando ao participante que a avaliação é sobre o produto e não sobre a pessoa em si.
+
+**Equipamentos de gravação e de registros de dados:**
+Os equipamentos de gravação (tripé e telefone celular) apresentaram funcionamento normal e esperado, produzindo o vídeo com estabilidade e demonstrando com clareza os processos envolvidos no teste-piloto.
+
+**Tempo necessário:**
+O tempo aproximado que o avaliador, simulando um participante levou para concluir a tarefa foi de 23 minutos e 15 segundos, o que demonstra estar dentro do escopo da avaliação, que visa durar em torno de 30 a 40 minutos.
+
+**Produz os dados necessarios:**
+Para analisar a produção dos dados necessários, foram utilizadas as (perguntas específicas)[#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios] e abaixo estão descritas a relação do avaliador, simulando um participante e as questões em si:
+
+**1. O usuário consegue operar o sistema?**
+No teste-piloto, o avaliador, simulando um participante, conseguiu utilizar todas as telas e componentes em papel descritos na [criação do protótipo de papel](#criacao-do-prototipo-de-papel). 
+
+**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
+
+O avaliador, simulando um participante, atingiu com eficiencia, em 2 minutos a tarefa. Nenhum erro foi cometido.
+
+**3. Ele entende o que significa e para que serve cada elemento da interface?**
+
+O avaliador, simulando um participante compreende com exatidão os elementos da interface.
+
+**4. Ele vai entender o que deve fazer em seguida?**
+
+O avaliador, simulando um participante entendeu completamente o fluxo da tarefa.
+
+**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
+
+O avaliador, simulando um participante não teve problemas ao realizar a tarefa.
+
+**6. Onde esses problemas se manifestam?**
+
+Não se aplica.
+
+**7. Com que frequência tendem a ocorrer?**
+
+Não se aplica.
+
+**8. Qual é a gravidade desses problemas?**
+
+Não se aplica.
+
+**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
+
+Nenhuma barreira foi encontrada pelo avaliador, enquanto simulava um participante.
 
 
 # 1. Definição da Tarefa - Evellyn
@@ -394,16 +471,16 @@ A criação do protótipo de papel envolve a representação gráfica em baixa/m
 
 Serão produzidas em papel as seguintes telas e peças:
 
-| Nº | Componente / Tela em Papel | Descrição dos Elementos Representados no Papel |
-|:--:|---|---|
-| 1 | **Tela Inicial do MS Teams** | Interface do canal da turma/curso na UnB, exibindo a barra superior de abas com destaque para a guia "Serviços Acadêmicos". |
-| 2 | **Menu de Serviços Acadêmicos** | Painel exibindo os cards de serviços disponíveis, incluindo a opção "Aproveitamento de Estudos e Dispensa". |
-| 3 | **Tela de Formulário Eletrônico** | Formulário de solicitação com campos autopreenchidos (Nome, Matrícula, Curso) e campos para digitação da IES de origem. |
-| 4 | **Componente Móvel 1 — Busca de Equivalências** | Menu suspenso (*drop-down*) móvel contendo a lista de disciplinas equivalentes e tags de classificação (Obrigatória, Optativa ou Módulo Livre). |
-| 5 | **Componente Móvel 2 — Componente de Upload PDF** | Área de anexo de arquivos exibindo avisos de formato (`.pdf`), limite de tamanho (até 10 MB) e indicador visual verde de validação (`[✓]`) ao anexar Histórico Escolar e Ementa. |
-| 6 | **Tela de Resumo e Revisão** | Painel de conferência mostrando os pares de disciplinas vinculados e lista de anexos com botões "Editar" e "Submeter Solicitação". |
-| 7 | **Componente Móvel 3 — Modal de Protocolo e Confirmação** | Cartão pop-up exibindo a mensagem de sucesso, o Número de Protocolo SEI gerado e o aviso de envio de comprovante por e-mail institucional e chat do Teams. |
-| 8 | **Tela de Acompanhamento (Status)** | Painel de acompanhamento com linha do tempo indicando os três status do processo: Recebido, Em Análise e Concluído. |
+|  Nº   | Componente / Tela em Papel                                | Descrição dos Elementos Representados no Papel                                                                                                                                   |
+| :---: | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | **Tela Inicial do MS Teams**                              | Interface do canal da turma/curso na UnB, exibindo a barra superior de abas com destaque para a guia "Serviços Acadêmicos".                                                      |
+|   2   | **Menu de Serviços Acadêmicos**                           | Painel exibindo os cards de serviços disponíveis, incluindo a opção "Aproveitamento de Estudos e Dispensa".                                                                      |
+|   3   | **Tela de Formulário Eletrônico**                         | Formulário de solicitação com campos autopreenchidos (Nome, Matrícula, Curso) e campos para digitação da IES de origem.                                                          |
+|   4   | **Componente Móvel 1 — Busca de Equivalências**           | Menu suspenso (*drop-down*) móvel contendo a lista de disciplinas equivalentes e tags de classificação (Obrigatória, Optativa ou Módulo Livre).                                  |
+|   5   | **Componente Móvel 2 — Componente de Upload PDF**         | Área de anexo de arquivos exibindo avisos de formato (`.pdf`), limite de tamanho (até 10 MB) e indicador visual verde de validação (`[✓]`) ao anexar Histórico Escolar e Ementa. |
+|   6   | **Tela de Resumo e Revisão**                              | Painel de conferência mostrando os pares de disciplinas vinculados e lista de anexos com botões "Editar" e "Submeter Solicitação".                                               |
+|   7   | **Componente Móvel 3 — Modal de Protocolo e Confirmação** | Cartão pop-up exibindo a mensagem de sucesso, o Número de Protocolo SEI gerado e o aviso de envio de comprovante por e-mail institucional e chat do Teams.                       |
+|   8   | **Tela de Acompanhamento (Status)**                       | Painel de acompanhamento com linha do tempo indicando os três status do processo: Recebido, Em Análise e Concluído.                                                              |
 
 Abaixo são apresentados os componentes e telas desenhados manualmente para simular a navegação e a execução da tarefa no Microsoft Teams:
 
@@ -418,87 +495,6 @@ Abaixo são apresentados os componentes e telas desenhados manualmente para simu
 https://youtube.com/shorts/bpovdN-4HrQ?si=utPoc8qq2S3DYYKn
 
 ---
-
-#### Teste piloto
-
-Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
-
-Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão normal de avaliação, conseguindo verificar se a linguagem, materiais e condução da avaliação são adequeadas e suficientes para orientar o participante durante a avaliação. O teste-piloto também permite avaliar se o produto, equipamentos de condução e de registro de dados estão funcionando corretamente e se o tempo necessário para executar as tarefas é suficiente.
-
-Por fim, o avaliador deve realizar uma breve análise dos dados coletados para garantir que eles permitirão responder as questões da avaliação.
-
-Portanto, para esta avaliação, o teste-piloto foi realizado, estando disponível no seguinte link: [CLique aqui para acessar a gravação do teste-piloto](https://youtube.com/shorts/Qcpn9fD_NHw?feature=share)
-
-##### Análise dos dados do teste-piloto
-
-Por questões de disponibilidade do avaliador, não foi possível realizar o teste-piloto no ambiente exato onde ocorrerá a avaliação, dado inclusive o fato de que o ambiente utilizada dependerá do fator de disponibilidade de sala da própria universidade. Contudo, o teste-piloto permitiu analisar as principais questões do planejamento da avaliação:
-
-**Linguagem, material e condução:**
-Durante a execucação do teste-piloto, a linguagem utilizada demonstrou ser amigável e acolhedora, demonstrando ao participante que a avaliação é sobre o produto e não sobre a pessoa em si.
-
-**Equipamentos de gravação e de registros de dados:**
-Os equipamentos de gravação (tripé e telefone celular) apresentaram funcionamento normal e esperado, produzindo o vídeo com estabilidade e demonstrando com clareza os processos envolvidos no teste-piloto.
-
-**Tempo necessário:**
-O tempo aproximado que o avaliador, simulando um participante levou para concluir a tarefa foi de 23 minutos e 15 segundos, o que demonstra estar dentro do escopo da avaliação, que visa durar em torno de 30 a 40 minutos.
-
-**Produz os dados necessarios:**
-Para analisar a produção dos dados necessários, foram utilizadas as (perguntas específicas)[#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios] e abaixo estão descritas a relação do avaliador, simulando um participante e as questões em si:
-
-**1. O usuário consegue operar o sistema?**
-No teste-piloto, o avaliador, simulando um participante, conseguiu utilizar todas as telas e componentes em papel descritos na [criação do protótipo de papel](#criacao-do-prototipo-de-papel). 
-
-**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
-
-O avaliador, simulando um participante, atingiu com eficiencia, em 2 minutos a tarefa. Nenhum erro foi cometido.
-
-**3. Ele entende o que significa e para que serve cada elemento da interface?**
-
-O avaliador, simulando um participante compreende com exatidão os elementos da interface.
-
-**4. Ele vai entender o que deve fazer em seguida?**
-
-O avaliador, simulando um participante entendeu completamente o fluxo da tarefa.
-
-**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
-
-O avaliador, simulando um participante não teve problemas ao realizar a tarefa.
-
-**6. Onde esses problemas se manifestam?**
-
-Não se aplica.
-
-**7. Com que frequência tendem a ocorrer?**
-
-Não se aplica.
-
-**8. Qual é a gravidade desses problemas?**
-
-Não se aplica.
-
-**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
-
-Nenhuma barreira foi encontrada pelo avaliador, enquanto simulava um participante.
-
-
-
-#### Cronograma
-
-O cronograma abaixo considera a disponibilidade dos avaliadores e dos participantes. Cada sessão terá dois avaliadores (um simulando o sistema e outro observando e registrando), com duração prevista de 30 a 40 minutos, reservando-se uma hora por sessão para preparação e margem.
-
-
-<p align="center">Cronograma da avaliação do protótipo de papel </p>
-
-| Data  | Dia    | Atividade                                                                                                      | Responsável(is)          |
-| ----- | ------ | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| 27/10 | Terça  | Confirmar participantes e horários, buscar sala vaga na FCTE para o dia 28/10, conferir tripé, celular e áudio | Lucas Sales              |
-| 28/10 | Quarta | Sessão de coleta de dados do protótipo de papel                                                                | Lucas Sales              |
-| 29/10 | Quinta | Organizar anotações e gravações                                                                                | Lucas Sales e João Paulo |
-| 30/10 | Sexta  | Construção do relato de resultados do protótipo de papel                                                       | Lucas Sales              |
-
-<p align="center">Tabela 2 - Cronograma da avaliação do protótipo de papel </p>
-<p align="center">Autor - Lucas Sales </p>
-
 
 ### Questões práticas - Agendamento de reunião com o coordenador do curso
 
@@ -530,16 +526,16 @@ Mesma sala e mesmos equipamentos da avaliação da comunicação entre usuários
 
 As telas e componentes representados em papel são:
 
-| Tela | Conteúdo | Nó da HTA |
-| ---- | -------- | --------- |
-| T1 | Menu lateral do Teams (Chat, Equipes, Calendário, Arquivos), com usuário já logado | 1 |
-| T2-A | Calendário com o botão "Nova reunião" | 1.1 |
-| T2-B | Conversa com o coordenador, com o botão "Marcar reunião" | 1.2 |
-| T3 | Formulário com o campo Participante e peças da lista de sugestões (nome e cargo; coordenador e secretaria) | 2.1 e 2.2 |
-| T4 | Disponibilidade dos dois, com peças de horários livres e ocupados | 3.1 a 3.3 |
-| T5 | Campos Assunto (com orientação) e Duração | 4.1 e 4.2 |
-| T6 | Resumo, botão Enviar e peça de confirmação de envio com lembrete | 5.1 e 5.2 |
-| T7 | Evento com peça de status do convite (pendente, aceito ou recusado) e botão "Propor outro horário" | 6.1 e 6.2 |
+| Tela | Conteúdo                                                                                                   | Nó da HTA |
+| ---- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| T1   | Menu lateral do Teams (Chat, Equipes, Calendário, Arquivos), com usuário já logado                         | 1         |
+| T2-A | Calendário com o botão "Nova reunião"                                                                      | 1.1       |
+| T2-B | Conversa com o coordenador, com o botão "Marcar reunião"                                                   | 1.2       |
+| T3   | Formulário com o campo Participante e peças da lista de sugestões (nome e cargo; coordenador e secretaria) | 2.1 e 2.2 |
+| T4   | Disponibilidade dos dois, com peças de horários livres e ocupados                                          | 3.1 a 3.3 |
+| T5   | Campos Assunto (com orientação) e Duração                                                                  | 4.1 e 4.2 |
+| T6   | Resumo, botão Enviar e peça de confirmação de envio com lembrete                                           | 5.1 e 5.2 |
+| T7   | Evento com peça de status do convite (pendente, aceito ou recusado) e botão "Propor outro horário"         | 6.1 e 6.2 |
 
 A tela T2-B ainda precisa ser desenhada; as demais partem dos quadros do storyboard do agendamento. As imagens do protótipo serão anexadas a esta página depois de prontas.
 
@@ -589,7 +585,7 @@ aspectos da avaliação realizada antes de tirar conclusões e divulgar resultad
 
 Desta forma a avaliação dos dados coletados será conduzida de acordo com as etapas descritas neste documento, de acordo com cada funcionalidade e seu autor.
 
-O relato dos resultados estará disponível na pagina [Relato dos resultados - Protótipo de papel](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/resultados_prototipo_papel/) de acordo com o seguimento da disciplina de IHC. 
+O relato dos resultados estará disponível na pagina [Relato dos resultados - Protótipo de papel](../../nivel_2/prototipo_papel/resultados_prototipo_papel.md) de acordo com o seguimento da disciplina de IHC. 
 
 
 ### Questões éticas e avaliação dos dados - Agendamento de reunião com o coordenador do curso
@@ -615,12 +611,9 @@ O documento utiliza IA generativa nos seguintes pontos:
 > 4. NIELSEN, Jakob. **Usability Inspection Methods**. New York: John Wiley & Sons, 1994.
 
 ## Histórico de versão
-| Versão | Data       | Descrição               | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------------------- | ----------- | ----------- |
-| `1.0`  | 20/10/2026 | Criação da página.      | Lucas Sales |             |
-| `2.0`  | 20/10/2026 | Adicionando informações | João Paulo  |             |
-<<<<<<< Updated upstream
-| `2.1`  | 25/10/2026 | Adicionando a funcionalidade de agendamento de reunião com o coordenador | João Paulo  |             |
-=======
-| `2.0`  | 20/10/2026 | Adicão de  informações | Evellyn Rocha  | 
->>>>>>> Stashed changes
+| Versão | Data       | Descrição                                                                | Autor(es)     | Revisor(es) |
+| ------ | ---------- | ------------------------------------------------------------------------ | ------------- | ----------- |
+| `1.0`  | 20/10/2026 | Criação da página.                                                       | Lucas Sales   |             |
+| `2.0`  | 20/10/2026 | Adicionando informações                                                  | João Paulo    |             |
+| `2.1`  | 25/10/2026 | Adicionando a funcionalidade de agendamento de reunião com o coordenador | João Paulo    |             |
+| `2.0`  | 20/10/2026 | Adicão de  informações                                                   | Evellyn Rocha |

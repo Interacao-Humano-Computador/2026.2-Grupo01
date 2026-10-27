@@ -4,7 +4,7 @@
 | 20/10/2026 | Criação da página                                                                                                          | Lucas Sales Ribeiro         | A definir   |
 | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador do curso (Estudante) | João Paulo da Silva Pereira | A definir   |
 | 25/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                                        | Lucas Sales Ribeiro         | A definir   |
-| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador                                                            | João Paulo da Silva Pereira | A definir   |
 
 # Relato dos resultados agendamento de reunião com o coordenador do curso
 
@@ -70,8 +70,8 @@ O perfil de usuário entrevistado foi o de **estudante** de graduação da UnB (
 
 **Tabela 1 – Sessão realizada**
 
-| ID da Sessão | Entrevistador | Participante   | Data       | Plataforma                        | Gravação |
-| ------------ | ------------- | -------------- | ---------- | --------------------------------- | -------- |
+| ID da Sessão | Entrevistador | Participante   | Data       | Plataforma                           | Gravação                                            |
+| ------------ | ------------- | -------------- | ---------- | ------------------------------------ | --------------------------------------------------- |
 | **02**       | João Paulo    | Participante B | 23/10/2026 | Sessão gravada em vídeo na faculdade | [Vídeo da entrevista](https://youtu.be/w-9FIzXFeLQ) |
 
 **Registro da sessão:** [vídeo da entrevista de análise de tarefas](https://youtu.be/w-9FIzXFeLQ)
@@ -147,7 +147,7 @@ O objetivo da avaliação da análise de tarefas, foi de analisar **problemas na
 ## Método de avaliação
 O método de avaliação empregado foi o de **entrevista semiestruturada** juntamente com um **questionário**. O objetivo do questionário foi de coletar dados demográficos do participante, juntamente com questões específicas relacionadas à perfil profissional, empresa que atua, experiência com textos complexos, experiência com computadores e preferências de aprendizado.
 
-Para a entrevista semiestruturada o avaliador buscou compreender a rotina de tarefas realizadas no Microsoft Teams, juntamente com a apresentação do diagrama HTA, e do storyboard, o qual a coleta de dados está relatada em [Relato dos resultados - Storyboard](/design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados_storyboard/).
+Para a entrevista semiestruturada o avaliador buscou compreender a rotina de tarefas realizadas no Microsoft Teams, juntamente com a apresentação do diagrama HTA, e do storyboard, o qual a coleta de dados está relatada em [Relato dos resultados - Storyboard](../storyboard/relato_resultados_storyboard.md).
 
 ### Roteiro entrevista semiestruturada
 
@@ -198,7 +198,7 @@ Para a entrevista semiestruturada o avaliador buscou compreender a rotina de tar
 
 ##### Questionário de dados demográficos
 
-O documento fornecido aos participantes está disponível através do link [Questionário de dados demográficos](https://docs.google.com/document/d/1PiLUUMS-pLNv3hex2WRdZdoAxsmZT64ii92lxzsAZX4/edit?usp=sharing)
+O documento fornecido aos participantes está disponível através do link [Questionário de dados demográficos](../../../assets/questionario_modelo.pdf)
 
 Abaixo, está descrito o mesmo documento, com formatação adaptada:
 
@@ -392,7 +392,7 @@ O número de avaliadores foi de apenas uma pessoa, o aluno Lucas Sales.
 
 A gravação com o participante está disponível [neste link](https://youtu.be/JlWh0enZWTM)
 
-Para os dados demográficos, o questionário está disponível abaixo [neste link](/assets/questionario_preenchido.pdf)
+Para os dados demográficos, o questionário está disponível abaixo [neste link](../../../assets/questionario_preenchido.pdf)
 
 Na entrevista, foi possível coletar os seguintes dados do participante:
 
@@ -431,9 +431,9 @@ Tal funcionalidade, não pode ocorrer em mensagens de áudio muito longas, dado 
 > 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 263. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
-| Versão | Data       | Descrição                                                                                              | Autor(es)                   | Revisor(es) |
-| ------ | ---------- | ------------------------------------------------------------------------------------------------------ | --------------------------- | ----------- |
-| `1.0`  | 20/10/2026 | Criação da página.                                                                                     | Lucas Sales                 |             |
-| `1.1`  | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador. | João Paulo da Silva Pereira | A definir   |
-| `1.2`  | 24/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                    | Lucas Sales Ribeiro         | A definir   |
+| Versão | Data       | Descrição                                                                                                           | Autor(es)                   | Revisor(es) |
+| ------ | ---------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
+| `1.0`  | 20/10/2026 | Criação da página.                                                                                                  | Lucas Sales                 |             |
+| `1.1`  | 24/10/2026 | Relato dos resultados da entrevista de análise de tarefas do agendamento de reunião com o coordenador.              | João Paulo da Silva Pereira | A definir   |
+| `1.2`  | 24/10/2026 | Relato dos resultados da comunicação com usuário(s)                                                                 | Lucas Sales Ribeiro         | A definir   |
 | `1.3`  | 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador, no formato do relato da comunicação com usuário(s) | João Paulo da Silva Pereira | A definir   |

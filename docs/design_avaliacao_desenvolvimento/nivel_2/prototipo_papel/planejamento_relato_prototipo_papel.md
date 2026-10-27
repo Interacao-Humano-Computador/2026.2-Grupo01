@@ -1,11 +1,11 @@
 ## Tabela de contribuição
 
-| Data       | Contribuição                                                         | Autor(es)              | Revisor(es) |
-| ---------- | -------------------------------------------------------------------- | ---------------------- | ----------- |
-| 20/10/2026 | Criação da página                                                    | Lucas Sales Ribeiro    | A definir   |
-| 23/10/2026 | Adição do planejamento do relato dos resultados e bibliografia       | Evellyn de Sousa Rocha | A definir   |
-| 25/10/2026 | Adição do planejamento do relato dos para comunicação com usuário(s) | Lucas Sales Ribeiro    | A definir   |
-| 25/10/2026 | Adição do planejamento do relato dos resultados para o agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir |
+| Data       | Contribuição                                                                                             | Autor(es)                   | Revisor(es) |
+| ---------- | -------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
+| 20/10/2026 | Criação da página                                                                                        | Lucas Sales Ribeiro         | A definir   |
+| 23/10/2026 | Adição do planejamento do relato dos resultados e bibliografia                                           | Evellyn de Sousa Rocha      | A definir   |
+| 25/10/2026 | Adição do planejamento do relato dos para comunicação com usuário(s)                                     | Lucas Sales Ribeiro         | A definir   |
+| 25/10/2026 | Adição do planejamento do relato dos resultados para o agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
 
 ## Planejamento do relato dos resultado - Evellyn
 
@@ -108,7 +108,7 @@ Para o **Relato dos resultados:**
 
 ### Objetivos da avaliação
 
-Barbosa e Silva (2021), propõem 4 objetivos para realizar uma avaliação de IHC e perguntas específicas relacionadas a cada um deles, para decidir os objetivos da avaliação do protótipo de papel, foram analisados estes objetivos e suas perguntas, que estão descritos no [Planejamento da avaliação do protótipo de papel](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel/#objetivos-da-avaliacao-do-prototipo-de-papel-comunicacao-entre-usuarios)
+Barbosa e Silva (2021), propõem 4 objetivos para realizar uma avaliação de IHC e perguntas específicas relacionadas a cada um deles, para decidir os objetivos da avaliação do protótipo de papel, foram analisados estes objetivos e suas perguntas, que estão descritos no [Planejamento da avaliação do protótipo de papel](./planejamento_prototipo_papel.md)
 
 Em suma, para o protótipo de papel, que representa um protótipo de baixa fidelidade do produto, será aplicada uma atualização da funcionalidade de gravação de áudio, originalmente disponível apenas em aplicativo mobile do Microsoft Teams, neste protótipo, a funcionalidade estará disponível em ambiente web e desktop, os quais compartilham elementos de layout, design e interação.
 
@@ -121,9 +121,9 @@ A prototipação em papel, é um método de observação, tais métodos permitem
 
 A prototipação em papel, avalia a usabilidade de um design de IHC representado em papel, simulando o uso do produto com a participação de potenciais usuários, uma das características do método, é ser rápido e barato, além de a solução ser construída juntamente do usuário no processo de avaliação.
 
-Serão construídos protótipos do sistema em papel com a atualização da funcionalidade definida nos [Objetivos da avaliação de IHC](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel/#objetivos-da-avaliacao-do-prototipo-de-papel-comunicacao-entre-usuarios), o usuário terá de realizar a tarefa de enviar uma mensagem de voz por um sistema web ou desktop do produto Microsoft Teams.
+Serão construídos protótipos do sistema em papel com a atualização da funcionalidade definida nos [Objetivos da avaliação de IHC](./planejamento_prototipo_papel.md/#objetivos-da-avaliacao-do-prototipo-de-papel-comunicacao-entre-usuarios), o usuário terá de realizar a tarefa de enviar uma mensagem de voz por um sistema web ou desktop do produto Microsoft Teams.
 
-Como requisito do método de prototipação em papel, descrito por Barbosa e Silva (2021), a aplicação do método exigirá dois avaliadores, um simulando o sistema e o outro realizando a observação do usuário e registrando por meio de anotações as respostas do mesmo, visando obter dados suficientes para responder as [perguntas estabelecidas](/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel/#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios).
+Como requisito do método de prototipação em papel, descrito por Barbosa e Silva (2021), a aplicação do método exigirá dois avaliadores, um simulando o sistema e o outro realizando a observação do usuário e registrando por meio de anotações as respostas do mesmo, visando obter dados suficientes para responder as [perguntas estabelecidas](./planejamento_prototipo_papel.md/#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios).
 
 
 **Fonte:**
@@ -220,13 +220,13 @@ A tarefa é **marcar uma reunião de 30 minutos com o coordenador do curso, na q
 
 ### Indicadores do agendamento
 
-| Indicador | Como medir | Alternativa A (Calendário) | Alternativa B (Conversa) |
-| --------- | ---------- | -------------------------- | ------------------------ |
-| Conclusão sem ajuda | O participante envia o convite com os dados certos sem ajuda do entrevistador. | | |
-| Tempo de execução | Do início da tarefa ao convite enviado. | | |
-| Erros | Por tela: pessoa errada, horário ocupado, assunto vazio ou convite não enviado. | | |
-| Passos fora da HTA | Passos além ou fora do caminho da HTA do Estudante. | | |
-| Preferência | Entrada preferida e justificativa (pergunta pós-teste). | | |
+| Indicador           | Como medir                                                                      | Alternativa A (Calendário) | Alternativa B (Conversa) |
+| ------------------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
+| Conclusão sem ajuda | O participante envia o convite com os dados certos sem ajuda do entrevistador.  |                            |                          |
+| Tempo de execução   | Do início da tarefa ao convite enviado.                                         |                            |                          |
+| Erros               | Por tela: pessoa errada, horário ocupado, assunto vazio ou convite não enviado. |                            |                          |
+| Passos fora da HTA  | Passos além ou fora do caminho da HTA do Estudante.                             |                            |                          |
+| Preferência         | Entrada preferida e justificativa (pergunta pós-teste).                         |                            |                          |
 
 Com poucas sessões, os indicadores são tratados como indício, e a ordem em que as alternativas foram usadas é registrada.
 
@@ -251,8 +251,8 @@ Os problemas que não puderem ser corrigidos durante a coleta serão registrados
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                                       | Autor(es)        | Revisor(es) |
-| ------ | ---------- | --------------------------------------------------------------- | ---------------- | ----------- |
-| `1.0`  | 20/10/2026 | Criação da página.                                              | Lucas Sales      | A definir   |
-| `1.1`  | 23/10/2026 | Adição do planejamento do relato dos resultados e bibliografia. | Evellyn de Sousa | A definir   |
-| `1.2`  | 25/10/2026 | Planejamento do relato do agendamento de reunião com o coordenador | João Paulo | A definir   |
+| Versão | Data       | Descrição                                                          | Autor(es)        | Revisor(es) |
+| ------ | ---------- | ------------------------------------------------------------------ | ---------------- | ----------- |
+| `1.0`  | 20/10/2026 | Criação da página.                                                 | Lucas Sales      | A definir   |
+| `1.1`  | 23/10/2026 | Adição do planejamento do relato dos resultados e bibliografia.    | Evellyn de Sousa | A definir   |
+| `1.2`  | 25/10/2026 | Planejamento do relato do agendamento de reunião com o coordenador | João Paulo       | A definir   |

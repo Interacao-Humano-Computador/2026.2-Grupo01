@@ -6,7 +6,7 @@
 | 23/10/2026 | Elaboração e especificação do Storyboard, metodologia e referências bibliográficas                                        | Evellyn de Sousa Rocha      | A definir   |
 | 24/10/2026 | Storyboard de agendamento de reunião com o coordenador (3.3) e relato dos resultados da entrevista de avaliação (seção 4) | João Paulo da Silva Pereira | A definir   |
 | 25/10/2026 | Relato dos resultado do storyboard da comunicação com usuário(s)                                                          | Lucas Sales Ribeiro         | A definir   |
-| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador no formato do relato da comunicação com usuário(s) | João Paulo da Silva Pereira | A definir   |
+| 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador no formato do relato da comunicação com usuário(s)        | João Paulo da Silva Pereira | A definir   |
 
 #  Storyboards  
 
@@ -95,7 +95,7 @@ Para a entrevista semiestruturada o avaliador buscou compreender a rotina de tar
 
 ##### Questionário de dados demográficos
 
-O documento fornecido aos participantes está disponível através do link [Questionário de dados demográficos](https://docs.google.com/document/d/1PiLUUMS-pLNv3hex2WRdZdoAxsmZT64ii92lxzsAZX4/edit?usp=sharing)
+O documento fornecido aos participantes está disponível através do link [Questionário de dados demográficos](../../../assets/questionario_modelo.pdf)
 
 Abaixo, está descrito o mesmo documento, com formatação adaptada:
 
@@ -396,7 +396,7 @@ O objetivo da avaliação do storyboard foi analisar **problemas na interação 
 
 O método de avaliação empregado foi o de **entrevista semiestruturada**, guiada pelo storyboard, com um quadro por vez e com o participante falando em voz alta o que entende de cada quadro, seguida das seis perguntas da Tabela 3-A do planejamento. Não foi aplicado questionário de dados demográficos nesta sessão; o perfil do participante foi levantado em três perguntas rápidas no início da entrevista.
 
-Para a entrevista semiestruturada o avaliador buscou compreender a rotina do participante no Microsoft Teams, juntamente com a apresentação do Storyboard, e a coleta de dados com o diagrama HTA do mesmo tema, feita com outro participante, está relatada em [Relato dos resultados - Análise de tarefas](/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise_tarefas/).
+Para a entrevista semiestruturada o avaliador buscou compreender a rotina do participante no Microsoft Teams, juntamente com a apresentação do Storyboard, e a coleta de dados com o diagrama HTA do mesmo tema, feita com outro participante, está relatada em [Relato dos resultados - Análise de tarefas](../analise_tarefas/relato_resultados_analise_tarefas.md).
 
 ##### Roteiro entrevista semiestruturada
 
@@ -548,11 +548,11 @@ Para o reprojeto do sistema, as ações são as da tabela abaixo. No quadro 3, o
 
 ## Histórico de Versão
 
-| Versão |    Data    | Descrição                                                                                                        | Autor(es)                   | Revisor(es) |
-| :----: | :--------: | :--------------------------------------------------------------------------------------------------------------- | :-------------------------- | :---------- |
-| `1.0`  | 20/10/2026 | Criação da página.                                                                                               | Lucas Sales Ribeiro         | A definir   |
-| `1.1`  | 23/10/2026 | Detalhamento do Storyboard (quadro a quadro), fundamentação em IHC e referências, espaço aos outros integrantes. | Evellyn de Sousa Rocha      | A definir   |
-| `1.2`  | 24/10/2026 | Storyboard de agendamento de reunião (3.3) e relato dos resultados da avaliação (tópico 4).                      | João Paulo da Silva Pereira | A definir   |
-| `1.3`  | 24/10/2026 | Criação e publicação do checklist de conformidade do Storyboard.                                                 | Evellyn                     |             |
-| `1.4`  | 24/10/2026 | Adição de todo o escopo do relato do storyboard da comunicação com usuário(s)                                    | Lucas Sales                 |             |
+| Versão |    Data    | Descrição                                                                                                            | Autor(es)                   | Revisor(es) |
+| :----: | :--------: | :------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :---------- |
+| `1.0`  | 20/10/2026 | Criação da página.                                                                                                   | Lucas Sales Ribeiro         | A definir   |
+| `1.1`  | 23/10/2026 | Detalhamento do Storyboard (quadro a quadro), fundamentação em IHC e referências, espaço aos outros integrantes.     | Evellyn de Sousa Rocha      | A definir   |
+| `1.2`  | 24/10/2026 | Storyboard de agendamento de reunião (3.3) e relato dos resultados da avaliação (tópico 4).                          | João Paulo da Silva Pereira | A definir   |
+| `1.3`  | 24/10/2026 | Criação e publicação do checklist de conformidade do Storyboard.                                                     | Evellyn                     |             |
+| `1.4`  | 24/10/2026 | Adição de todo o escopo do relato do storyboard da comunicação com usuário(s)                                        | Lucas Sales                 |             |
 | `1.4`  | 25/10/2026 | Reescrita do relato do agendamento de reunião com o coordenador, no formato do relato da comunicação com usuário(s). | João Paulo da Silva Pereira | A definir   |
