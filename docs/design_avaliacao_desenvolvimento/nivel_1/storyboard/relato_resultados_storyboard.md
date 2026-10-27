@@ -327,7 +327,7 @@ Previamente à gravação, foi solicitado permissão e assinatura do Termo de Co
 
 A gravação com o participante está disponível [neste link](https://youtu.be/JlWh0enZWTM)
 
-Para os dados demográficos, o questionário está disponível abaixo [neste link](/assets/questionario_preenchido.pdf)
+Para os dados demográficos, o questionário está disponível abaixo [neste link](../../../assets/questionario_preenchido.pdf)
 
 Na entrevista, foi possível coletar os seguintes dados do participante:
 
