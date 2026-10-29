@@ -541,7 +541,7 @@ As telas e componentes representados em papel são:
 
 A tela T2-B foi desenhada e as demais partem dos quadros do storyboard do agendamento. Abaixo está o registro do protótipo de papel do agendamento (folhas 1 a 7: telas base, peças para recortar e guia do simulador):
 
-![Protótipo de papel do agendamento de reunião com o coordenador](planejamento_prototipo_papel.md)
+![Protótipo de papel do agendamento de reunião com o coordenador](docs/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/prototipo_papel_agendamento.png)
 <a id="figura-1-agendamento"></a>
 <p align="center">Figura 1 - Registro do protótipo de papel do agendamento de reunião com o coordenador do curso </p>
 <p align="center">Autor - João Paulo da Silva Pereira </p>
