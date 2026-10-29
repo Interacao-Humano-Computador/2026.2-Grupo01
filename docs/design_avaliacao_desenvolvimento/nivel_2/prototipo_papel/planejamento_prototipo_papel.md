@@ -8,6 +8,8 @@
 | 24/10/2026 | Adicionando teste piloto e cronograma da funcionalidade de comunicação entre usuários                                               | Lucas Sales                 | A definir   |
 | 25/10/2026 | Reformulando questões éticas e avaliação dos resultados                                                                             | Lucas Sales                 | A definir   |
 | 25/10/2026 | Adicionando objetivos, perguntas, método e questões práticas da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
+| 29/10/2026 | Adicionando o teste piloto da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
+| 29/10/2026 | Adicionando o registro do protótipo de papel (Figura 1) da funcionalidade de agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
 | 25/10/2026 | atualização do planejamento do protótipo de papel e adição do vídeo e foto do protótipo                                             | Evellyn Rocha               | A definir   |
 
 # Planejamento da Avaliação do Protótipo de Papel
@@ -537,15 +539,69 @@ As telas e componentes representados em papel são:
 | T6   | Resumo, botão Enviar e peça de confirmação de envio com lembrete                                           | 5.1 e 5.2 |
 | T7   | Evento com peça de status do convite (pendente, aceito ou recusado) e botão "Propor outro horário"         | 6.1 e 6.2 |
 
-A tela T2-B ainda precisa ser desenhada; as demais partem dos quadros do storyboard do agendamento. As imagens do protótipo serão anexadas a esta página depois de prontas.
+A tela T2-B foi desenhada e as demais partem dos quadros do storyboard do agendamento. Abaixo está o registro do protótipo de papel do agendamento (folhas 1 a 7: telas base, peças para recortar e guia do simulador):
+
+![Protótipo de papel do agendamento de reunião com o coordenador](../../../assets/prototipo_papel_agendamento.png)
+<a id="figura-1-agendamento"></a>
+<p align="center">Figura 1 - Registro do protótipo de papel do agendamento de reunião com o coordenador do curso </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
 
 #### Teste piloto
 
-Ainda não foi realizado para o agendamento. Antes da sessão, um avaliador fará uma sessão normal simulando um participante, para verificar a linguagem, as peças em papel, os equipamentos e o tempo (meta de 30 a 40 minutos para as duas rodadas), e registrará os resultados nas nove perguntas, como foi feito para a comunicação entre usuários.
+Segundo Barbosa e Silva (2021), o objetivo do teste-piloto é avaliar o planejamento e analisar se a avaliação planejada produz os dados necessários para responder às questões e aos objetivos do estudo. Para o agendamento, o avaliador conduziu uma sessão normal simulando um participante, para verificar a linguagem, as peças em papel, os equipamentos e o tempo.
+
+O teste-piloto foi realizado, estando disponível no seguinte link: [Clique aqui para acessar a gravação do teste-piloto do agendamento](https://youtu.be/teP38Bix2wg)
+
+##### Análise dos dados do teste-piloto
+
+**Linguagem, material e condução:**
+[PREENCHER: a linguagem do roteiro foi adequada? alguma fala precisou mudar?]
+
+**Equipamentos de gravação e de registros de dados:**
+O celular filmou a mesa de cima, em plano fixo, e mostra com clareza as folhas impressas e as mãos movendo as peças. O vídeo tem 2 minutos e 2 segundos. [PREENCHER: o áudio ficou audível? algum problema de enquadramento?]
+
+**Tempo necessário:**
+O vídeo da sessão dura 2 minutos e 2 segundos. [PREENCHER: tempo total da tarefa e da entrevista, comparado à meta de 30 a 40 minutos do planejamento.]
+
+**Material em papel:**
+No vídeo aparecem as folhas da versão de 7 folhas do protótipo (por exemplo, "Folha 3 de 7 – Tela base: Conversa com o coordenador (T2-B)" e "Folha 5 de 7 – Tela base: Nova reunião (T3, T4 e T5)") e as peças móveis (lista de sugestões, quadro de disponibilidade e botão "Enviar convite"). [PREENCHER: alguma peça escorregou, ficou ilegível ou faltou?]
+
+**Produz os dados necessários:**
+Para analisar a produção dos dados necessários foram utilizadas as [perguntas específicas do agendamento](#perguntas-a-serem-respondidas-na-avaliacao-agendamento-de-reuniao-com-o-coordenador-do-curso):
+
+**1. O usuário consegue operar o sistema?**
+[PREENCHER]
+
+**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
+[PREENCHER: enviou o convite ao coordenador certo, no horário livre para os dois, com a duração pedida? tempo? erros?]
+
+**3. Ele entende o que significa e para que serve cada elemento da interface?**
+[PREENCHER]
+
+**4. Ele vai entender o que deve fazer em seguida?**
+[PREENCHER]
+
+**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
+[PREENCHER]
+
+**6 a 9. Onde, com que frequência, gravidade e barreiras**
+[PREENCHER ou "Não foram observados problemas no teste-piloto."]
+
+**Ajustes feitos depois do teste-piloto:**
+[PREENCHER]
 
 #### Cronograma
 
-A sessão do agendamento segue o cronograma geral da avaliação do protótipo de papel, com os avaliadores Lucas Sales e João Paulo. Participante, horário e sala do agendamento estão a definir.
+O cronograma do agendamento segue o cronograma geral da avaliação do protótipo de papel (Tabela 2), com os avaliadores Lucas Sales e João Paulo, e acrescenta as atividades da funcionalidade de agendamento. Participante, horário e sala da sessão estão a definir.
+
+| Data  | Dia    | Atividade                                                                 | Responsável |
+| ----- | ------ | ------------------------------------------------------------------------- | ----------- |
+| 28/10 | Quarta | Criação do protótipo de papel do agendamento (folhas e peças)             | João Paulo  |
+| 29/10 | Quinta | Teste piloto do agendamento, com gravação em vídeo                        | João Paulo  |
+| 30/10 | Sexta  | Sessão de avaliação do agendamento com o participante, com gravação em vídeo | João Paulo e Lucas Sales |
+
+<p align="center">Tabela 3 - Cronograma do agendamento no protótipo de papel </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
 
 ## D - Decidir como lidar com as questões éticas
 
