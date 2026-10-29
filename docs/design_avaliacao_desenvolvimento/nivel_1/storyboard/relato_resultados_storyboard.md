@@ -372,7 +372,7 @@ Tal funcionalidade, não pode ocorrer em mensagens de áudio muito longas, dado 
 ### 3.3. Storyboard — Agendamento de reunião com o coordenador do curso - João Paulo
 
 <a id="figura-4"></a>
-![Storyboard - João Paulo](storyboardjoao.png)
+![Storyboard - João Paulo](storyboard_novo_participante.png)
 
 <p align="center"><b>Figura 4:</b> Storyboard do fluxo de agendamento de reunião com o coordenador do curso no MS Teams, como apresentado ao participante, com nomes e dados fictícios (Autor: João Paulo).</p>
 
