@@ -77,6 +77,11 @@ nav:
         - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel.md
         - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_relato_prototipo_papel.md
         - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/resultados_prototipo_papel.md
+    - Nível 3:
+      - Teste de usabilidade:
+        - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/planejamento_teste_usabilidade.md
+        - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_teste_usabilidade.md
+        - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_3/resultados_teste_usabilidade.md
 
 
   - Atas e Apresentações: atas/reunioes.md
