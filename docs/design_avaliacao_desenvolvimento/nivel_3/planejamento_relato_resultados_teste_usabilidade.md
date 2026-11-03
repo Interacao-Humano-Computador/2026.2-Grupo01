@@ -37,12 +37,12 @@ Para realizar a coleta de dados, um grupo de usuários é convidado a realizar t
 **Fonte:**
 
 Conteúdo de Barbosa e Silva (2021), página 288.
-<a id="figura-3"></a>
+<a id="figura-1"></a>
 ![Método de observação](../../assets/teste_usabilidade_intro.png)
-<p align="center">Figura 3 - Teste de usabilidade </p>
-<a id="figura-4"></a>
+<p align="center">Figura 1 - Teste de usabilidade </p>
+<a id="figura-2"></a>
 ![Método de observação](../../assets/teste_usabilidade_2.png)
-<p align="center">Figura 4 - Coleta de dados do teste de usabilidade </p>
+<p align="center">Figura 2 - Coleta de dados do teste de usabilidade </p>
 
 
 ### O número e o perfil de avaliadores e dos participantes
@@ -51,14 +51,14 @@ Para esta avaliação o perfil de participantes esperados são estudantes de gra
 
 O recrutamento ocorrerá dentro da própria universidade, sendo solicitado aos estudantes para realizarem uma rápida pesquisa para contribuir com o trabalho da disciplina.
 
-Para esta avaliação, será seguido o número de usuários propostos por Krug, que indica que com três ou quatro usuários é possível detectar a maioria dos problemas de usabilidade, como referenciado na [figura 5](#figura-5).
+Para esta avaliação, será seguido o número de usuários propostos por Krug, que indica que com três ou quatro usuários é possível detectar a maioria dos problemas de usabilidade, como referenciado na [figura 3](#figura-3).
 
 **Fonte:**
 
 Conteúdo de MORAES; SANTA ROSA, 2010, página 157.
-<a id="figura-5"></a>
+<a id="figura-3"></a>
 ![Tabela de número de participantes](../../assets/tabela_numero_participantes.png)
-<p align="center">Figura 5 - Tabela de número de participantes de acordo com cada pesquisador. </p>
+<p align="center">Figura 3 - Tabela de número de participantes de acordo com cada pesquisador. </p>
 
 ### As tarefas executadas pelos participantes
 
@@ -87,12 +87,12 @@ Após a coleta de dados, é necessário construir, uma lista dos problemas de us
 **Fonte:**
 
 Conteúdo de Barbosa e Silva (2021), página 306:
-<a id="figura-6"></a>
+<a id="figura-4"></a>
 ![Relato dos resultados](../../assets/relato_resultados_teste_usabilidade_1.png)
-<p align="center">Figura 6 - Relato dos resultados do teste de usabiliade </p>
-<a id="figura-7"></a>
+<p align="center">Figura 4 - Relato dos resultados do teste de usabilidade </p>
+<a id="figura-5"></a>
 ![Relato dos resultados](../../assets/relato_resultados_teste_usabilidade_2.png)
-<p align="center">Figura 7 - Relato dos resultados do teste de usabiliade </p>
+<p align="center">Figura 5 - Relato dos resultados do teste de usabilidade </p>
 
 ## Agradecimento e Uso de IA generativa
 

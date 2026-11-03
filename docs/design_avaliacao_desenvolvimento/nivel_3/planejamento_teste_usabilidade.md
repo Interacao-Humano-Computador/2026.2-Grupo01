@@ -71,7 +71,7 @@ A Tabela 1 foi gerada com auxílio de inteligência artificial (Claude) a partir
 
 ### Perguntas a serem respondidas na avaliação - Comunicação entre usuários
 
-Foram extraídas da literatura de Barbosa e Silva (2021) as seguintes perguntas relacionadas ao objetivo de identificar problemas na interação e na interface, que serão utilizadas na avaliação do teste de usabilidades:
+Foram extraídas da literatura de Barbosa e Silva (2021) as seguintes perguntas relacionadas ao objetivo de identificar problemas na interação e na interface, que serão utilizadas na avaliação do teste de usabilidade:
 
 **1. O usuário consegue operar o sistema?**
 
@@ -171,7 +171,7 @@ A funcionalidade que estará disponível será a de **envio de mensagem de áudi
 | 09/11 | Segunda | Construção do protótipo de alta fidelidade                                       | Lucas Sales     |
 | 10/11 | Terça   | Teste piloto 1 e gravação da sessão 1 de coleta de dados do teste de usabilidade | Lucas Sales     |
 | 11/11 | Quarta  | Teste piloto 2 e gravação da sessão 2 de coleta de dados do teste de usabilidade | Lucas Sales     |
-| 12/11 | Quinta  | Teste piloto 2 e gravação da sessão 3 de coleta de dados do teste de usabilidade | Lucas Sales     |
+| 12/11 | Quinta  | Teste piloto 3 e gravação da sessão 3 de coleta de dados do teste de usabilidade | Lucas Sales     |
 | 13/11 | Sexta   | Interpretação dos dados                                                          | Lucas Sales     |
 | 14/11 | Sábado  | Construção do relato de resultados do teste de usabilidade                       | Lucas Sales     |
 | 15/11 | Domingo | Construção do relato de resultados do teste de usabilidade                       | Lucas Sales     |
@@ -183,15 +183,15 @@ A funcionalidade que estará disponível será a de **envio de mensagem de áudi
 
 Segundo Barbosa e Silva (2021), o objetivo do teste-piloto, é avaliar o planejamento, analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo.
 
-Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão normal de avaliação, conseguindo verificar se a linguagem, materiais e condução da avaliação são adequeadas e suficientes para orientar o participante durante a avaliação. O teste-piloto também permite avaliar se o produto, equipamentos de condução e de registro de dados estão funcionando corretamente e se o tempo necessário para executar as tarefas é suficiente.
+Para realizar o teste-piloto, é necessário que o avaliador conduza uma sessão normal de avaliação, conseguindo verificar se a linguagem, materiais e condução da avaliação são adequadas e suficientes para orientar o participante durante a avaliação. O teste-piloto também permite avaliar se o produto, equipamentos de condução e de registro de dados estão funcionando corretamente e se o tempo necessário para executar as tarefas é suficiente.
 
 Por fim, o avaliador deve realizar uma breve análise dos dados coletados para garantir que eles permitirão responder as questões da avaliação.
 
-O teste piloto será realizado previamente cada sessão de coleta de dados do teste de usabilidade.
+O teste piloto será realizado previamente a cada sessão de coleta de dados do teste de usabilidade.
 
 ## D - Decidir como lidar com as questões éticas
 
-Para garantir a integridade e o aspecto ético da pesquisa, são utilizadas os princípios éticos descritos por Barbosa e Silva(2021).
+Para garantir a integridade e o aspecto ético da pesquisa, são utilizados os princípios éticos descritos por Barbosa e Silva(2021).
 
 - **Princípio da autonomia:** Envolve o consentimento livre e esclarecido dos indivíduos e a proteção a grupos vulneráveis e aos legalmente incapazes, tais como: menores de idade, alunos ou subordinados. Nesse sentido, a pesquisa envolvendo seres humanos deverá sempre tratá-los com dignidade, respeitá-los em sua autonomia e defendê-los em sua vulnerabilidade;
 
@@ -227,7 +227,7 @@ aspectos da avaliação realizada antes de tirar conclusões e divulgar resultad
 
 Desta forma a avaliação dos dados coletados será conduzida de acordo com as etapas descritas neste documento, de acordo com cada funcionalidade e seu autor.
 
-O relato dos resultados estará disponível na pagina [Relato dos resultados - Teste de usabilidade](./resultados_teste_usabilidade.md) de acordo com o seguimento da disciplina de IHC. 
+O relato dos resultados estará disponível na página [Relato dos resultados - Teste de usabilidade](./resultados_teste_usabilidade.md) de acordo com o seguimento da disciplina de IHC. 
 
 ## Agradecimento e Uso de IA generativa
 
@@ -251,5 +251,5 @@ O documento utiliza IA generativa nos seguintes pontos:
 ## Histórico de versão
 | Versão | Data       | Descrição                                                                                    | Autor(es)   | Revisor(es) |
 | ------ | ---------- | -------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| `1.0`  | 3110/2026  | Criação da página.                                                                           | Lucas Sales |             |
+| `1.0`  | 31/10/2026 | Criação da página.                                                                           | Lucas Sales |             |
 | `1.1`  | 03/11/2026 | Adição do planejamento do teste de usabilidade para o objetivo de comunicação entre usuários | Lucas Sales |             |

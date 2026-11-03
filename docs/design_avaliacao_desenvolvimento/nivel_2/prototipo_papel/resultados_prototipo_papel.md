@@ -1,7 +1,7 @@
 ## Tabela de contribuição
 | Data       | Contribuição                                                                 | Autor(es)   | Revisor(es) |
 | ---------- | ---------------------------------------------------------------------------- | ----------- | ----------- |
-| 25/10/2026 | Criação da página                                                            | Lucas Sales | A definir   |
+| 31/10/2026 | Criação da página                                                            | Lucas Sales | A definir   |
 | 03/11/2026 | Adição do relato de resultados para o objetivo de comunicação entre usuários | Lucas Sales | A definir   |
 
 
@@ -15,7 +15,7 @@ A gravação da avaliação do protótipo de papel, está disponível [neste lin
 
 Barbosa e Silva (2021), propõem 4 objetivos para realizar uma avaliação de IHC e perguntas específicas relacionadas a cada um deles, para decidir os objetivos da avaliação do protótipo de papel, foram analisados estes objetivos e suas perguntas, que estão descritos no [Planejamento da avaliação do protótipo de papel](./planejamento_prototipo_papel.md)
 
-Em suma, para o protótipo de papel, que representa um protótipo de baixa fidelidade do produto, será aplicada uma atualização da funcionalidade de gravação de áudio, originalmente disponível apenas em aplicativo mobile do Microsoft Teams, neste protótipo, a funcionalidade estará disponível em ambiente web e desktop, os quais compartilham elementos de layout, design e interação.
+Em suma, para o protótipo de papel, que representa um protótipo de baixa fidelidade do produto, foi aplicada uma atualização da funcionalidade de gravação de áudio, originalmente disponível apenas em aplicativo mobile do Microsoft Teams, neste protótipo, a funcionalidade estará disponível em ambiente web e desktop, os quais compartilham elementos de layout, design e interação.
 
 Como o usuário irá interagir com o protótipo, o autor Lucas Sales escolhe analisar nesta avaliação, o objetivo de **Problemas na interação e interface** para coletar dados a respeito de se o usuário consegue entender o design, as operações e consegue realizar a tarefa, mesmo em um protótipo de baixa fidelidade.
 
@@ -25,7 +25,7 @@ O método utilizado para a coleta de dados foi a prototipação em papel, este �
 
 A prototipação em papel, avalia a usabilidade de um design de IHC representado em papel, simulando o uso do produto com a participação de potenciais usuários, uma das características do método, é ser rápido e barato, além de a solução ser construída juntamente do usuário no processo de avaliação.
 
-Serão construídos protótipos do sistema em papel com a atualização da funcionalidade definida nos [Objetivos da avaliação de IHC](../../nivel_2/prototipo_papel/planejamento_prototipo_papel.md/#objetivos-da-avaliacao-do-prototipo-de-papel-comunicacao-entre-usuarios), o usuário terá de realizar a tarefa de enviar uma mensagem de voz por um sistema web ou desktop do produto Microsoft Teams.
+Foram construídos protótipos do sistema em papel com a atualização da funcionalidade definida nos [Objetivos da avaliação de IHC](../../nivel_2/prototipo_papel/planejamento_prototipo_papel.md/#objetivos-da-avaliacao-do-prototipo-de-papel-comunicacao-entre-usuarios), o usuário terá de realizar a tarefa de enviar uma mensagem de voz por um sistema web ou desktop do produto Microsoft Teams.
 
 Como requisito do método de prototipação em papel, descrito por Barbosa e Silva (2021), a aplicação do método foi realizada com a presença de dois avaliadores, um simulando o sistema e o outro realizando a observação do usuário e registrando por meio de anotações as respostas do mesmo, visando obter dados suficientes para responder as [perguntas estabelecidas](../../planejamento_prototipo_papel.md/#perguntas-a-serem-respondidas-na-avaliacao-comunicacao-entre-usuarios).
 
@@ -87,16 +87,16 @@ O passo a passo realizado pelo participante foi:
 1. Selecionou uma conversa recente, com a usuária Maria.
 2. Foi selecionado o ícone de microfone para iniciar a gravação de áudio.
 3. O participante enunciou a mensagem.
-5. Selecionou o ícone de quadrado vermelho, para encerrar a gravação de áudio.
-6. Selecionou o ícone de triângulo apontado para a direita *(play)* para escutar o próprio áudio antes do envio.
-7. Selecionou o ícone de seta para a direita para enviar a mensagem de áudio.
+4. Selecionou o ícone de quadrado vermelho, para encerrar a gravação de áudio.
+5. Selecionou o ícone de triângulo apontado para a direita *(play)* para escutar o próprio áudio antes do envio.
+6. Selecionou o ícone de seta para a direita para enviar a mensagem de áudio.
 
 ### Perguntas respondidas na avaliação
 
 **1. O usuário consegue operar o sistema?**
 Sim.
 **2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
-O participante atingiu sem objetivo sem problemas diversos. 
+O participante atingiu o objetivo sem problemas diversos. 
 Em aproximadamente 2 minutos.
 Nenhum erro foi cometido.
 **3. Ele entende o que significa e para que serve cada elemento da interface?**
