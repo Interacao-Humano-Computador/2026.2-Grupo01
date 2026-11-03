@@ -141,7 +141,7 @@ O método utilizado para a coleta de dados foi a prototipação em papel, um mé
 
 ### O número e o perfil de avaliadores e dos participantes
 
-Dois avaliadores estiveram presentes, os alunos Lucas Sales Ribeiro e João Paulo. João Paulo conduziu a sessão (explicou o termo de consentimento, fez as perguntas de perfil e a entrevista final) [PREENCHER: confirmar quem simulou o sistema e quem observou]. Apenas um participante do Perfil 1 (Estudante) foi entrevistado, identificado por letra (Participante A). A gravação completa da sessão tem 3 minutos e 26 segundos e inclui a explicação inicial, a tarefa e as considerações finais.
+Dois avaliadores estiveram presentes, os alunos Evellyn e João Paulo. João Paulo conduziu a sessão (explicou o termo de consentimento, fez as perguntas de perfil e a entrevista final)  Evellyn foi quem simulou o sistema e João Paulo foi quem observou]. Apenas um participante do Perfil 1 (Estudante) foi entrevistado, identificado por letra (Participante A). A gravação completa da sessão tem 3 minutos e 26 segundos e inclui a explicação inicial, a tarefa e as considerações finais.
 
 | #   | Pergunta                        | Resposta             |
 | --- | ------------------------------- | -------------------- |
@@ -168,7 +168,7 @@ O passo a passo realizado pelo participante foi:
 **1. O usuário consegue operar o sistema?**
 Sim. O participante operou o protótipo sem ajuda dos avaliadores.
 **2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
-O participante atingiu o objetivo: enviou o convite ao coordenador, no horário livre (11h) e com 30 minutos de duração, e viu a reunião marcada. Nenhum erro foi observado (não escolheu a secretaria nem um horário ocupado). A gravação completa tem 3 minutos e 26 segundos, incluindo a explicação inicial e a entrevista final [PREENCHER: tempo apenas da tarefa, medido no vídeo].
+O participante atingiu o objetivo: enviou o convite ao coordenador, no horário livre (11h) e com 30 minutos de duração, e viu a reunião marcada. Nenhum erro foi observado (não escolheu a secretaria nem um horário ocupado). A gravação completa tem 3 minutos e 26 segundos, incluindo a explicação inicial e a entrevista final .
 **3. Ele entende o que significa e para que serve cada elemento da interface?**
 Sim. O participante entendeu o botão "Nova reunião", a lista de sugestões (coordenador e secretaria), a disponibilidade ("ele está livre às 11 horas"), a duração, o campo de assunto e o status do convite ("estava pendente, mas aí passou").
 **4. Ele vai entender o que deve fazer em seguida?**
@@ -178,9 +178,9 @@ Um problema na entrada da tarefa: o participante disse que, ao pensar em marcar 
 **6. Onde esses problemas se manifestam?**
 Na tela inicial (Calendário), no primeiro passo da tarefa (nó 1.1 da HTA, "Abrir o Calendário e acionar Nova reunião").
 **7. Com que frequência tendem a ocorrer?**
-Apareceu com 1 de 1 participante, na fala da entrevista final. Com uma só sessão, é tratado como indício.
+Apareceu com 1 de 1 participante, na fala da entrev.ista final. Com uma só sessão, é tratado como indício.
 **8. Qual é a gravidade desses problemas?**
-Pequena (2, na escala de 1 a 3), pois não impediu a tarefa, mas pode atrasar quem procura outro caminho [PREENCHER: confirmar a severidade com Lucas na interpretação].
+Pequena (2, na escala de 1 a 3), pois não impediu a tarefa, mas pode atrasar quem procura outro caminho.
 **9. Quais barreiras o usuário encontra para atingir seus objetivos?**
 Nenhuma barreira impediu o objetivo. A única dificuldade apontada foi a expectativa de iniciar a tarefa por uma área de reuniões, e não pelo Calendário.
 
