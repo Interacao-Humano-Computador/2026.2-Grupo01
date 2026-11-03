@@ -1,12 +1,15 @@
 ## Tabela de contribuição
-| Data       | Contribuição      | Autor(es)   | Revisor(es) |
-| ---------- | ----------------- | ----------- | ----------- |
-| 25/10/2026 | Criação da página | Lucas Sales | A definir   |
+| Data       | Contribuição                                                                 | Autor(es)   | Revisor(es) |
+| ---------- | ---------------------------------------------------------------------------- | ----------- | ----------- |
+| 25/10/2026 | Criação da página                                                            | Lucas Sales | A definir   |
+| 03/11/2026 | Adição do relato de resultados para o objetivo de comunicação entre usuários | Lucas Sales | A definir   |
 
 
 ## Relato dos resultados - Comunicação entre usuário(s)
 
 O relato dos resultados, seguirá os passos descritos no [planejamento do relato da avaliação do protótipo de papel](../prototipo_papel/planejamento_relato_prototipo_papel.md), o qual também segue a estrutura definida por Barbosa e Silva (2021).
+
+A gravação da avaliação do protótipo de papel, está disponível [neste link.](https://youtu.be/1huioQh2BaA)
 
 ### Objetivos da avaliação
 
@@ -75,6 +78,50 @@ Para realizar a coleta de dados, como o próprio método descreve na [figura 5](
 | 23  | Quais dispositivos utiliza no dia a dia?                                                                                     | Smartphones, Notebook/Laptop, Computador de mesa                                                                                                                                                                                                |
 
 
+### Tarefas executadas pelos participantes
+
+Para a coleta de dados do protótipo de papel, foi solicitado ao participante realizar a tarefa de se **comunicar com outro usuário, por meio de mensagem de voz**, simulando o aplicativo Microsoft Teams em ambiente web/desktop. Foi considerado no protótipo que o login na plataforma já havia sido realizado e que o participante deve apenas enviar uma mensagem de áudio para um dos usuários que houve interação recente, para evitar o fluxo de pesquisa de um usuário.
+
+O passo a passo realizado pelo participante foi:
+
+1. Selecionou uma conversa recente, com a usuária Maria.
+2. Foi selecionado o ícone de microfone para iniciar a gravação de áudio.
+3. O participante enunciou a mensagem.
+5. Selecionou o ícone de quadrado vermelho, para encerrar a gravação de áudio.
+6. Selecionou o ícone de triângulo apontado para a direita *(play)* para escutar o próprio áudio antes do envio.
+7. Selecionou o ícone de seta para a direita para enviar a mensagem de áudio.
+
+### Perguntas respondidas na avaliação
+
+**1. O usuário consegue operar o sistema?**
+Sim.
+**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?**
+O participante atingiu sem objetivo sem problemas diversos. 
+Em aproximadamente 2 minutos.
+Nenhum erro foi cometido.
+**3. Ele entende o que significa e para que serve cada elemento da interface?**
+O participante demonstrou domínio dos elementos da interface.
+**4. Ele vai entender o que deve fazer em seguida?**
+O participante conseguiu seguir o fluxo esperado sem demonstrar dificuldades.
+**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
+Nenhum problema de IHC foi encontrado na avaliação.
+**6. Onde esses problemas se manifestam?**
+Não se aplica.
+**7. Com que frequência tendem a ocorrer?**
+Não se aplica.
+**8. Qual é a gravidade desses problemas?**
+Não se aplica.
+**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
+Nenhuma barreira foi observada ou mencionada pelo usuário.
+
+### Problemas de usabilidade corrigidos durante a avaliação
+
+O participante não demonstrou dificuldade em operar o protótipo, desta forma, não foi necessária nenhuma correção durante a avaliação.
+
+### Problemas de usabilidade não corrigidos
+
+Nenhum problema de usabilidade foi apontado pelo participante durante todo o ciclo da avaliação, desta forma, nesta avaliação, não houveram problemas a serem corrigidos.
+
 ## Referência bibliográfica:
 
 1.  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.
@@ -82,6 +129,7 @@ Para realizar a coleta de dados, como o próprio método descreve na [figura 5](
 
 
 ## Histórico de versão
-| Versão | Data      | Descrição          | Autor(es)   | Revisor(es) |
-| ------ | --------- | ------------------ | ----------- | ----------- |
-| `1.0`  | 3110/2026 | Criação da página. | Lucas Sales |             |
+| Versão | Data       | Descrição                                                                    | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ---------------------------------------------------------------------------- | ----------- | ----------- |
+| `1.0`  | 31/10/2026 | Criação da página.                                                           | Lucas Sales |             |
+| `1.1`  | 03/11/2026 | Adição do relato de resultados para o objetivo de comunicação entre usuários | Lucas Sales |             |
