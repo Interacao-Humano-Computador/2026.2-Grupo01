@@ -1,3 +1,9 @@
+## Tabela de contribuição
+| Data       | Contribuição                                                                 | Autor(es)   | Revisor(es) |
+| ---------- | ---------------------------------------------------------------------------- | ----------- | ----------- |
+| 31/10/2026 | Criação da página                                                            | Evellyn Rocha | A definir   |
+
+
 #  Relato dos Resultados da Avaliação do Protótipo de Papel
 
 > **Funcionalidade Avaliada:** Aproveitamento de Estudos e Dispensa de Componentes Curriculares no Microsoft Teams  
@@ -7,7 +13,7 @@
 ##  Gravação da Avaliação
 
 A gravação da avaliação do protótipo de papel e da entrevista com o participante está disponível no link a seguir:
-* **Link do Vídeo:** 
+* **[https://youtu.be/KQ8sVXzGJa4?is=EBYzOp-FEBvuSinN]** 
 
 ---
 
@@ -102,6 +108,7 @@ Durante a simulação com o protótipo de papel, a moderadora e o simulador do s
 
 ## 7. Problemas de Usabilidade Não Corrigidos (Propostas de Redesign)
 
+O participante concluiu a tarefa sem ajuda e, pela gravação, o protótipo não foi alterado durante a sessão. Desta forma, não houve problema corrigido durante a avaliação.
 
 ##  Referências Bibliográficas
 
@@ -110,3 +117,8 @@ Durante a simulação com o protótipo de papel, a moderadora e o simulador do s
 3. NIELSEN, Jakob. **Usability Engineering**. San Diego: Academic Press, 1994.
 4. SNYDER, Carolyn. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces**. San Diego: Morgan Kaufmann / Elsevier, 2003.
 5. UNIVERSIDADE DE BRASÍLIA (UnB). **Manual de Peticionamento Eletrônico: Aproveitamento de Estudos e Dispensa de Componentes Curriculares**. Versão 4.0. Brasília: Secretaria de Administração Acadêmica (SAA/UnB), 2023.
+
+## Histórico de versão
+| Versão | Data       | Descrição                                                                    | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ---------------------------------------------------------------------------- | ----------- | ----------- |
+| `1.0`  | 31/10/2026 | Criação da página.                                                           | Evellyn Rocha |             |

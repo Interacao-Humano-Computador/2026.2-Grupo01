@@ -4,6 +4,7 @@
 | 31/10/2026 | Criação da página                                                                            | Lucas Sales | A definir   |
 | 03/11/2026 | Adição do planejamento do relato de resultados para o objetivo de comunicação entre usuários | Lucas Sales | A definir   |
 | 03/11/2026 | Adição do planejamento do relato de resultados para o agendamento de reunião com o coordenador do curso | João Paulo da Silva Pereira | A definir   |
+| 03/11/2026 | Adição do planejamento do relato de resultados para aproveitamento de disciplina | Evellyn Rocha | A definir   |
 
 ## Planejamento do relato dos resultados - Comunicação com usuário(s) - Lucas Sales
 
@@ -199,3 +200,4 @@ O documento utiliza IA generativa nos seguintes pontos:
 | `1.0`  | 31/10/2026 | Criação da página.                                                                           | Lucas Sales |             |
 | `1.1`  | 03/11/2026 | Adição do planejamento do relato de resultados para o objetivo de comunicação entre usuários | Lucas Sales |             |
 | `1.2`  | 03/11/2026 | Adição do planejamento do relato de resultados do agendamento de reunião com o coordenador   | João Paulo  |             |
+| `1.3`  | 03/11/2026 | Adição do planejamento do relato de resultados do aproveitmento de disciplinas   | Evellyn Rocha  |
