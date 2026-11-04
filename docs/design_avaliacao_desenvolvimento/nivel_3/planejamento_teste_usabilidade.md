@@ -178,7 +178,113 @@ A funcionalidade que estará disponível será a de **envio de mensagem de áudi
 | 15/11 | Domingo | Construção do relato de resultados do teste de usabilidade                       | Lucas Sales     |
 | 16/11 | Segunda | Revisões e entrega do relato dos resultados do teste de usabilidade              | Lucas Sales     |
 
+# Planejamento do Teste de Usabilidade
 
+## 1. Definição das tarefas- Evellyn
+
+A comunicação e a disponibilização de serviços acadêmicos no Microsoft Teams podem ocorrer por meio de equipes, canais, abas e aplicativos integrados à plataforma. No contexto desta avaliação, será analisada a funcionalidade de **Aproveitamento de Estudos e Dispensa de Componentes Curriculares**, proposta para facilitar o processo de solicitação de aproveitamento de disciplinas cursadas anteriormente em outras Instituições de Ensino Superior (IES) pelos estudantes da Universidade de Brasília (UnB).
+
+A funcionalidade permite que o estudante realize uma solicitação diretamente pela plataforma Microsoft Teams, preenchendo seus dados cadastrais, informando a instituição de origem, selecionando as disciplinas que deseja aproveitar, anexando a documentação necessária e acompanhando o andamento da solicitação.
+
+Dessa forma, a tarefa que os participantes deverão realizar consiste em solicitar o Aproveitamento de Estudos e Dispensa de Componentes Curriculares no Microsoft Teams, em ambiente Web/Desktop. Para a avaliação, será considerado que o participante já realizou o login na plataforma e possui acesso ao canal da UnB no Teams.
+
+O participante deverá realizar uma solicitação de aproveitamento de uma disciplina cursada anteriormente, utilizando os dados e documentos disponibilizados para a execução da tarefa.
+
+O passo a passo esperado que o participante realize é:
+
+1. Acessar o canal da UnB no Microsoft Teams e localizar a aba **"Serviços Acadêmicos"** na barra superior.
+2. Selecionar a opção **"Aproveitamento de Estudos e Dispensa"** no menu de serviços.
+3. Conferir os dados cadastrais autopreenchidos, como nome, matrícula e curso.
+4. Informar a Instituição de Ensino Superior (IES) de origem e selecionar a disciplina cursada anteriormente.
+5. Associar a disciplina cursada à disciplina equivalente oferecida pela Universidade de Brasília.
+6. Realizar o upload dos documentos necessários em formato PDF, incluindo o Histórico Escolar Oficial e a Ementa do Curso, observando o limite de tamanho dos arquivos (até 10 MB) e os indicadores visuais de validação.
+7. Revisar as informações preenchidas e os documentos anexados na tela de resumo da solicitação.
+8. Selecionar o botão **"Submeter Solicitação"** para finalizar o envio.
+9. Verificar a emissão do Número de Protocolo SEI, exibido na tela de confirmação, e identificar a notificação enviada pelo chat do Microsoft Teams e pelo e-mail institucional.
+10. Consultar o painel de acompanhamento para verificar o andamento da solicitação e os respectivos status do processo: **Solicitação Recebida**, **Em Análise pela Coordenação** e **Parecer Concluído**.
+
+## 2. Definição de perfil dos participantes e recrutamento
+
+Para esta avaliação, o perfil dos participantes esperados são estudantes de graduação da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB), que utilizam o Microsoft Teams para realizar atividades acadêmicas, desenvolver trabalhos em grupo e manter comunicação com professores e servidores da universidade.
+
+É desejável que os participantes tenham familiaridade com a plataforma Microsoft Teams e com atividades acadêmicas relacionadas à graduação. Entretanto, não é necessário que tenham realizado anteriormente uma solicitação real de Aproveitamento de Estudos e Dispensa de Componentes Curriculares, uma vez que a avaliação busca verificar a facilidade de compreensão e utilização da funcionalidade proposta.
+
+O recrutamento ocorrerá dentro da própria universidade, sendo solicitado aos estudantes que participem de uma avaliação rápida para contribuir com o desenvolvimento do trabalho da disciplina.
+
+Para esta avaliação, será seguido o número de usuários proposto por Krug, que indica que, com três ou quatro usuários, é possível identificar a maioria dos problemas de usabilidade.
+
+## 3. Preparação de ambiente e de equipamentos
+
+A avaliação será realizada na Universidade de Brasília (UnB), mais especificamente na Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Uma sala disponível será utilizada pelo avaliador e pelo participante. O ambiente contará com cadeiras e mesas disponibilizadas pela própria universidade.
+
+Os equipamentos e materiais que serão utilizados são:
+
+- Notebook com acesso à internet;
+- Protótipo de alta fidelidade desenvolvido no Figma;
+- Telefone celular, para eventual gravação da sessão;
+- Tripé de apoio, para posicionamento do celular durante a gravação;
+- Canetas;
+- Cadernos ou folhas de papel para anotações.
+
+Durante a avaliação, o participante será orientado a executar a tarefa proposta utilizando o protótipo interativo. O avaliador observará as interações, dificuldades, dúvidas e possíveis problemas encontrados ao longo da execução, registrando as informações relevantes para a análise posterior.
+
+## 4. Criação do protótipo de alta fidelidade
+
+O protótipo de alta fidelidade será desenvolvido utilizando a ferramenta **Figma**, buscando representar visualmente a interface do Microsoft Teams e o fluxo de solicitação de Aproveitamento de Estudos e Dispensa de Componentes Curriculares.
+
+O protótipo será composto por telas interativas que permitirão ao participante navegar pelas etapas da funcionalidade e simular a realização de uma solicitação completa.
+
+As telas e os componentes previstos para o protótipo são:
+
+- Canal da UnB no Microsoft Teams;
+- Aba "Serviços Acadêmicos" na barra superior;
+- Menu de serviços acadêmicos;
+- Tela inicial de Aproveitamento de Estudos e Dispensa;
+- Formulário de identificação do estudante, com dados cadastrais autopreenchidos;
+- Campos para identificação da Instituição de Ensino Superior (IES) de origem;
+- Área de seleção da disciplina cursada anteriormente;
+- Campo para associação da disciplina cursada à disciplina equivalente na UnB;
+- Área para anexação dos documentos obrigatórios em formato PDF;
+- Indicadores visuais de validação dos arquivos anexados;
+- Tela de revisão e resumo das informações preenchidas;
+- Botão "Submeter Solicitação";
+- Tela de confirmação com emissão do Número de Protocolo SEI;
+- Representação das notificações de confirmação pelo chat do Teams e pelo e-mail institucional;
+- Painel de acompanhamento da solicitação, com apresentação da linha do tempo e dos respectivos status do processo.
+
+A funcionalidade disponibilizada no protótipo permitirá que o usuário:
+
+- Acesse o serviço de Aproveitamento de Estudos e Dispensa;
+- Visualize e confira seus dados cadastrais;
+- Informe a instituição de origem;
+- Selecione a disciplina cursada anteriormente;
+- Associe a disciplina de origem à disciplina equivalente da UnB;
+- Simule a anexação do Histórico Escolar Oficial e da Ementa do Curso;
+- Visualize a validação dos documentos anexados;
+- Revise os dados e as informações da solicitação;
+- Simule a submissão da solicitação;
+- Visualize o Número de Protocolo SEI;
+- Consulte o andamento da solicitação por meio do painel de acompanhamento.
+
+As interações serão configuradas no próprio Figma por meio de conexões entre telas, botões e elementos interativos, permitindo simular a navegação e as principais ações necessárias para concluir a tarefa.
+
+Por se tratar de um protótipo, não haverá integração real com os sistemas institucionais, com o SEI ou com o serviço de envio de e-mails. As etapas de submissão, emissão de protocolo e notificações serão representadas visualmente para permitir a avaliação da experiência de uso.
+
+## 5. Cronograma
+
+| Data | Dia | Atividade | Responsável(is) |
+|---|---|---|---|
+| 06/11 | Sexta-feira | Elaboração do roteiro da entrevista e do questionário para avaliação da funcionalidade de Aproveitamento de Estudos e Dispensa de Componentes Curriculares. | Evellyn de Sousa Rocha |
+| 07/11 | Sábado | Planejamento e organização das telas, componentes e fluxo de navegação do protótipo de alta fidelidade no Figma. | Evellyn de Sousa Rocha |
+| 08/11 | Domingo | Construção do protótipo de alta fidelidade, contemplando o acesso aos Serviços Acadêmicos e o preenchimento do formulário de solicitação. | Evellyn de Sousa Rocha |
+| 09/11 | Segunda-feira | Finalização do protótipo no Figma, incluindo anexação de documentos, revisão das informações, submissão e acompanhamento do protocolo. | Evellyn de Sousa Rocha |
+| 10/11 | Terça-feira | Realização do teste piloto e gravação da primeira sessão de coleta de dados do teste de usabilidade. | Evellyn de Sousa Rocha |
+| 11/11 | Quarta-feira | Realização do segundo teste de usabilidade e gravação da segunda sessão de coleta de dados. | Evellyn de Sousa Rocha |
+| 12/11 | Quinta-feira | Realização do terceiro teste de usabilidade e gravação da terceira sessão de coleta de dados. | Evellyn de Sousa Rocha |
+| 13/11 | Sexta-feira | Organização e interpretação dos dados coletados durante as sessões de avaliação. | Evellyn de Sousa Rocha |
+| 14/11 | Sábado | Elaboração do relato dos resultados do teste de usabilidade. | Evellyn de Sousa Rocha |
+| 15/11 | Domingo | Continuação da elaboração do relato dos resultados, incluindo identificação dos problemas de usabilidade e análise das observações dos participantes. | Evellyn de Sousa Rocha |
+| 16/11 | Segunda-feira | Revisão, finalização e entrega do relato dos resultados do teste de usabilidade. | Evellyn de Sousa Rocha |
 
 #### Teste piloto
 
