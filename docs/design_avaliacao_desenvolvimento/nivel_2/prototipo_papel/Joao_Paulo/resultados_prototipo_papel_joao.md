@@ -42,7 +42,7 @@ O protótipo de papel é composto por sete folhas: quatro telas base, duas folha
 | 5 e 6 | Peças para recortar: lista de sugestões, disponibilidade, orientação do assunto, resumo, confirmação e status | 2 a 6 |
 | 7     | Guia do simulador (uso exclusivo da equipe)                                               | 1 a 6      |
 
-![Protótipo de papel do agendamento de reunião com o coordenador](./prototipo_papel/prototipo_papel_agendamento.png)
+![Protótipo de papel do agendamento de reunião com o coordenador](docs/design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/prototipo_papel_agendamento.png)
 <p align="center">Figura 1 - Folhas do protótipo de papel do agendamento </p>
 <p align="center">Autor - João Paulo da Silva Pereira </p>
 
