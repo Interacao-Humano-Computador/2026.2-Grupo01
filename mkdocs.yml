@@ -67,18 +67,14 @@ nav:
         - Planejamento do relato dos resultados: planejamento/storyboard/planejamento_relato_resultados_storyboard.md
         - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados_storyboard.md
         - Relato dos resultados Evellyn : design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultado_storyboard_evellyn.md
-        - João Paulo:
-          - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/Joao_Paulo/planejamento_storyboard_joao_paulo.md
-          - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/Joao_Paulo/relato_storyboard_joao_paulo.md
+        - Planejamento João Paulo: design_avaliacao_desenvolvimento/nivel_1/storyboard/Joao_Paulo/planejamento_storyboard_joao_paulo.md
+        - Relato dos resultados João Paulo: design_avaliacao_desenvolvimento/nivel_1/storyboard/Joao_Paulo/relato_storyboard_joao_paulo.md
       - Análise de tarefas:
         -  Planejamento Avaliação Formativa (DECIDE): planejamento/planejamento_avaliacao_decide.md
         -  Planejamento Relato dos Resultados: planejamento/planejamento_relato_resultados.md
         -  Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise_tarefas.md
         -  Relato de resultados Evellyn: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato-resultado-evellyn.md
-        - João Paulo:
-          - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/Joao_Paulo/planejamento_analise_tarefas_joao_paulo.md
-          - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/Joao_Paulo/planejamento_relato_analise_tarefas_joao_paulo.md
-          - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/Joao_Paulo/relato_analise_tarefas_joao_paulo.md
+        -  Relato de resultados João Paulo: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/Joao_Paulo/relato_analise_tarefas_joao_paulo.md
     - Nível 2:
       - Protótipo de papel:
         - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel.md
@@ -86,18 +82,18 @@ nav:
         - Planejamento do protótipo de papel Evellyn: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/planejamento_prototipo_papel_evellyn.md
         - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/resultados_prototipo_papel.md
         - Relato dos resultados Evellyn: design_avaliacao_desenvolvimento/nivel_2/resultados_prototipo_papel_evellyn.md
-        - João Paulo:
-          - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/planejamento_prototipo_papel_joao_paulo.md
-          - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/planejamento_relato_prototipo_papel_joao_paulo.md
-          - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/resultados_prototipo_papel_joao.md
+      - João Paulo:
+        - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/planejamento_prototipo_papel_joao_paulo.md
+        - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/planejamento_relato_prototipo_papel_joao_paulo.md
+        - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/prototipo_papel/Joao_Paulo/resultados_prototipo_papel_joao.md
     - Nível 3:
       - Teste de usabilidade:
         - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/planejamento_teste_usabilidade.md
         - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_teste_usabilidade.md
         - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_3/resultados_teste_usabilidade.md
-        - João Paulo:
-          - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_teste_usabilidade_joao_paulo.md
-          - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_relato_resultados_teste_usabilidade_joao_paulo.md
+      - João Paulo:
+        - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_teste_usabilidade_joao_paulo.md
+        - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_relato_resultados_teste_usabilidade_joao_paulo.md
 
 
   - Atas e Apresentações: atas/reunioes.md
