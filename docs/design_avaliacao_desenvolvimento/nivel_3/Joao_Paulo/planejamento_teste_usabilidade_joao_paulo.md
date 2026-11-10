@@ -1,134 +1,107 @@
 ## Tabela de contribuição
 
-| Data       | Contribuição | Autor(es) | Revisor(es) |
-| ---------- | ------------ | --------- | ----------- |
-| 05/11/2026 | Separação do conteúdo de João Paulo em página própria | João Paulo da Silva Pereira | A definir   |
+| Data       | Contribuição                                                                                          | Autor(es) | Revisor(es) |
+| ---------- | ----------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 03/11/2026 | Adição do planejamento do relato de resultados do agendamento de reunião com o coordenador do curso   | João Paulo da Silva Pereira | A definir   |
+| 05/11/2026 | Reestruturação do planejamento do relato: estrutura do relato, modelo de problemas, severidade e reprojeto | João Paulo da Silva Pereira | A definir   |
 
-# João Paulo - Planejamento do teste de usabilidade
+# João Paulo - Planejamento do relato da avaliação do protótipo de alta fidelidade
 
-Planejamento do teste de usabilidade do agendamento de reunião com o coordenador do curso (Nível 3).
+> O planejamento geral do grupo está em [Planejamento do relato dos resultados](../planejamento_relato_resultados_teste_usabilidade.md). Esta página aplica o planejamento ao agendamento. A avaliação está planejada em [Planejamento da avaliação](./planejamento_teste_usabilidade_joao_paulo.md).
 
-> Esta página reúne, em um só lugar, a parte de João Paulo da Silva Pereira no projeto. O conteúdo foi separado de: [planejamento_teste_usabilidade.md](../planejamento_teste_usabilidade.md).
+## 1. Introdução
 
----
+Este documento define, antes das sessões, como os dados do teste de usabilidade do agendamento serão consolidados, tratados e apresentados. A estrutura segue os tópicos de Barbosa e Silva (2021).
 
-## Planejamento da avaliação do protótipo de alta fidelidade - Agendamento de reunião com o coordenador do curso
+## 2. Estrutura padrão do relato dos resultados
 
-### Objetivos da avaliação do protótipo de alta fidelidade - Agendamento de reunião com o coordenador do curso
+### 2.1 Objetivos da avaliação
 
-Para decidir os objetivos da avaliação do protótipo de alta fidelidade, foram analisados os objetivos e as perguntas propostos por Barbosa e Silva (2021), descritos na [Tabela 1](#planejamento-da-avaliacao-do-prototipo-de-alta-fidelidade-comunicacao-entre-usuarios).
+Verificar a navegabilidade, a eficiência e a satisfação ao marcar uma reunião com o coordenador; avaliar se a entrada pelo Calendário e pela conversa, a lista de sugestões, a disponibilidade, o assunto e o status do convite são entendidos; e verificar se o problema OPO-AG01 do protótipo de papel foi superado.
 
-Para o teste de usabilidade, que representa um protótipo de alta fidelidade do produto, será aplicado o reprojeto do agendamento de uma reunião entre o estudante e o coordenador do curso no Microsoft Teams. Nele, o formulário mostra só os campos essenciais, sugere o coordenador com nome e cargo ao digitar, exibe a disponibilidade dos dois antes do envio, orienta o que escrever no assunto, confirma o envio e mostra o status do convite. Esse reprojeto parte do storyboard e do protótipo de papel do agendamento.
+### 2.2 Escopo da avaliação
 
-Como o usuário irá interagir com o protótipo, o autor João Paulo escolhe analisar nesta avaliação o objetivo de **Problemas na interação e interface**, para coletar dados a respeito de se o usuário consegue entender o design, as operações e consegue realizar a tarefa em um protótipo de alta fidelidade.
+Telas testadas: Calendário, conversa com o coordenador, formulário de nova reunião, disponibilidade, assunto e duração, resumo e confirmação, e evento com o status do convite. Tarefas: Tarefa 1 (marcar a reunião, nós 1 a 5 da HTA) e Tarefa 2 (consultar a resposta e propor outro horário, nós 6.1 e 6.2). Nível de fidelidade: protótipo digital interativo no Figma.
 
-### Perguntas a serem respondidas na avaliação - Agendamento de reunião com o coordenador do curso
+### 2.3 Descrição do método
 
-Foram extraídas da literatura de Barbosa e Silva (2021) as seguintes perguntas relacionadas ao objetivo de identificar problemas na interação e na interface, que serão utilizadas na avaliação do teste de usabilidade, com os seguintes pontos de atenção para o agendamento:
+Teste de usabilidade com *think aloud* e entrevista pós-teste, precedido de um teste piloto.
 
-**1. O usuário consegue operar o sistema?** Consegue abrir o formulário de nova reunião?
+### 2.4 Diretrizes e critérios avaliados
 
-**2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?** Envia o convite ao coordenador certo, no horário livre para os dois, com a duração pedida? Erros possíveis: escolher a secretaria no lugar do coordenador, escolher horário ocupado, deixar o assunto vazio ou não enviar o convite.
+As 10 heurísticas de Nielsen (1993) e as metas de usabilidade do projeto: eficácia, eficiência, facilidade de aprendizado e satisfação.
 
-**3. Ele entende o que significa e para que serve cada elemento da interface?** Entende a lista de sugestões (nome e cargo), os horários livres e ocupados, a orientação do campo Assunto e o status do convite?
+### 2.5 Avaliadores e participantes
 
-**4. Ele vai entender o que deve fazer em seguida?** Sabe que, depois de revisar o resumo, deve enviar, e que, depois do envio, deve esperar a resposta ou propor outro horário?
+Avaliadores: João Paulo (moderador) e [observador a definir]. A tabela de perfil será preenchida após as sessões:
 
-**5. Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?**
+| Código         | Semestre | Frequência de uso do Teams | Já agendou reunião com coordenador ou professor? | TCLE assinado |
+| -------------- | -------- | -------------------------- | ------------------------------------------------ | ------------- |
+| Participante A |          |                            |                                                  |               |
+| Participante B |          |                            |                                                  |               |
+| Participante C |          |                            |                                                  |               |
 
-**6. Onde esses problemas se manifestam?** Em qual tela e em qual nó da HTA do Estudante.
+Serão 3 participantes (Krug, 2010; Nielsen, 1993), identificados por letra.
 
-**7. Com que frequência tendem a ocorrer?**
+### 2.6 Registro audiovisual e logística
 
-**8. Qual é a gravidade desses problemas?**
+| Sessão | Participante | Data | Início | Término | Duração | Vídeo (não listado) |
+| ------ | ------------ | ---- | ------ | ------- | ------- | ------------------- |
+| Piloto | Voluntário   |      |        |         |         |                     |
+| S01    | A            |      |        |         |         |                     |
+| S02    | B            |      |        |         |         |                     |
+| S03    | C            |      |        |         |         |                     |
 
-**9. Quais barreiras o usuário encontra para atingir seus objetivos?**
+### 2.7 Tarefas executadas
 
-### Método de avaliação - Agendamento de reunião com o coordenador do curso
+Para cada tarefa, o relato traz a instrução dada, o critério de êxito e as métricas.
 
-Como requisito da disciplina, o método de avaliação será o método de **observação por teste de usabilidade**, descrito para a comunicação entre usuários, que, segundo Barbosa e Silva (2021), visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (RUBIN, 1994; RUBIN; CHISNELL, 2008).
+- **Critérios de êxito:** concluiu sozinho; concluiu com ajuda; desistiu ou errou.
+- **Métricas:** tempo decorrido (e a média) e número de erros por tarefa.
 
-Para realizar a coleta de dados, um grupo de usuários é convidado a realizar a tarefa de agendamento no protótipo de alta fidelidade, em ambiente controlado. Durante a avaliação são observados e registrados dados sobre o desempenho dos participantes (tempo, erros e ajuda necessária), a realização da tarefa, seus sentimentos e opiniões, com *think aloud* e entrevista pós-teste.
+## 3. Modelo para a lista de problemas de usabilidade
 
-### Questões práticas - Agendamento de reunião com o coordenador do curso
+Cada problema será registrado com:
 
-#### Definição das tarefas
+1. **Identificador** no formato `OPO-AG01`, com título curto;
+2. **Local** (tela, componente ou nó da HTA);
+3. **Descrição** (comportamento inadequado, desvio de rota ou hesitação);
+4. **Diretriz violada** (heurística de Nielsen ou meta de usabilidade);
+5. **Severidade** (escala de 0 a 4);
+6. **Sugestão de solução** (ação concreta de reprojeto).
 
-O agendamento de reunião no Microsoft Teams pode ser iniciado de mais de uma forma, como pelo Calendário ou pela conversa com a pessoa convidada. A funcionalidade analisada na avaliação é o agendamento de uma reunião entre o estudante e o coordenador do curso.
+## 4. Classificação de severidade (Nielsen, 1993)
 
-Desta forma, a tarefa que o participante irá realizar é **marcar uma reunião de 30 minutos com o coordenador do curso, na quinta-feira, no Microsoft Teams, em ambiente web ou desktop**. Consideraremos no protótipo que o login já foi realizado, com os dados fictícios do protótipo (estudante Rafaela Duarte e coordenador Carlos Menezes).
+**Tabela 1 - Escala de severidade**
 
-O passo a passo esperado, ligado aos nós da HTA do Estudante, é:
+| Severidade             | Definição                                                         | Impacto no reprojeto                       |
+| ---------------------- | ----------------------------------------------------------------- | ------------------------------------------ |
+| 0 - Falso problema     | Não afeta a tarefa nem a percepção do usuário                     | Nenhuma ação                               |
+| 1 - Cosmético          | Desconforto estético leve                                         | Corrigir se houver tempo                   |
+| 2 - Simples            | Hesitação, mas o usuário contorna                                 | Baixa prioridade                           |
+| 3 - Grave              | Dificulta o fluxo e gera frustração                               | Alta prioridade, correção obrigatória      |
+| 4 - Catastrófico       | Impede a conclusão da tarefa                                      | Correção imediata                          |
 
-1. Abrir o Calendário e selecionar "+ Nova reunião" (nó 1.1).
-2. Digitar o nome ou o cargo e selecionar o coordenador, e não a secretaria (nós 2.1 e 2.2).
-3. Consultar a disponibilidade dos dois, escolher o horário livre para ambos e definir a duração (nós 3.1 a 3.3).
-4. Informar o assunto e, se quiser, a descrição (nós 4.1 e 4.2).
-5. Revisar o resumo e enviar o convite (nós 5.1 e 5.2).
-6. Conferir a confirmação e o status do convite (nó 6.1) e, se o convite for recusado, propor outro horário (nó 6.2).
+No protótipo de papel foi usada a escala de 1 a 3. Para comparar, a gravidade 2 ("pequena") do OPO-AG01 equivale a "simples" aqui.
 
-#### Definição de perfil dos participantes e recrutamento
+## 5. Cronograma de reprojeto
 
-Para esta avaliação o perfil de participantes esperados são estudantes de graduação da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da Universidade de Brasília (UnB), do Perfil 1 (Estudante), que utilizam o Microsoft Teams para realizar trabalhos em grupo e comunicação com professores e servidores da universidade. Para evitar aprendizado prévio, a preferência é por participantes que ainda não viram o storyboard nem o protótipo de papel do agendamento.
+**Tabela 2 - Ações de reprojeto**
 
-O recrutamento ocorrerá dentro da própria universidade, junto com o recrutamento da funcionalidade de comunicação entre usuários. Será seguido o número de usuários proposto por Krug, que indica que com três ou quatro usuários é possível detectar a maioria dos problemas de usabilidade. Os participantes serão identificados por letra no relato.
+| ID     | Ação de reprojeto                                                        | Origem (problema)               | Responsável | Data prevista |
+| ------ | ------------------------------------------------------------------------ | ------------------------------- | ----------- | ------------- |
+| REP-01 | Incluir a entrada pela conversa com o coordenador, além do Calendário    | OPO-AG01 (protótipo de papel)   | João Paulo  | 07 a 09/11    |
+| REP-02 | A preencher após as sessões                                              | A definir                       | João Paulo  | 13 a 16/11    |
 
-#### Preparação de ambiente e de equipamentos
+## 6. Referências bibliográficas
 
-A avaliação será realizada na FCTE/UnB, em uma sala vaga, com as cadeiras e mesas da própria universidade, ocupada pelo avaliador e pelo participante. Os equipamentos são os mesmos da comunicação entre usuários: telefone celular, tripé de apoio, canetas, cadernos e notebook, que exibirá o protótipo.
+1. BARBOSA, Simone Diniz Junqueira et al. **Interação humano-computador e experiência do usuário.** Rio de Janeiro: Autopublicação, 2021.
+2. KRUG, Steve. **Rocket Surgery Made Easy.** Berkeley: New Riders, 2010.
+3. NIELSEN, Jakob. **Usability Engineering.** San Diego: Academic Press, 1993.
 
-#### Criação do protótipo de alta fidelidade
+## 7. Histórico de versão
 
-O protótipo de alta fidelidade será construído utilizando a ferramenta [Figma](https://www.figma.com/), com as seguintes telas e componentes:
-
-1. Calendário do Teams com o botão "+ Nova reunião";
-2. Formulário de nova reunião com o campo Participante e a lista de sugestões (nome e cargo);
-3. Disponibilidade dos dois participantes, com horários livres e ocupados;
-4. Campos Assunto (com orientação do que escrever) e Duração;
-5. Resumo da reunião, botão "Enviar convite" e confirmação de envio com lembrete;
-6. Evento no calendário com o status do convite (pendente, aceito ou recusado) e o botão "Propor outro horário".
-
-A funcionalidade que estará disponível será a de **agendamento de reunião com o coordenador**, na qual o usuário poderá:
-
-1. Abrir uma nova reunião;
-2. Buscar e selecionar o coordenador;
-3. Consultar a disponibilidade e escolher horário e duração;
-4. Informar o assunto;
-5. Revisar e enviar o convite;
-6. Acompanhar o status do convite e propor outro horário.
-
-No protótipo de papel, o participante disse que não pensaria primeiro no Calendário para marcar reunião, e sim em uma área de reuniões. Por isso, o protótipo de alta fidelidade poderá incluir também uma entrada pela conversa com o coordenador (nó 1.2 da HTA), e o passo 1 da tarefa será avaliado nas duas entradas, se houver essa versão.
-
-#### Cronograma
-
-As datas seguem as sessões de coleta de dados do teste de usabilidade da comunicação entre usuários, com a participação de João Paulo (datas a confirmar).
-
-| Data  | Dia     | Atividade                                                                                | Responsável(is) |
-| ----- | ------- | ---------------------------------------------------------------------------------------- | --------------- |
-| 06/11 | Sexta   | Roteiro da entrevista e questionário do agendamento                                      | João Paulo      |
-| 07/11 | Sábado  | Construção do protótipo de alta fidelidade do agendamento                                | João Paulo      |
-| 08/11 | Domingo | Construção do protótipo de alta fidelidade do agendamento                                | João Paulo      |
-| 09/11 | Segunda | Construção do protótipo de alta fidelidade do agendamento                                | João Paulo      |
-| 10/11 | Terça   | Teste piloto 1 e gravação da sessão 1 de coleta de dados do agendamento                  | João Paulo      |
-| 11/11 | Quarta  | Teste piloto 2 e gravação da sessão 2 de coleta de dados do agendamento                  | João Paulo      |
-| 12/11 | Quinta  | Teste piloto 3 e gravação da sessão 3 de coleta de dados do agendamento                  | João Paulo      |
-| 13/11 | Sexta   | Interpretação dos dados do agendamento                                                   | João Paulo      |
-| 14/11 | Sábado  | Construção do relato de resultados do teste de usabilidade do agendamento                | João Paulo      |
-| 15/11 | Domingo | Construção do relato de resultados do teste de usabilidade do agendamento                | João Paulo      |
-| 16/11 | Segunda | Revisões e entrega do relato dos resultados do teste de usabilidade do agendamento       | João Paulo      |
-
-#### Teste piloto
-
-O objetivo do teste-piloto é avaliar o planejamento e analisar se a avaliação planejada produz os dados necessários para responder as questões e objetivos do estudo (Barbosa e Silva, 2021). O teste piloto do agendamento será realizado previamente a cada sessão de coleta de dados do teste de usabilidade, com uma sessão normal em que o avaliador simula um participante, para verificar a linguagem, o protótipo, os equipamentos e o tempo.
-
-### Questões éticas - Agendamento de reunião com o coordenador do curso
-
-Valem o TCLE e os princípios éticos descritos na seção D deste documento. Para o agendamento, o participante é identificado por uma letra, os nomes do protótipo são fictícios e a gravação só ocorre com a permissão dele.
-
----
-
-## Histórico de versão
-
-| Versão | Data       | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---------- | --------- | --------- | ----------- |
-| `1.0` | 05/11/2026 | Separação da parte de João Paulo em uma pasta própria | João Paulo da Silva Pereira | |
+| Versão | Data       | Descrição                                                         | Autor(es) | Revisor(es) |
+| ------ | ---------- | ----------------------------------------------------------------- | --------- | ----------- |
+| `1.0`  | 03/11/2026 | Planejamento do relato de resultados do agendamento               | João Paulo da Silva Pereira |             |
+| `1.1`  | 05/11/2026 | Reestruturação: estrutura do relato, modelo de problemas, severidade e reprojeto | João Paulo da Silva Pereira |             |
