@@ -9,7 +9,7 @@ repo_name: Interacao-Humano-Computador/2026.2-Grupo01
 repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo01
 
 theme:
-  name: material
+  name: material 
   language: pt-BR
 
   palette:
