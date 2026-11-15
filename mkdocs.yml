@@ -91,10 +91,11 @@ nav:
         - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/planejamento_teste_usabilidade.md
         - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_teste_usabilidade.md
         - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_3/resultados_teste_usabilidade.md
-      - João Paulo:
-        - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_teste_usabilidade_joao_paulo.md
-        - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_relato_resultados_teste_usabilidade_joao_paulo.md
-
+        - João Paulo:
+          - Planejamento da avaliação: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_teste_usabilidade_joao_paulo.md
+          - Planejamento do relato de resultados: design_avaliacao_desenvolvimento/nivel_3/Joao_Paulo/planejamento_relato_resultados_teste_usabilidade_joao_paulo.md
+        - Lucas Sales:
+          - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_3/lucas_sales/relato_resultados.md
 
   - Atas e Apresentações: atas/reunioes.md
   - Inspeções: inspecoes/inspecao.md
