@@ -23,7 +23,7 @@
 | Tarefa        | Marcar uma reunião de 30 minutos com o coordenador do curso, na quinta-feira, e conferir se ele aceitou                    |
 | Artefato      | Protótipo digital de alta fidelidade publicado como site (Figma), com a interface do Microsoft Teams e dados fictícios                    |
 | Método        | Teste de usabilidade presencial com *Think-Aloud* e entrevista pós-teste                                                   |
-| Inspeção      | Autoinspeção com lista de verificação baseada em Nielsen (1993)                                                            |
+| Inspeção      | Autoinspeção com lista de verificação baseada em krug                                                            |
 | Participantes | 3 reais do Perfil 1 (A, B e C), mais 1 piloto descartado                                                            |
 
 ---
