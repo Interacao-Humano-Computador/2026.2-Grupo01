@@ -94,11 +94,11 @@ As telas e componentes representados em papel são:
 | T6   | Resumo, botão Enviar e peça de confirmação de envio com lembrete                                           | 5.1 e 5.2 |
 | T7   | Evento com peça de status do convite (pendente, aceito ou recusado) e botão "Propor outro horário"         | 6.1 e 6.2 |
 
-A tela T2-B foi desenhada e as demais partem dos quadros do storyboard do agendamento. Abaixo está o registro do protótipo de papel do agendamento (folhas 1 a 7: telas base, peças para recortar e guia do simulador):
+A tela T2-B foi desenhada e as demais partem dos quadros do storyboard do agendamento. Abaixo está a foto do protótipo de papel do agendamento (telas base desenhadas à mão e peças para recortar e colar):
 
-![Protótipo de papel do agendamento de reunião com o coordenador](../../../../assets/prototipo_papel_agendamento.png)
+![Protótipo de papel do agendamento de reunião com o coordenador](./prototipo_papel_agendamento.jpg)
 <a id="figura-1-agendamento"></a>
-<p align="center">Figura 1 - Registro do protótipo de papel do agendamento de reunião com o coordenador do curso </p>
+<p align="center">Figura 1 - Foto do protótipo de papel do agendamento de reunião com o coordenador do curso </p>
 <p align="center">Autor - João Paulo da Silva Pereira </p>
 
 #### Teste piloto
