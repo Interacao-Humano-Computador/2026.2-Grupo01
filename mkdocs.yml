@@ -53,6 +53,7 @@ nav:
     - Cenários: analise_de_requisitos/cenarios.md
     - Análise de Tarefas:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
+      - Análise Hierárquica de Tarefas - Evellyn: analise_de_requisitos/analise_de_tarefas/hta_Evellyn.md
       - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
     - Princípios Gerais do projeto: analise_de_requisitos/principios_gerais.md
     - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md

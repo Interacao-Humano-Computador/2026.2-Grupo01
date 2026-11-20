@@ -201,4 +201,4 @@ As datas seguem o [planejamento do teste de usabilidade](../../../nivel_3/Joao_P
 
 | Versão | Data       | Descrição                                                                    | Autor(es)                   | Revisor(es) |
 | ------ | ---------- | ---------------------------------------------------------------------------- | --------------------------- | ----------- |
-| `1.0`  | 05/11/2026 | Criação da página com o relato individual do protótipo de papel do agendamento | João Paulo da Silva Pereira |             |
+| `1.0`  | 05/11/2026 | Criação da página com o relato individual do protótipo de papel do agendamento | João Paulo da Silva Pereira |  Lucas Salles    |
