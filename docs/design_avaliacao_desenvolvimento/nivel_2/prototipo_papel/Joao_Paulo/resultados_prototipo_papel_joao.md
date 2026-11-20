@@ -31,7 +31,9 @@ Este relato individual reúne, em uma só página, o protótipo de papel, o test
 
 ## 2. Peças do protótipo
 
-O protótipo de papel é composto por sete folhas: quatro telas base, duas folhas de peças para recortar e uma folha com o guia do simulador. Os dados são fictícios (estudante Rafaela Duarte, coordenador Carlos Menezes, secretaria Carla Coordenadoria).
+O protótipo de papel é composto por quatro telas base desenhadas à mão, por peças recortáveis que o simulador cola nas áreas pontilhadas a cada ação do participante e por um guia do simulador (uso exclusivo da equipe, fora da foto). Os dados são fictícios (estudante Rafaela Duarte, coordenador Carlos Menezes, secretaria Carla Coordenadoria).
+
+**Telas base do protótipo**
 
 | Folha | Conteúdo                                                                                  | Nós da HTA |
 | ----- | ----------------------------------------------------------------------------------------- | ---------- |
@@ -39,11 +41,47 @@ O protótipo de papel é composto por sete folhas: quatro telas base, duas folha
 | 2     | Tela base: conversa com o coordenador, com o botão "Marcar reunião"                       | 1.2        |
 | 3     | Tela base: formulário Nova reunião (participante, horário, duração, assunto)              | 2 a 5      |
 | 4     | Tela base: evento no calendário, com o status do convite e o botão "Propor outro horário" | 6.1 e 6.2  |
-| 5 e 6 | Peças para recortar: lista de sugestões, disponibilidade, orientação do assunto, resumo, confirmação e status | 2 a 6 |
-| 7     | Guia do simulador (uso exclusivo da equipe)                                               | 1 a 6      |
+
+**Peças recortáveis**
+
+| Peça                                                 | Onde é colada                          | Nós da HTA |
+| ---------------------------------------------------- | -------------------------------------- | ---------- |
+| Lista de sugestões (nome e cargo)                    | Folha 3, zona A                        | 2.1 e 2.2  |
+| Disponibilidade dos dois (Livre e Ocupado)           | Folha 3, zona B                        | 3.1 a 3.3  |
+| Orientação do assunto, resumo e confirmação do envio | Folha 3, zona C (e conversa, folha 2)  | 4 e 5      |
+| Evento criado ("colar no calendário")                | Folha 1                                | 5.2        |
+| Status do convite (Pendente e Aceito)                | Folha 4, zona D                        | 6.1        |
+| Mensagem do coordenador (só quando recusar)          | Folha 4, zona E                        | 6.2        |
+| Lembrete (15 minutos, 1 hora, 1 dia ou não lembrar)  | Folha 4                                | 6          |
+
+**Folha 1 - Calendário**
+
+![Folha 1 - Calendário](./papel_calendario.jpg)
+<p align="center">Figura 1 - Folha 1 do protótipo de papel: Calendário </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
+
+**Folha 2 - Conversa com o coordenador**
+
+![Folha 2 - Conversa com o coordenador](./papel_conversa.jpg)
+<p align="center">Figura 2 - Folha 2 do protótipo de papel: conversa com o coordenador </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
+
+**Folha 3 - Nova reunião**
+
+![Folha 3 - Nova reunião](./papel_nova_reuniao.jpg)
+<p align="center">Figura 3 - Folha 3 do protótipo de papel: Nova reunião, com as peças ao lado </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
+
+**Folha 4 - Reunião com status**
+
+![Folha 4 - Reunião com status](./papel_status.jpg)
+<p align="center">Figura 4 - Folha 4 do protótipo de papel: Reunião com Carlos Menezes e status do convite </p>
+<p align="center">Autor - João Paulo da Silva Pereira </p>
+
+**Registro geral**
 
 ![Protótipo de papel do agendamento de reunião com o coordenador](./prototipo_papel_agendamento.jpg)
-<p align="center">Figura 1 - Foto do protótipo de papel do agendamento (telas base e peças para recortar e colar) </p>
+<p align="center">Figura 5 - Foto do protótipo de papel completo (telas base e peças para recortar e colar) </p>
 <p align="center">Autor - João Paulo da Silva Pereira </p>
 
 ---
@@ -54,7 +92,7 @@ Antes do teste piloto, o autor conferiu o protótipo com os critérios de Nielse
 
 | #   | Critério                                                                              | Atende |
 | --- | ------------------------------------------------------------------------------------- | ------ |
-| 1   | Cada folha tem título e número ("Folha n de 7"), e o fluxo da tarefa está coberto     | Sim    |
+| 1   | Cada tela base tem título, e o fluxo da tarefa está coberto pelas quatro folhas       | Sim    |
 | 2   | Os textos e as peças são legíveis e as peças podem ser recortadas e coladas nas áreas pontilhadas | Sim |
 | 3   | Os nomes e dados são fictícios e iguais aos do storyboard avaliado no Nível 1         | Sim    |
 | 4   | O caminho da HTA (nós 1 a 6) pode ser percorrido sem o simulador explicar oralmente   | Sim    |
