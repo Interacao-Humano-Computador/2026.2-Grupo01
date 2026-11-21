@@ -1,45 +1,94 @@
 ## Tabela de contribuição
 
-| Data       | Contribuição | Autor(es) | Revisor(es) |
-| ---------- | ------------ | --------- | ----------- |
-| 05/11/2026 | Separação do conteúdo de João Paulo em página própria | João Paulo da Silva Pereira | A definir   |
+| Data       | Contribuição                                                                                              | Autor(es)                   | Revisor(es) |
+| ---------- | --------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- |
+| 05/11/2026 | Separação do conteúdo de João Paulo em página própria                                                      | João Paulo da Silva Pereira | A definir   |
+| 20/11/2026 | Reorganização da página no formato do relato individual: storyboard, avaliação com usuários e relato dos resultados | João Paulo da Silva Pereira | A definir   |
+| 20/11/2026 | Estruturação textual, tabelas e formatação, com uma ferramenta de IA (Claude), conforme a política de uso de IA da disciplina | Claude (IA) | João Paulo da Silva Pereira |
 
-# João Paulo - Relato dos resultados do storyboard
+# João Paulo da Silva Pereira - IHC - Microsoft Teams
 
-Storyboard do agendamento de reunião com o coordenador do curso (Nível 1).
-
-> Esta página reúne, em um só lugar, a parte de João Paulo da Silva Pereira no projeto. O conteúdo foi separado de: [relato_resultados_storyboard.md](../relato_resultados_storyboard.md), seção 3.3.
+> **Relato individual do Nível 1: storyboard (SB-A).** Funcionalidade: agendamento de reunião com o coordenador do curso (Perfil 1, Estudante). A análise de tarefas do mesmo tema está em [Relato dos resultados - Análise de tarefas](../../analise_tarefas/Joao_Paulo/relato_analise_tarefas_joao_paulo.md). O planejamento está em [Planejamento da avaliação do storyboard](./planejamento_storyboard_joao_paulo.md). O conteúdo foi separado de [relato_resultados_storyboard.md](../relato_resultados_storyboard.md), seção 3.3.
 
 ---
 
-### 3.3. Storyboard — Agendamento de reunião com o coordenador do curso - João Paulo
+## 1. Identificação do integrante e escopo de atuação
 
-<a id="figura-4"></a>
+**Tabela 1 - Escopo de atuação**
+
+| Atributo               | Detalhamento                                                                                  |
+| ---------------------- | --------------------------------------------------------------------------------------------- |
+| Integrante             | João Paulo da Silva Pereira                                                                   |
+| Produto avaliado       | Microsoft Teams (ambiente web e desktop)                                                      |
+| Perfil de usuário      | Perfil 1: Estudante de graduação da UnB                                                       |
+| Funcionalidade         | Agendamento de reunião com o coordenador do curso                                             |
+| Storyboard             | SB-A, com 7 quadros                                                                           |
+| Método                 | Entrevista semiestruturada com o storyboard, com o participante comentando cada quadro        |
+| Número de participantes | 1 (Participante A)                                                                           |
+| Sessão                 | 23/10/2026, com gravação em vídeo                                                             |
+
+---
+
+## 2. Storyboard individual (SB-A)
+
+### 2.1 Ilustração
+
+<a id="figura-1"></a>
 ![Storyboard - João Paulo](storyboard_novo_participante.png)
 
-<p align="center"><b>Figura 4:</b> Storyboard do fluxo de agendamento de reunião com o coordenador do curso no MS Teams, como apresentado ao participante, com nomes e dados fictícios (Autor: João Paulo).</p>
+<p align="center"><b>Figura 1:</b> Storyboard do fluxo de agendamento de reunião com o coordenador do curso no MS Teams, como apresentado ao participante, com nomes e dados fictícios.</p>
+<p align="center">Autor - João Paulo da Silva Pereira</p>
 
-#### Explicação do Storyboard
+A imagem também está disponível [neste link](storyboardjoao.png), para melhor visualização.
 
-O Storyboard elaborado por João Paulo retrata a jornada de uma estudante ao marcar uma reunião com o **coordenador do curso** no Microsoft Teams. A persona é provisória e fictícia (Rafaela Duarte, 21 anos, estudante de graduação), até que a persona oficial do Estudante seja definida pelo grupo. A reunião é entre duas pessoas, sem canal de turma [1]:
+A persona é provisória e fictícia (Rafaela Duarte, 21 anos, estudante de graduação), até que a persona oficial do Estudante seja definida pelo grupo. A reunião é entre duas pessoas, sem canal de turma.
 
-1. **Quadro 1 (Necessidade):** Rafaela precisa tirar uma dúvida com o coordenador sobre aproveitamento de disciplinas antes da matrícula.
-2. **Quadro 2 (Início do agendamento):** abre o Calendário e aciona "Nova reunião"; o sistema abre um formulário enxuto.
-3. **Quadro 3 (Participante):** busca o coordenador pelo nome; o sistema exibe sugestões com nome e cargo.
-4. **Quadro 4 (Horário):** consulta a disponibilidade dos dois e escolhe um horário livre; os horários livres e ocupados aparecem para os dois.
-5. **Quadro 5 (Assunto e duração):** informa o assunto, com orientação do que escrever, e a duração da reunião.
-6. **Quadro 6 (Envio):** envia o convite; o sistema confirma o envio, mostra que a reunião aparece no calendário e agenda um lembrete padrão, que pode ser alterado.
-7. **Quadro 7 (Resposta):** confere o status do convite (pendente ou aceito) e pode propor outro horário.
+### 2.2 Detalhamento dos quadros
 
-#### Objetivos e escopo da avaliação
+**Tabela 2 - Quadros do storyboard**
 
-O objetivo da avaliação do storyboard foi analisar **problemas na interação e na interface**, para coletar dados a respeito de se o usuário entende a funcionalidade de marcar uma reunião com o coordenador do curso, os passos para realizar a tarefa e verificar se há impedimentos ou erros na diagramação. A avaliação também verifica as melhorias propostas M01 a M07 da Tabela 1-B da página [Planejamento da avaliação do storyboard](/planejamento/storyboard/planejamento_avaliacao_storyboard/).
+| Quadro | Ação representada                                                                                     | Correspondência com a HTA | Legenda textual                                                                                                  |
+| ------ | ----------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1      | Necessidade: Rafaela precisa tirar uma dúvida com o coordenador sobre aproveitamento de disciplinas  | Antes do nó 0             | Dúvida sobre aproveitamento de disciplinas antes da matrícula                                                    |
+| 2      | Início: abre o Calendário e aciona "Nova reunião"; o sistema abre um formulário enxuto                | 1.1                       | Abertura do formulário                                                                                           |
+| 3      | Participante: busca o coordenador pelo nome; o sistema exibe sugestões com nome e cargo                | 2.1 e 2.2                 | Sugestões com nome e cargo                                                                                       |
+| 4      | Horário: consulta a disponibilidade dos dois e escolhe um horário livre                                | 3.1 a 3.3                 | Horários livres e ocupados para os dois                                                                          |
+| 5      | Assunto e duração: informa o assunto, com orientação do que escrever, e a duração                      | 4.1, 4.2 e 3.3            | Orientação do assunto                                                                                            |
+| 6      | Envio: envia o convite; o sistema confirma, mostra que aparece no calendário e agenda um lembrete padrão | 5.1 e 5.2                | Confirmação do envio e lembrete                                                                                  |
+| 7      | Resposta: confere o status do convite (pendente ou aceito) e pode propor outro horário                 | 6.1 e 6.2                 | Status do convite                                                                                                |
 
-#### Método de avaliação
+---
 
-O método de avaliação empregado foi o de **entrevista semiestruturada**, guiada pelo storyboard, com um quadro por vez e com o participante falando em voz alta o que entende de cada quadro, seguida das seis perguntas da Tabela 3-A do planejamento. Não foi aplicado questionário de dados demográficos nesta sessão; o perfil do participante foi levantado em três perguntas rápidas no início da entrevista.
+## 3. Avaliação com usuários (entrevista com o storyboard)
 
-Para a entrevista semiestruturada o avaliador buscou compreender a rotina do participante no Microsoft Teams, juntamente com a apresentação do Storyboard, e a coleta de dados com o diagrama HTA do mesmo tema, feita com outro participante, está relatada em [Relato dos resultados - Análise de tarefas](../../analise_tarefas/Joao_Paulo/relato_analise_tarefas_joao_paulo.md).
+### 3.1 Protocolo ético
+
+Previamente à gravação, foi apresentado o Termo de Consentimento Livre e Esclarecido, que o participante leu e aceitou, e foi pedida a autorização para anotar as respostas e gravar o áudio, que ele concedeu. Foi dito que ele poderia pular qualquer pergunta e parar quando quisesse, e que apareceria no relato só como uma letra. O participante se mostrou à vontade durante toda a entrevista.
+
+### 3.2 Registro audiovisual
+
+**Tabela 3 - Sessão realizada**
+
+| ID da Sessão | Entrevistador | Participante   | Data       | Plataforma                           | Gravação                                            |
+| ------------ | ------------- | -------------- | ---------- | ------------------------------------ | --------------------------------------------------- |
+| **01**       | João Paulo    | Participante A | 23/10/2026 | Sessão gravada em vídeo na faculdade | [Vídeo da entrevista](https://youtu.be/WuMsJ7XuEXo) |
+
+### 3.3 Perfil do participante
+
+**Tabela 4 - Perfil do Participante A**
+
+| Atributo                  | Detalhamento                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| Perfil                    | Perfil 1: estudante de graduação da UnB                                         |
+| Frequência de uso do Teams | Cerca de duas vezes por semana, para reuniões com colegas de projeto            |
+| Experiência               | Já marcou reuniões pelo Teams, sem dificuldades                                 |
+| Plataforma preferida      | Google Meet                                                                     |
+
+O número de avaliadores foi de apenas uma pessoa, o aluno João Paulo, autor do storyboard, que conduziu a própria sessão, o que o planejamento recomenda evitar.
+
+### 3.4 Roteiro da entrevista
+
+Não foi aplicado questionário de dados demográficos nesta sessão; o perfil do participante foi levantado em três perguntas rápidas no início da entrevista.
 
 ##### Roteiro entrevista semiestruturada
 
@@ -79,25 +128,7 @@ Para a entrevista semiestruturada o avaliador buscou compreender a rotina do par
     - 6. A proposta parece facilitar o agendamento em relação ao que você conhece do Teams?
   - **Pergunta extra:** gostaria de escolher se e quando recebe o lembrete da reunião?
 
-#### Perfil de usuários e avaliadores que participaram da avaliação
-
-O perfil de usuário entrevistado foi o de **estudante** de graduação da UnB (Perfil 1), identificado como Participante A, que usa o Microsoft Teams cerca de duas vezes por semana, principalmente para reuniões com colegas de projeto.
-
-O número de avaliadores foi de apenas uma pessoa, o aluno João Paulo, autor do storyboard, que conduziu a própria sessão, o que o planejamento recomenda evitar.
-
-**Tabela 1 – Sessão realizada**
-
-| ID da Sessão | Entrevistador | Participante   | Data       | Plataforma                           | Gravação                                            |
-| ------------ | ------------- | -------------- | ---------- | ------------------------------------ | --------------------------------------------------- |
-| **01**       | João Paulo    | Participante A | 23/10/2026 | Sessão gravada em vídeo na faculdade | [Vídeo da entrevista](https://youtu.be/WuMsJ7XuEXo) |
-
-#### Questões éticas
-
-Previamente à gravação, foi apresentado o Termo de Consentimento Livre e Esclarecido, que o participante leu e aceitou, e foi pedida a autorização para anotar as respostas e gravar o áudio, que ele concedeu. Foi dito que ele poderia pular qualquer pergunta e parar quando quisesse, e que apareceria no relato só como uma letra. O participante se mostrou à vontade durante toda a entrevista.
-
-#### Dados coletados
-
-A gravação com o participante está disponível [neste link](https://youtu.be/WuMsJ7XuEXo).
+### 3.5 Síntese dos feedbacks
 
 Na entrevista, foi possível coletar os seguintes dados do participante:
 
@@ -113,7 +144,7 @@ Na entrevista, foi possível coletar os seguintes dados do participante:
 - Depois de enviar, o participante aguardaria o aceite do coordenador;
 - O participante gostaria de escolher se e quando recebe o lembrete, que usa muito;
 
-**Respostas às perguntas da Tabela 3-A**
+**Tabela 5 - Respostas às perguntas da Tabela 3-A do planejamento**
 
 | ID  | Resposta          | Justificativa do participante                                                                                     |
 | --- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -124,21 +155,35 @@ Na entrevista, foi possível coletar os seguintes dados do participante:
 | 5   | Sim               | "Na tela de horário a gente percebe os horários, se o coordenador tem vaga ou não", e o status mostra se aceitou. |
 | 6   | Sim, com ressalva | "Na verdade é mais ou menos igual… tá mais facilzinho mesmo. Os passos estão meio reinventados, mas tá bom."      |
 
-##### Validação do Storyboard
+O storyboard apresentado ao usuário está disponível na [Figura 1](#figura-1). O participante explicou com clareza a maior parte do storyboard, demonstrando entender as etapas do processo e as ações realizadas pela personagem. Associou a funcionalidade ao uso de um e-mail ou mensagem para marcar a reunião e indicou que o quadro 3 poderia trazer uma legenda, como "participantes da reunião", com um quadro de seleção do coordenador, embora o campo "Participante" já exista no desenho. Disse que o quadro 6 confirma as informações e que o quadro 7 é uma confirmação a mais, "o que é muito bom". Disse ainda que não faltou nenhum passo além da dúvida do quadro 3.
 
-O storyboard apresentado ao usuário está disponível na [Figura 4](#figura-4) e no [link](storyboardjoao.png) para melhor visualização.
+---
 
-O participante explicou com clareza a maior parte do storyboard, demonstrando entender as etapas do processo e as ações realizadas pela personagem. Associou a funcionalidade ao uso de um e-mail ou mensagem para marcar a reunião e indicou que o quadro 3 poderia trazer uma legenda, como "participantes da reunião", com um quadro de seleção do coordenador, embora o campo "Participante" já exista no desenho. Disse que o quadro 6 confirma as informações e que o quadro 7 é uma confirmação a mais, "o que é muito bom". Disse ainda que não faltou nenhum passo além da dúvida do quadro 3.
+## 4. Relato dos resultados (Barbosa e Silva, 2021, p. 309)
 
-#### Interpretação e análise dos dados
+### 4.1 Objetivos
 
-O participante demonstrou entender bem todo o fluxo de agendamento de uma reunião com o coordenador, incluindo os passos necessários, as respostas do sistema e o status do convite, e considerou o fluxo satisfatório, ainda que "mais ou menos igual" ao que conhece do Teams.
+O objetivo da avaliação do storyboard foi analisar **problemas na interação e na interface**, para coletar dados a respeito de se o usuário entende a funcionalidade de marcar uma reunião com o coordenador do curso, os passos para realizar a tarefa e verificar se há impedimentos ou erros na diagramação.
 
-A [Tabela 2](#tabela-2) relaciona as melhorias M01 a M07 da Tabela 1-B do planejamento ao resultado da sessão. Com um participante, o resultado foi:
+### 4.2 Escopo
 
-<a id="tabela-2"></a>
+A avaliação cobre os 7 quadros do SB-A ([Figura 1](#figura-1)) e verifica as melhorias propostas M01 a M07 da Tabela 1-B da página [Planejamento da avaliação do storyboard](/planejamento/storyboard/planejamento_avaliacao_storyboard/). Ficam fora do escopo a reunião em si e outros tipos de agendamento.
 
-**Tabela 2 – Resultado por melhoria proposta**
+### 4.3 Método
+
+O método de avaliação empregado foi o de **entrevista semiestruturada**, guiada pelo storyboard, com um quadro por vez e com o participante falando em voz alta o que entende de cada quadro, seguida das seis perguntas da Tabela 3-A do planejamento (seção 3.4). A coleta de dados com o diagrama HTA do mesmo tema, feita com outro participante, está relatada em [Relato dos resultados - Análise de tarefas](../../analise_tarefas/Joao_Paulo/relato_analise_tarefas_joao_paulo.md).
+
+### 4.4 Avaliadores e participantes
+
+Um avaliador (João Paulo, autor do storyboard) e um participante do Perfil 1 (Participante A), conforme as Tabelas 3 e 4.
+
+### 4.5 Resultado por melhoria proposta
+
+A [Tabela 6](#tabela-6) relaciona as melhorias M01 a M07 da Tabela 1-B do planejamento ao resultado da sessão. Com um participante, o resultado foi:
+
+<a id="tabela-6"></a>
+
+**Tabela 6 - Resultado por melhoria proposta**
 
 | ID  | Melhoria                                             | Resultado    | Evidência                                                                                                |
 | --- | ---------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
@@ -152,9 +197,11 @@ A [Tabela 2](#tabela-2) relaciona as melhorias M01 a M07 da Tabela 1-B do planej
 
 Os resultados vêm de uma única sessão e devem ser lidos como indício, sem generalizar.
 
-#### Problemas encontrados
+### 4.6 Problemas e oportunidades de melhoria
 
-**Tabela 3 – Problemas de IHC encontrados no storyboard de agendamento**
+O participante demonstrou entender bem todo o fluxo de agendamento de uma reunião com o coordenador, incluindo os passos necessários, as respostas do sistema e o status do convite, e considerou o fluxo satisfatório, ainda que "mais ou menos igual" ao que conhece do Teams.
+
+**Tabela 7 - Problemas de IHC encontrados no storyboard de agendamento**
 
 | ID do Problema | Quadro Afetado | Ação do Usuário no Fluxo                         | Descrição da Dificuldade / Inconsistência                                                                                                                                                                                                                                                                                     | Fator de Usabilidade Afetado | Grau de Severidade |
 | -------------- | -------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------ |
@@ -163,13 +210,13 @@ Os resultados vêm de uma única sessão e devem ser lidos como indício, sem ge
 | **P03**        | Quadro 6       | Entender a tela de resumo e envio.               | Descreveu como "pop-up de notificação" em que o convite "foi enviado, vai ser enviado"; só depois entendeu como tela de confirmação.                                                                                                                                                                                          | Feedback                     | Leve               |
 | **P04**        | Quadro 1       | Entender o início da história.                   | Leu o desenho do notebook como "e-mail e senha" e supôs entrada em um portal, mas entendeu o motivo da reunião (dúvida sobre aproveitamento de disciplinas).                                                                                                                                                                  | Facilidade de Aprendizado    | Leve               |
 
-*Fonte: Elaborado pelo autor, a partir da sessão 01, no modelo da Tabela 2 do planejamento.*
+*Fonte: Elaborado pelo autor, a partir da sessão 01.*
 
-#### Planejamento para o reprojeto do sistema
+### 4.7 Planejamento para o reprojeto
 
 Para o reprojeto do sistema, as ações são as da tabela abaixo. No quadro 3, o rótulo do campo ("Participantes da reunião") e o cargo de cada sugestão devem ficar mais visíveis. No quadro 6, a revisão (resumo e botão de envio) deve ficar separada da confirmação de envio, ou o texto da confirmação deve ser reforçado. No quadro 2, o botão "Nova reunião" deve ganhar destaque, e no quadro 1 o notebook pode ser trocado por uma cena mais clara.
 
-**Tabela 4 – Encaminhamentos após a avaliação**
+**Tabela 8 - Encaminhamentos após a avaliação**
 
 | ID  | Ação ou Encaminhamento                                              | Responsável(is) | Prazo     |
 | --- | ------------------------------------------------------------------- | --------------- | --------- |
@@ -180,10 +227,17 @@ Para o reprojeto do sistema, as ações são as da tabela abaixo. No quadro 3, o
 
 ---
 
+## 5. Referências bibliográficas
+
+- BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 2021.
+- PREECE, J.; ROGERS, Y.; SHARP, H. **Design de Interação**. 2005.
+- NIELSEN, J. **Usability Engineering**. 1993.
+
 ---
 
-## Histórico de versão
+## 6. Histórico de versões
 
-| Versão | Data       | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---------- | --------- | --------- | ----------- |
-| `1.0` | 05/11/2026 | Separação da parte de João Paulo em uma pasta própria | João Paulo da Silva Pereira | |
+| Versão | Data       | Descrição                                                                         | Autor(es)                   | Revisor(es) |
+| ------ | ---------- | --------------------------------------------------------------------------------- | --------------------------- | ----------- |
+| `1.0`  | 05/11/2026 | Separação da parte de João Paulo em uma pasta própria                             | João Paulo da Silva Pereira |             |
+| `1.1`  | 20/11/2026 | Reorganização no formato do relato individual, com numeração de seções e tabelas  | João Paulo da Silva Pereira |             |
