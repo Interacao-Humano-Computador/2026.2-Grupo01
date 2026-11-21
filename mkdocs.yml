@@ -44,17 +44,22 @@ nav:
 
 
   - Análise de Requisitos:
-    - Coleta de dados:
-      - Coleta de dados: analise_de_requisitos/coleta_de_dados.md
-      - Entrevista Rayca: Entrevistas/entrevista_rayca.md
-      - Entrevista João: Entrevistas/entrevista_joao.md
+    - Coleta de dados: analise_de_requisitos/coleta_de_dados.md
     - Perfil de usuário: analise_de_requisitos/perfil_usuarios.md
     - Personas: analise_de_requisitos/personas.md
     - Cenários: analise_de_requisitos/cenarios.md
+
+    - Evellyn Rocha:
+        - Cenários: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Cenários_evellyn.md"
+        - Coleta: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Coleta_evellyn.md"
+        - Perfil de usuário: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Perfil_Usuario_evellyn.md"
+        - Personas: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Personas_evellyn.md"
+
     - Análise de Tarefas:
-      - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
-      - Análise Hierárquica de Tarefas - Evellyn: analise_de_requisitos/analise_de_tarefas/hta_Evellyn.md
-      - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
+        - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
+        - Análise Hierárquica de Tarefas - Evellyn: analise_de_requisitos/analise_de_tarefas/hta_Evellyn.md
+        - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
+
     - Princípios Gerais do projeto: analise_de_requisitos/principios_gerais.md
     - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md
     - Guia de Estilo: analise_de_requisitos/guia_estilo.md
