@@ -112,7 +112,12 @@ nav:
 
 
   - Atas e Apresentações: atas/reunioes.md
-  - Inspeções: inspecoes/inspecao.md
+  - Inspeção:
+    - Inspeções dos grupos:
+      - Inspeção etapa 1: inspecoes/inspecao.md  
+    - Listas de verificação:
+      - Etapa 1:
+        - Lista de verificação etapa 1: inspecoes/listas_de_verificacao/verificacao_etapa_1/verificacao_etapa_1.md
   - Entrevistas: Entrevistas/entrevistas.md
 
 markdown_extensions:
