@@ -54,10 +54,11 @@ nav:
         - Coleta: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Coleta_evellyn.md"
         - Perfil de usuário: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Perfil_Usuario_evellyn.md"
         - Personas: "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/Personas_evellyn.md"
+        - Árvores de Tarefas Concorrentes (CTT): "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/ctt_evellyn.md"
+        - Análise Hierárquica de Tarefas (HTA): "analise_de_requisitos/analise_de_tarefas/Evellyn Rocha/hta_evellyn.md"
 
     - Análise de Tarefas:
         - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
-        - Análise Hierárquica de Tarefas - Evellyn: analise_de_requisitos/analise_de_tarefas/hta_Evellyn.md
         - Análise Hierárquica de Tarefas - João Paulo: analise_de_requisitos/analise_de_tarefas/Joao_Paulo/hta.md
         - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
         - Árvores de Tarefas Concorrentes - João Paulo: analise_de_requisitos/analise_de_tarefas/Joao_Paulo/ctt.md
