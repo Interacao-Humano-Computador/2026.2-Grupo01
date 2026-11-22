@@ -80,8 +80,6 @@ A análise por Árvore de Tarefas Concorrentes (CTT) do perfil do estudante mode
 
 <p align="center">Autor - João Paulo da Silva Pereira.</p>
 
-*[Adicione a imagem do diagrama CTT em `docs/assets/diagrama-ctt-estudante-agendamento.png`.]*
-
 ---
 
 ## 4. Referências Bibliográficas
