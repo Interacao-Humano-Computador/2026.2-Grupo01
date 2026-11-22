@@ -3,8 +3,8 @@
 | Data       | Contribuição                                                                                                  | Autor(es)     | Revisor(es) |
 | ---------- | ------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
 | 05/10/2026 | Criação da página.                                                                                            | Lucas Sales   |             |
-| 05/10/2026 | Adição das seções introdução, layout e organização espacial, tipografia, símbolos e ícones (estilo atual do Teams) | Lucas Sales   |             |
-| 06/10/2026 | Elaboração do guia visual unificado para o redesenho: tipografia, janelas, cores, grids, layout e padrões     | João Paulo    |             |
+| 05/10/2026 | Adição das seções introdução, layout e organização espacial, tipografia, símbolos e ícones (estilo atual do Teams) | Lucas Sales   | Evellyn Rocha            |
+| 06/10/2026 | Elaboração do guia visual unificado para o redesenho: tipografia, janelas, cores, grids, layout e padrões     | João Paulo    |    Evellyn Rocha         |
 
 ## 1. Introdução
 
