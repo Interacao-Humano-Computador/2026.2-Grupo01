@@ -58,7 +58,9 @@ nav:
     - Análise de Tarefas:
         - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_de_tarefas/hta.md
         - Análise Hierárquica de Tarefas - Evellyn: analise_de_requisitos/analise_de_tarefas/hta_Evellyn.md
+        - Análise Hierárquica de Tarefas - João Paulo: analise_de_requisitos/analise_de_tarefas/Joao_Paulo/hta.md
         - Árvores de Tarefas Concorrentes: analise_de_requisitos/analise_de_tarefas/ctt.md
+        - Árvores de Tarefas Concorrentes - João Paulo: analise_de_requisitos/analise_de_tarefas/Joao_Paulo/ctt.md
 
     - Princípios Gerais do projeto: analise_de_requisitos/principios_gerais.md
     - Características Gerais: analise_de_requisitos/caracteristicas_gerais.md
