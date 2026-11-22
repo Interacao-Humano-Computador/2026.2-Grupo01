@@ -65,6 +65,7 @@ Conteúdo de Fagan (1976).
 
 ## Os entregáveis
 Para a entrega da etapa 1, os seguintes itens devem ser apresentados:
+
 1. Equipe, 
 2. Heatmap de disponibilidade dos integrantes, 
 3. Lista de sites avaliados, 
