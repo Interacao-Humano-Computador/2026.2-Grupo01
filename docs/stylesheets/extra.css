@@ -16,3 +16,39 @@
   display: block;
   margin: 0 auto;
 }
+
+/* ===== Lista de verificação – Etapa 3 ===== */
+/* Alarga só a página que contém a tabela da lista */
+.md-main__inner.md-grid:has(.tabela-lista) { max-width: 90rem; }
+
+.tabela-lista { overflow-x: auto; }
+.tabela-lista table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 0.75rem;
+}
+.tabela-lista th,
+.tabela-lista td {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  padding: 0.5em 0.7em;
+  vertical-align: top;
+  text-align: left;
+}
+.tabela-lista thead th {
+  background: var(--md-default-fg-color--lightest);
+  text-align: center;
+}
+.tabela-lista col.c-n { width: 5.5%; }
+.tabela-lista col.c-q { width: 62%; }
+.tabela-lista col.c-r { width: 12%; }
+.tabela-lista col.c-o { width: 20.5%; }
+.tabela-lista tr.secao td { background: var(--md-default-fg-color--lightest); }
+.tabela-lista td p { margin: 0 0 0.5em; }
+.tabela-lista .fotos img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.3em 0 0.8em;
+  border: 1px solid var(--md-default-fg-color--lighter);
+}
