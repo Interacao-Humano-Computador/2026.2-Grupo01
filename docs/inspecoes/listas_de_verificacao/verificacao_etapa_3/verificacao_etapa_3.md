@@ -59,35 +59,6 @@ Origem de todos os itens C10–C17: *Plano de Ensino FIHC 02/2026, Turma 01 (SAL
 | C16 | O Guia de Estilo possui a estrutura: 1 Introdução; 2 Resultados de análise; 3 Elementos de interface (grid, janelas, tipografia, cores); 4 Elementos de interação; 5 Elementos de ação; 6 Vocabulário e padrões? | As seis seções e a foto do texto da fonte sobre a estrutura do guia de estilo. | | |
 | C17 | O Guia de Estilo corresponde ao site avaliado? | Mesmo site na análise e no redesenho. | | |
 
-#### Campos "Foto" dos itens C10 a C17
-
-Cada item possui um campo **Foto** para anexar a referência bibliográfica da fonte e a foto do texto. Situação atual dos campos:
-
-- **C10** – 10 - As características da plataforma para o projeto.
-- **C11** – 11 - Os Princípios Gerais do Projeto que serão utilizados no projeto? *(Adicionar referência bibliográfica da fonte e foto do texto da referência. Autor: ___)*
-- **C12** – 12 - Os Princípios Gerais do Projeto contêm os seguintes tópicos:
-  1. correspondência com as expectativas dos usuários;
-  2. simplicidade nas estruturas das tarefas;
-  3. equilíbrio entre controle e liberdade do usuário;
-  4. consistência e padronização; promoção da eficiência do usuário;
-  5. antecipação das necessidades do usuário;
-  6. visibilidade e reconhecimento;
-  7. conteúdo relevante e expressão adequada; e
-  8. projeto para erros.
-
-  *(Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os tópicos dos Princípios Gerais do Projeto. Autor: ___)*
-- **C13** – 13 - As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC. *(Adicionar referência bibliográfica da fonte e foto do texto. Autor: ___)*
-- **C14** – 14 - A razão da seleção das metas de usabilidade?
-- **C15** – 15 - O Guia de Estilo do projeto? *(Adicionar referência bibliográfica da fonte e foto do texto explicando guia de estilo. Autor: ___)*
-- **C16** – 16 - O Guia de Estilo do projeto possui a seguinte estrutura:
-  1. **Introdução:** objetivo do guia de estilo; organização e conteúdo do guia; público-alvo do guia de estilos (programadores, gerentes, equipe de suporte); como utilizar o guia (em produção e manutenção); como manter o guia.
-  2. **Resultados de análise:** descrição do ambiente de trabalho do usuário.
-  3. **Elementos de interface:** disposição espacial e grid; janelas; tipografia; cores.
-  4. **Elementos de interação:** estilos de interação; seleção de um estilo; aceleradores (teclas de atalho).
-  5. **Elementos de ação:** preenchimento de campos; seleção; ativação.
-  6. **Vocabulário e padrões:** terminologia; tipos de tela (para tarefas comuns); sequências de diálogos (por exemplo, para feedback ou confirmação de uma operação).
-
-  *(Adicionar referência bibliográfica da fonte e foto do texto explicando a estrutura do guia de estilo. Autor: ___)*
 - **C17** – 17 - O Guia de Estilo corresponde ao site avaliado?
 
 ### Itens elaborados pelo grupo (G18 a G21)
