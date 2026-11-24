@@ -63,24 +63,6 @@ Origem de todos os itens C02–C13: *Plano de Ensino FIHC 02/2026, Turma 01 (SAL
 | C12 | O resultado do teste piloto não será apresentado no resultado da avaliação? | Regra de descarte dos dados do piloto. | | |
 | C13 | O GitHub Pages apresenta os itens que o avaliador deve realizar e anotar durante a avaliação (listar os problemas encontrados e priorizar a correção dos não resolvidos)? | Itens de registro do avaliador. | | |
 
-#### Campos "Foto" dos itens C02 a C13
-
-Cada item possui um campo **Foto** para anexar a referência bibliográfica da fonte e a foto do texto. Situação atual dos campos:
-
-- **C02** – 2 - O planejamento da avaliação segue o Framework DECIDE?
-- **C03** – 3 - Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)
-- **C04** – 4 - Os métodos de avaliação a serem utilizados? *(Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os métodos de avaliação. Autor: ___)*
-- **C05** – 5 - As questões práticas da avaliação (sobre o recrutamento dos usuários que participarão da avaliação — onde e o perfil; quantos usuários participarão da avaliação e a razão dessa quantidade; presencial real ou remota; a preparação e o uso dos equipamentos necessários; os prazos; o orçamento; recursos de mão de obra necessária para conduzir a avaliação)?
-- **C06** – 6 - As questões éticas (se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação)?
-- **C07** – 7 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc.)?
-- **C08** – 8 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas?
-- **C09** – 9 - Cada desenho do StoryBoard está relacionado a uma especificação do artefato da Análise de Tarefas?
-- **C10** – 10 - A quantidade de storyboards é igual à quantidade de integrantes do grupo?
-- **C11** – 11 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? *(Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o teste piloto. Autor: ___)*
-- **C12** – 12 - O resultado do teste piloto não será apresentado no resultado da avaliação?
-- **C13** – 13 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)?
-
-## Referências
 
 1. SALES, A. B. de. *Plano de Ensino da disciplina de Interação Humano-Computador.* FCTE/UnB, 2026.
 2. BARBOSA, S. D. J. et al. *Interação Humano-Computador e Experiência do Usuário.* 2021.
