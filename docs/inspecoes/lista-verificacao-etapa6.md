@@ -69,7 +69,7 @@ Todas as avaliações foram feitas em **08/11/2026, das 19:15 às 19:45**.
 
 **Pergunta de cada item:** "O GitHub Pages possui: …"
 **Autor de todos os itens:** João Paulo da Silva Pereira
-**Origem de todos os itens:** Lista de verificação sugerida para as entregas do projeto (CONFIA.pdf), Entrega 1 – Itens do Desenvolvimento do projeto.
+**Origem de todos os itens:** Lista de verificação sugerida para as entregas do projeto (planoensino.pdf), Entrega 1 – Itens do Desenvolvimento do projeto.
 
 ### D01 — O histórico de versão está padronizado?
 
