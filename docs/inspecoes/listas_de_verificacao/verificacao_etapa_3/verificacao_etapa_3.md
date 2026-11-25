@@ -4,7 +4,7 @@
 
 Disciplina: Interação Humano Computador | Professor: André Barros de Sales
 
-# Lista de verificação — Etapa 3
+# Lista de verificação — Etapa 3.
 
 **Princípios Gerais de Projeto, Metas de Usabilidade, Guia de Estilo e Características da Plataforma (fase: análise de requisitos)**
 
