@@ -1,4 +1,4 @@
-# Lista de verificação — Etapa 6
+# Lista de verificação — Etapa 6.
 
 **Universidade de Brasília – Campus UnB Gama**
 **Disciplina:** Interação Humano Computador | **Professor:** André Barros de Sales
