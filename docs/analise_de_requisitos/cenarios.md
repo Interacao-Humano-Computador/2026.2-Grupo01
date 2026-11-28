@@ -78,6 +78,24 @@ Mesmo depois de tudo publicado, alguns alunos, principalmente os mais velhos, n�
 | **Pós-condições:**                  | Aula ministrada, gravação disponível no chat e slides publicados, de modo que os alunos consigam localizá-los. |
 | **Avaliação de IHC:**               | O sistema facilita o controle da sala e a gravação sem poluir a visão da apresentação? Fica claro em qual espaço anexar o material? O envio de arquivos mostra o progresso ao usuário? |
 
+#### 3. Cenário 02: Agendamento de Reunião pelo Docente
+
+> Cenário elaborado a partir da entrevista com a participante P01, que cita "marcar reuniões pelo Teams" entre suas atividades. Os passos de detalhe são hipóteses de uso a validar nos testes com usuários.
+
+**Narrativa.** Em seu horário reservado do dia, com as notificações desativadas, Helena abre o Teams e decide marcar uma reunião com um aluno que a procurou. Ela quer fazer isso sem hesitar e sem abrir várias ferramentas. Procura onde começar o agendamento, escolhe data e horário, convida o aluno e confirma. Se a tela tiver opções demais, ela não sabe por onde iniciar e pede ajuda a quem organiza o curso. Como não vê notificações, precisa conferir na própria tela se o convite foi enviado, pois o aluno pode, em vez de responder no Teams, escrever por WhatsApp ou e-mail.
+
+| Campo                               | Detalhes do Cenário de Uso |
+| :---------------------------------- | :------------------------- |
+| **Identificador e Título:**         | **Cenário 02:** Agendamento de Reunião com um Aluno pelo Docente. |
+| **Ator Protagonista:**              | Helena Ribeiro (Perfil 2: Professor). |
+| **Objetivo do Ator:**               | Marcar uma reunião com um aluno em data e horário definidos e ter certeza de que o convite foi enviado. |
+| **Contexto de Uso:**                | Computador ou tablet, no horário que ela reserva para a plataforma, sem notificações ativas. |
+| **Precondições:**                   | 1. Helena está autenticada com a conta institucional.<br>2. O aluno faz parte da equipe da turma ou é localizável pelo nome. |
+| **Fluxo Principal:**                | **1.** Localizar a opção de agendar reunião.<br>**2.** Escolher data e horário.<br>**3.** Adicionar o aluno como convidado.<br>**4.** Confirmar o envio do convite.<br>**5.** Conferir na tela que a reunião aparece como agendada. |
+| **Fluxos Alternativos / Exceções:** | **FA01 - Dúvida sobre onde começar:** No passo 1, com muitas opções na tela, Helena não sabe qual usar.<br>**Solução:** Recorre ao suporte de quem organiza o curso.<br>**FA02 - Aluno responde por outro canal:** Depois do convite, o aluno responde por WhatsApp ou e-mail.<br>**Solução:** Helena responde por esse canal. |
+| **Pós-condições:**                  | Reunião agendada e visível no calendário de Helena, com o convite enviado ao aluno. |
+| **Avaliação de IHC:**               | Fica evidente por onde iniciar o agendamento? A tela confirma que o convite foi enviado, sem depender de notificação? |
+
 ---
 ### 3.3. Perfil 3: Funcionário
 
@@ -133,4 +151,4 @@ Em uma manhã de segunda-feira, Roberto encontra-se em seu escritório em modo *
 | `1.0`  | 27/09/2026 | Criação da página.                                                      | Lucas Sales      | Luccas Rodrigues |
 | `1.1`  | 27/09/2026 | Adição do cenário Esclarecimento de uma dúvida com colegas de trabalho. | Lucas Sales      | Luccas Rodrigues |
 | `1.2`  | 27/09/2026 | Atualização de estrutura da página                                      | Luccas Rodrigues | Lucas Sales      |
-
+| `1.3`  | 28/11/2026 | Adição do Cenário 02 (Agendamento de reunião pelo docente). | João Paulo, Claude (IA) | Lucas Sales |
