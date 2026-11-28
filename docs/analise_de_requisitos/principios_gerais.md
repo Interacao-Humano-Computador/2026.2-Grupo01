@@ -4,8 +4,8 @@
 
 | Data | Contribuição | Autor(es) | Revisor(es) |
 | ---------- | ------------------ | ----------- | ----------- |
-| 05/10/2026 | Criação da página. | Lucas Sales | |
-| 06/10/2026 | Aplicação dos Princípios Gerais de Projeto de IHC ao Microsoft Teams, com base nos problemas identificados na entrevista com o estudante João. | Evellyn de Sousa Rocha | |
+| 05/10/2026 | Criação da página. | Lucas Sales |João Paulo |
+| 06/10/2026 | Aplicação dos Princípios Gerais de Projeto de IHC ao Microsoft Teams, com base nos problemas identificados na entrevista com o estudante João. | Evellyn de Sousa Rocha |João Paulo |
 | 06/10/2026 | Revisão e ampliação do texto: introdução, detalhamento dos princípios e considerações finais. | João Paulo | |
 
 ---
@@ -165,9 +165,9 @@ As soluções propostas partem dos problemas relatados na entrevista com o estud
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---------- | ------------------ | ----------- | ----------- |
-| `1.0` | 05/10/2026 | Criação da página. | Lucas Sales | |
-| `1.1` | 06/10/2026 | Inclusão da aplicação dos Princípios Gerais de Projeto de IHC e das diretrizes de redesign. | Evellyn de Sousa Rocha | |
-| `1.2` | 06/10/2026 | Revisão e ampliação do texto da página. | João Paulo | |
+| `1.0` | 05/10/2026 | Criação da página. | Lucas Sales | João Paulo |
+| `1.1` | 06/10/2026 | Inclusão da aplicação dos Princípios Gerais de Projeto de IHC e das diretrizes de redesign. | Evellyn de Sousa Rocha | João Paulo |
+| `1.2` | 06/10/2026 | Revisão e ampliação do texto da página. | João Paulo | João Paulo |
 
 ## 6. Referência
 
