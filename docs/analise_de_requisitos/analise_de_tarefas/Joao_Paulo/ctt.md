@@ -4,8 +4,8 @@
 
 | Data       | Contribuição | Autor(es) | Revisor(es) |
 | ---------- | ------------ | --------- | ----------- |
-| 22/11/2026 | Criação da página da CTT do agendamento de reunião com o coordenador do curso (Perfil 1: Estudante) | João Paulo da Silva Pereira |  |
-| 22/11/2026 | Estruturação textual, tabelas e formatação, com uma ferramenta de IA (Claude), conforme a política de uso de IA da disciplina | Claude (IA) | João Paulo da Silva Pereira |
+| 22/11/2026 | Criação da página da CTT do agendamento de reunião com o coordenador do curso (Perfil 1: Estudante) | João Paulo da Silva Pereira | Evellyn |
+
 
 ## 1. Introdução e Fundamentação Teórica
 
