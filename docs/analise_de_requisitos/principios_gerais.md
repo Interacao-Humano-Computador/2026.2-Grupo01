@@ -6,13 +6,7 @@
 | ---------- | ------------------ | ----------- | ----------- |
 | 05/10/2026 | Criação da página. | Lucas Sales | |
 | 06/10/2026 | Aplicação dos Princípios Gerais de Projeto de IHC ao Microsoft Teams, com base nos problemas identificados na entrevista com o estudante João. | Evellyn de Sousa Rocha | |
-
-## Histórico de versão
-
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---------- | ------------------ | ----------- | ----------- |
-| `1.0` | 05/10/2026 | Criação da página. | Lucas Sales | |
-| `1.1` | 06/10/2026 | Inclusão da aplicação dos Princípios Gerais de Projeto de IHC e das diretrizes de redesign. | Evellyn de Sousa Rocha | |
+| 06/10/2026 | Revisão e ampliação do texto: introdução, detalhamento dos princípios e considerações finais. | João Paulo | |
 
 ---
 
@@ -23,6 +17,8 @@ Os **Princípios Gerais de Projeto de IHC**, apresentados por Barbosa e Silva, p
 No contexto deste projeto, os princípios são aplicados ao **Microsoft Teams**, considerando principalmente os problemas identificados na entrevista com o estudante João, como **poluição visual, dificuldade para localizar arquivos e notificações invasivas**.
 
 A aplicação dos princípios busca transformar os problemas identificados em **diretrizes concretas de interface**, contribuindo para uma experiência mais simples e adequada ao contexto acadêmico.
+
+Cada princípio é apresentado em três partes: o **princípio** em si, a sua **aplicação no Teams** e o **ganho esperado** para o estudante. Em seguida, a seção 3 relaciona princípios, problemas e soluções, e a seção 4 reúne as diretrizes de redesign. Os princípios funcionam como critérios de projeto: ajudam a decidir o que mudar e permitem conferir, depois, se a mudança resolveu o problema.
 
 ---
 
@@ -38,6 +34,7 @@ A interface deve seguir a linguagem, o vocabulário e o modelo mental do usuári
 
 - **Organização acadêmica:** estruturar os canais e abas das equipes utilizando nomenclaturas relacionadas ao contexto universitário, como *"Materiais Didáticos"*, *"Gravações de Aula"* e *"Entregas"*.
 - **Redução de jargões:** evitar termos técnicos relacionados ao ecossistema Microsoft/SharePoint que possam dificultar tarefas como salvar e compartilhar arquivos.
+- **Ganho esperado:** o estudante reconhece onde cada coisa está porque os nomes seguem o vocabulário que ele já usa na universidade.
 
 ---
 
@@ -51,6 +48,7 @@ A interface deve reduzir a quantidade de etapas necessárias para realizar uma t
 
 - **Atalho direto para arquivos:** permitir que os materiais da disciplina sejam visualizados e baixados em no máximo **1 ou 2 cliques** a partir da tela da turma.
 - **Ações visíveis:** disponibilizar o botão **"Baixar"** diretamente sobre o documento, evitando esconder a ação dentro de menus adicionais, como o menu de três pontos (`...`).
+- **Ganho esperado:** menos cliques e menos desvios entre a intenção do estudante e o resultado, o que reduz o tempo e a frustração em tarefas rotineiras.
 
 ---
 
@@ -64,6 +62,7 @@ O usuário não deve precisar memorizar em qual tela, canal ou pasta uma determi
 
 - **Painel de recentes da disciplina:** apresentar na página inicial do canal os últimos materiais publicados pelo professor e o link direto para a reunião síncrona atual.
 - **Redução da necessidade de memorizar caminhos:** evitar que o estudante precise lembrar em qual canal ou pasta um determinado PDF foi disponibilizado.
+- **Ganho esperado:** o estudante reconhece o que precisa na tela em vez de lembrar caminhos, o que ajuda principalmente quem usa o Teams de forma esporádica.
 
 ---
 
@@ -78,6 +77,7 @@ A interface deve evitar informações irrelevantes ou pouco utilizadas, pois ele
 - **Modo Estudo/Foco:** permitir ocultar guias e funcionalidades secundárias, mantendo o foco nas atividades acadêmicas.
 - **Menu lateral simplificado:** priorizar módulos utilizados na rotina acadêmica, como **Equipes, Arquivos, Chat e Reuniões**.
 - **Redução da poluição visual:** diminuir a quantidade de funcionalidades apresentadas simultaneamente ao estudante.
+- **Ganho esperado:** menos elementos competindo pela atenção, com foco no que importa para a rotina acadêmica.
 
 ---
 
@@ -91,6 +91,7 @@ O sistema deve oferecer ao usuário controle sobre a interação e disponibiliza
 
 - **Gerenciamento de notificações:** disponibilizar uma opção de **"Não Perturbe" ou "Foco nos Estudos"** para silenciar notificações durante atividades acadêmicas.
 - **Navegação segura:** disponibilizar opções claras de **"Voltar"** e **"Cancelar"** durante operações como carregamento ou download de arquivos.
+- **Ganho esperado:** o estudante decide quando quer ser interrompido e pode desfazer ou interromper uma operação sem medo de perder o trabalho.
 
 ---
 
@@ -104,6 +105,7 @@ A interface deve oferecer recursos que tornem mais rápidas as tarefas realizada
 
 - **Busca global aprimorada:** permitir filtros por informações como **nome do professor, mês/ano e tipo de arquivo**, facilitando a localização de conversas e materiais.
 - **Atalhos de teclado:** disponibilizar e destacar atalhos para usuários que realizam tarefas frequentes, como `Ctrl+E` para acessar a busca.
+- **Ganho esperado:** usuários frequentes realizam tarefas repetidas mais rápido, sem prejudicar quem está começando.
 
 ---
 
@@ -117,6 +119,7 @@ O sistema deve procurar prevenir erros e, quando eles ocorrerem, apresentar mens
 
 - **Prevenção de áudio aberto:** sinalizar de maneira clara quando o microfone estiver ativado ao entrar em uma reunião.
 - **Tratamento de falhas de download:** caso ocorra uma interrupção durante o download de um arquivo, apresentar uma mensagem em linguagem simples e disponibilizar a opção **"Tentar novamente"**, evitando mensagens de erro pouco compreensíveis.
+- **Ganho esperado:** menos erros e, quando eles acontecem, recuperação rápida, com mensagens que dizem o que houve e o que fazer.
 
 ---
 
@@ -151,6 +154,21 @@ A partir da aplicação dos princípios, são propostas as seguintes diretrizes 
 
 ---
 
-## 5. Referência
+## 5. Considerações finais
+
+Os sete princípios se complementam: a simplicidade e o minimalismo reduzem a carga visual, a visibilidade e a correspondência com as expectativas diminuem o esforço de memória, e o controle, a eficiência e a prevenção de erros dão segurança ao uso. Por isso, as diretrizes da seção 4 devem ser aplicadas em conjunto, e não isoladamente.
+
+As soluções propostas partem dos problemas relatados na entrevista com o estudante e ainda precisam ser confrontadas com outros perfis e com os testes de usabilidade do projeto. Os resultados dessas avaliações podem confirmar, ajustar ou descartar cada diretriz.
+
+---
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---------- | ------------------ | ----------- | ----------- |
+| `1.0` | 05/10/2026 | Criação da página. | Lucas Sales | |
+| `1.1` | 06/10/2026 | Inclusão da aplicação dos Princípios Gerais de Projeto de IHC e das diretrizes de redesign. | Evellyn de Sousa Rocha | |
+| `1.2` | 06/10/2026 | Revisão e ampliação do texto da página. | João Paulo | |
+
+## 6. Referência
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
