@@ -53,3 +53,4 @@ Desta forma, pelo nível de detalhes apresentados, foi escolhida a **Engenharia 
 | Versão | Data       | Descrição          | Autor(es)   | Revisor(es)      |
 | ------ | ---------- | ------------------ | ----------- | ---------------- |
 | `1.0`  | 05/09/2026 | Criação da página. | Lucas Sales | Luccas Rodrigues |
+| `2.0`  | 07/09/2026 | Conteudo | João Paulo | Lucas Sales |
