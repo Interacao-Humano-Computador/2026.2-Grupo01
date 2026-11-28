@@ -34,6 +34,6 @@ As pautas, atas e deliberações documentadas representam fielmente os encontros
 | Versão | Data       | Descrição                                         | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | ------------------------------------------------- | ---------------- | ---------------- |
 | `1.0`  | 06/09/2026 | Criação da página de atas, tabela de registros e link para apresentação da Entrega 1 | Igor Alves | Lucas Sales |
-| `1.1`  | 10/09/2026 | Adição dos links da apresentação da Entrega 1 e da Reunião do Dia 09/09 | Luccas Rodrigues | Rayca |
+| `1.1`  | 10/09/2026 | Adição dos links da apresentação da Entrega 1 e da Reunião do Dia 09/09 | João Paulo | Rayca |
 | `2.0`  | 19/09/2026 | Adição das atas e link da Reunião do Dia 16/09 | Luccas Rodrigues | |
 | `2.1`  | 23/09/2026 | Correção da Tabela 1 | Luccas Rodrigues Santos | |
