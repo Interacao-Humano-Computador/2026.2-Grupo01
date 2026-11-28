@@ -39,4 +39,4 @@ Descreve as ações baseadas nos resultados da avaliação, sugerindo mudanças 
 
 | Versão | Data       | Descrição                                                        | Autor(es)  | Revisor(es) |
 | ------ | ---------- | ---------------------------------------------------------------- | ---------- | ----------- |
-| `1.0`  | 13/10/2026 | Criação da página: planejamento do relato dos resultados.        | João Paulo | A definir   |
+| `1.0`  | 13/10/2026 | Criação da página: planejamento do relato dos resultados.        | João Paulo | Evellyn   |
