@@ -4,7 +4,7 @@
 
 | Data       | Contribuição                                                                 | Autor(es)               | Revisor(es)      |
 | ---------- | ---------------------------------------------------------------------------- | ----------------------- | ---------------- |
-| 28/11/2026 | Criação da página.      | João Paulo | [PREENCHER]      |
+| 28/11/2026 | Criação da página.      | João Paulo | Evellyn      |
 
 ## 1. Introdução
 
